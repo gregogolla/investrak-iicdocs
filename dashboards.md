@@ -2,7 +2,7 @@
 Use the dashboard area to view numbers, tables and graphs that provide a summary of fund in general or for the account of the currently logged in member.
 
 ##	Fund Dashboard
-![alt text](images/4.1_fund_Dashboard.png "fund Dashboard")
+![alt text](images/4.1_fund_Dashboard.PNG "fund Dashboard")
 
 Under the Fund Dashboard area, members can view the following :
 

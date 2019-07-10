@@ -49,4 +49,4 @@ This page is used to Add, Edit or Delete document records. The page is similar t
 
 This page is used for reconciliation. It combines and lists all transactions in chronological order with a running total. It is useful to compare with bank statements for determining cash position.
 
-![alt text](images/6.7_All_Transactions.png "all transactions")
+![alt text](images/6.7_All_Transactions.PNG "all transactions")
