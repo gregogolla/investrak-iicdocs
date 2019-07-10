@@ -61,7 +61,7 @@ Detail on the profile page include
 -	`Address` – Physical address or P. O. Box that member can be reached at.
 -	`Participation dates` -  a calendar grid that keeps track of the time ranges for which a member is part of the fund.
 
-!> **Note** It is important that the treasurer accurately records your `Participation Dates` so that arrears and dues can be calculated correctly.
+!> **Note** It is important that the Administrator accurately records your `Participation Dates` so that arrears and dues can be calculated correctly.
 
 ## Change password
 To change password, click the Password button from the drop-down list under you name.
