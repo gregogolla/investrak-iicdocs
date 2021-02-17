@@ -1,4 +1,4 @@
-# InvesTrak Insurer's Investment Club
+# InvesTrak IIC
 
 > Welcome to the Insurer's Investment Club Application user guide.
 >The InvesTrak application automates the management your investment club.
