@@ -1,20 +1,21 @@
 <!-- docs/_sidebar.md -->
-[**Welcome**](/#InvesTrak-IIC)
+[**Welcome**](/#InvesTrak-Insurers-Investment-Club)
 
 [**Accessing the Site**](logging-in.md)
 
 [**Navigating the Application**](overview.md)
 
-[**Top Banner Content**](top-banner.md)
+[**Home Page**](home-page.md)
 
-[**The Dashboards Area**](dashboards.md)
+[**Savings Module**](savings.md)
 
-[**Finances Area**](finances.md)
+[**Loans Module**](loans.md)
 
-[**Documents**](documents.md)
+[**Investments Module**](investments.md)
 
-[**Send Statements**](send-statements.md)
+[**Fund Activity module**](fund_activity.md)
 
-[**Manage Records**](manage-records.md)
+[**Member Accounts**](member-accounts.md)
 
-[**Admin**](admin.md)
+
+[**Reports**](reports.md)

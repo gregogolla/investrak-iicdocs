@@ -20,14 +20,13 @@ Your name will appear on the top right to show you are `Logged in`.
 </div>
 
 ##	Resetting lost password
+
+![alt text](images/1.3_Lost_password.png "lost password") 
+
 If you need to reset your password, do the following:
 
-  -	Click on the `Lost Password` button from the login screen
+  1.	Click on the `Reset Here` button at the bottom of the login screen
+  1.	Provide your email address.  
+  1.	Click on the `Request reset password` button
 
-|  Lost Password             |  Request Password |
-  :-------------------------:|:-------------------------:
-![alt text](images/1.3_Lost_password.png "lost password") | ![alt text](images/1.4_Request_password.png "request password")
-
-  -	Provide your email address.  
-  -	Click on the `Request reset password` button
-  -	You’ll receive an email with a link to reset your password.
+  You’ll receive an email with a link to reset your password.
