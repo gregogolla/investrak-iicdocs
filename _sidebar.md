@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-[**Welcome**](/#investrak-20-application)
+[**Welcome**](/#InvesTrak Insurer's Investment Club)
 
 [**Accessing the Site**](logging-in.md)
 

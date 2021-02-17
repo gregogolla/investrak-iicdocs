@@ -1,6 +1,6 @@
-# InvesTrak 2.0 Application
+# InvesTrak Insurer's Investment Club
 
-> Welcome to the Investment Tracking Application user guide.
+> Welcome to the Insurer's Investment Club Application user guide.
 >The InvesTrak application automates the management your investment club.
 
 ![alt text](images/0.1_Welcome.PNG "home page")

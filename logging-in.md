@@ -1,6 +1,6 @@
 # Access The Site
 To access the webpage and application, here is the URL:
-[https://www.investrak.club/ogollasavings](https://www.investrak.club/ogollasavings)
+[https://www.ogollas.com/insurance-dev](https://www.ogollas.com/insurance-dev)
 
 ##	Logging In
 <div style="width:400px;">
@@ -8,9 +8,8 @@ To access the webpage and application, here is the URL:
 ![alt text](images/1.1_Login.png "login page")
 </div>
 
-  1. Enter your email address  
+  1. Enter your email address  or your username
   1. Enter your password
-  1. Select the option to remember your login for 30 days
   1. Click on the `Log in` button
 
 Your name will appear on the top right to show you are `Logged in`.
