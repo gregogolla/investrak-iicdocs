@@ -35,4 +35,4 @@ Click on the three horizontal dot menu on the Manage Savings page and select any
 - `New Transfer` option to create a new transfer between two members
 - `Close Manage Mode` option to go back to the savings page
   
-![alt text](images/3.1.4_Manage_Savings_Menu.png "Search Savings")
+![alt text](images/3.1.4_Manage_Savings_Menu.png "Manage Savings menu")

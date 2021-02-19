@@ -27,4 +27,4 @@ Click on the three horizontal dot menu on the Loans page and select the `Apply f
 ## Loan Guarantee
 If you guaranteed any loans they will appear under `Guarantees` tab.
 
-![alt text](images/4.5_Loan_Gurantee_Page.png "Apply Loan")
+![alt text](images/4.5_Loan_Gurantee_Page.png "Loan Guarantee tab")
