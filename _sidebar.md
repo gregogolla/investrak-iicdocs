@@ -17,5 +17,7 @@
 
 [**Member Accounts**](member-accounts.md)
 
+[**Finance Accounts**](finance_accounts.md)
+
 
 [**Reports**](reports.md)
