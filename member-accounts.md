@@ -27,16 +27,21 @@ To login and use the platform a user's login needs to be active. All user accoun
 
   - `Active` - This is the status that all members who login to the system will normally have. The status is denoted by the colour green.
   - `Pending` - When a member initially registers into the system the user's account is saved with this status. They will be unable to login until the administrator changes the status to `Active`. The admin cannot manually set an account to this status. The status is denoted by the colour orange.
-  - `Disabled` - When a user leaves the Administrator can disable the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`. The status is denoted by the colour red.
+  - `Disabled` - When a user leaves the investment club, the Administrator can disable the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`. The status is denoted by the colour red.
+  
+<!-- tabs:start -->
+#### **Disable Profile**
+![alt text](images/9.1.2_Disable_Active_Profiles.png "Disable profile")
+<div>
+To disable a user click on the  users `Activate or Deactivate` button in the `Member Accounts` page. 
+</div>
 
-To disable a user click on the  users `Activate or Deactivate` button in the `Member Accounts` page.
-
-To activate a user whose status is `pending` or `disabled` use the same users `Activate or Deactivate` button 
-
-
-|  Disable active profile     | Enable disabled profile        |
-:----------------------------:|:-------------------------:
-![alt text](images/9.1.2_Disable_Active_Profiles.png "Member profiles search") | ![alt text](images/9.1.3_Enable_Disabled_Profile.png "Member profiles search") 
+#### **Enable Profile**
+![alt text](images/9.1.3_Enable_Disabled_Profile.png "Enable profile") 
+<div>
+To activate a user whose status is `pending` or `disabled` use the same users `Activate or Deactivate` button.
+</div>
+<!-- tabs:end -->
 
 ?> **Note** You cannot use the `status` button to change a user's status from something else to `pending`. The `pending` status is reserved for the system. A newly signed up user will automatically be marked as `pending`, until the admin changes this status. 
 
@@ -46,19 +51,25 @@ To activate a user whose status is `pending` or `disabled` use the same users `A
 
 
 ### Send Statements
+<!-- tabs:start -->
+#### **Select Recipients **
  To send multiple email statements use the checkboxes to select the members and the `Email statements` button. 
 
- ![alt text](images/9.3.1_Email_Selected.png "Email statements to selected")
+ ![alt text](images/9.3.1_Email_Selected.png "Email statements to selected") 
  
- To email statements to an individual member use the `Send email` button next to each member's name.
+ To email statements to an individual member use the Send email button next to each member's name.
 
 ![alt text](images/9.3.2_Email_Individual.png "Email statements to individual")
 
-In either case the email dialog is displayed with the member account to send the email statement to.
+#### ** Email confirm dialog **
+The email dialog is displayed with the member account(s) to send the email statement to. Before sending, you can preview the statement.
 
-|  Email Dialog               |  Preview Statement       |
-:----------------------------:|:-------------------------:
-![alt text](images/9.3_Email_Statements.png "send statements dialog")| ![alt text](images/9.3_Email_Preview.png "statement preview")
+![alt text](images/9.3_Email_Statements.png "send statements dialog")
+
+#### **Preview Statement**
+ ![alt text](images/9.3_Email_Preview.png "statement preview")
+
+<!-- tabs:end -->
 
 ## Security Groups
 

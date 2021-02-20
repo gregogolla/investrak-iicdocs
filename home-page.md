@@ -18,7 +18,7 @@ The My Total Savings widget displays a summary of all the savings contributions 
 ## My Outstanding loans
 The My Outstanding Loans widget displays a summary of outstanding loans that the users owes
 
-![alt text](images/2.3_Home_Page_My_Loans.png "My Outstanding Loans  widget"") 
+![alt text](images/2.3_Home_Page_My_Loans.png "My Outstanding Loans  widget") 
 
 ## Recent Transactions
 The recent transactions widget displays the last 10 transactions associated with the currenttly logged in user.

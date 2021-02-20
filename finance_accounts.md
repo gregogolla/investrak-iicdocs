@@ -13,13 +13,13 @@ To access the  module, click on the `Finance Accounts` link from the navigation 
 
 ![alt text](images/10.1_Finance_Account_Menu.png "Finance Accounts menu")
 
-The `Finance Accounts` module is used to record all other transactions – expenses, audit fees, bank charges etc.
+The `Finance Accounts` module is used to record the fund's transactions – expenses, audit fees, bank charges etc.
 
 ![alt text](images/10.2_Finance_Account_Page.png "Finance Accounts page")
 
 ## Searching for a Finance Account 
 
-Use the search bar `Search Finance Account` to find a particular transaction. Type a description, account code, account title to find a specific record.
+Use the search bar `Search Finance Account` to find a particular account. Type a description, account code, account title to find a specific record.
 
 ![alt text](images/10.3_Finance_Account_Search.png "Finance Accounts search")
 
@@ -30,6 +30,6 @@ Use the search bar `Search Finance Account` to find a particular transaction. Ty
 If your account has the required permissions you can add a new finance account. Click on the three horizontal dot menu on the Finance Accounts page and select the `New Account` option.
 
 
-The `New Account` dialog page opens up. Use this page to enter a new transaction.
+The `New Account` dialog page opens up. Use this page to enter a new account.
 
 ![alt text](images/10.5_Add_Finance_Account_Page.png "Add Finance Account page")
