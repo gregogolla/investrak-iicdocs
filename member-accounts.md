@@ -48,7 +48,28 @@ To activate a user whose status is `pending` or `disabled` use the same users `A
 ### Create and edit profiles
 ![alt text](images/9.2_New_Profile.png "New profile page")
 
+### Participation Dates
+!> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
 
+`Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges, the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation, especially if the member had many gaps in their membership.
+
+![alt text](images/9.2.2_Participation_Dates.png "participation dates tab")
+
+####	Add Participation dates
+To add a participation date click on the `Add Participation date` button.
+![alt text](images/9.2.4_Participation_Dates_Add_Button.png "participation dates tab")
+
+In the `New Date Range` page, provide the following information:
+
+![alt text](images/9.2.3_Participation_Dates_Add.png "Add participation dates")
+
+- `Name` – This is pre-selected based on the member record under which the add button was clicked. It can not be changed.
+- `Joined` – Select the date joined or the date rejoined after the member had previously left.
+- `Left` – This is blank if the member is active under this date range.
+- `Description` – Additional information regarding the participation date record.
+- `Leave Memo` – Additional information that can be added when the participant left.
+
+<!-- ?> **Note** If there are no participation date records that include the current date, the member's account will be marked as `inactive`. -->
 
 ### Send Statements
 <!-- tabs:start -->
