@@ -1,21 +1,21 @@
 
-# Fund Activity
+# Fund Transactions
 This page displays a table which lists the details of transactions carried out by the Fund (Revenue or Expense). 
 
-## Accessing the Fund activity module
-To access the Fund activity module, click on the `Fund Activity` link from the navigation menu.
+## Accessing the Fund transactions module
+To access the Fund activity module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Fund Transactions`.
 
-![alt text](images/5.1_Fund_Activity_Menu.png "Fund activity menu")
+![alt text](images/5.1_Fund_Transactions_Menu.png "Fund activity menu")
 
 The Fund Activity module is used to record all other transactions – expenses, audit fees, bank charges etc.
 
-![alt text](images/5.2_Fund_Activity_Page.png "Fund activity page")
+![alt text](images/5.2_Fund_Transactions_Page.png "Fund activity page")
 
 ## Searching for a Fund  transaction 
 
 Use the search bar `Search fund activity` to find a particular transaction. Type a memo, date, amount, account title to find a specific record.
 
-![alt text](images/5.3_Fund_Activity_Search.png "Fund transactions search")
+![alt text](images/5.3_Fund_Transactions_Search.png "Fund transactions search")
 
 ## Add a new Fund transaction
 

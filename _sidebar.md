@@ -13,9 +13,9 @@
 
 [**Documents Module**](documents.md)
 
-[**Investments Module**](investments.md)
+[**Fund Transactions module**](fund_trnasactions.md)
 
-[**Fund Activity module**](fund_activity.md)
+[**Fund Investments Module**](investments.md)
 
 [**Reports**](reports.md)
 
