@@ -13,7 +13,7 @@
 
 [**Documents Module**](documents.md)
 
-[**Fund Transactions module**](fund_trnasactions.md)
+[**Fund Transactions module**](fund_transactions.md)
 
 [**Fund Investments Module**](investments.md)
 
