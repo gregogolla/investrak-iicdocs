@@ -11,6 +11,8 @@
 
 [**Loans Module**](loans.md)
 
+[**Documents Module**](documents.md)
+
 [**Investments Module**](investments.md)
 
 [**Fund Activity module**](fund_activity.md)
