@@ -3,7 +3,7 @@ Displays the details of loans given to the members.
 
 ## Accessing the savings module
 
-To access the savings module, click on the `Loans` Link from the navigation menu.
+To access the savings module, click on the navigation menu as follows : `User Menu` ->`My Activity` ->  `Loans`.
 
 ![alt text](images/4.1_Loans_Menu.png "Loans menu")
 

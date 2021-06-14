@@ -5,7 +5,18 @@ The Application is built to allow easy access of all the screens and content usi
 
 
 ## The Top Banner Area
- The top banner on the screen will display some additional icons and information. It displays additional menus to help the user navigate easier and a [User profile drop-down](top-banner.md#user-drop-down) that allows you as the user to [manage  your password](top-banner.md#change-password), [manage your own profile](top-banner.md#member-profile) and also to [log off](top-banner.md#log-out) from the site.
+![alt text](images/2.1.2_Top_Banner.png "App Overview")
+ The top banner on the screen is available on every page of the application. It will display some additional icons and information as follows:
+ 
+ - The `Club Logo` is displayed on the left side of the Top banner. Clicking it will navigate the member to the home page.
+
+- The `Club Name` is displayed on the next to the Club Logo. It displays the name of the club.
+ 
+- The `Admin QuickMenu` is only availbale to the admins of the Club. It provides shortcut menus to pages that are used for administrative tasks.
+
+ - The `Member Drop-down` Icon provides the members with access to their profile, ability to reset their password or to log out from the site
+ 
+
 
 ## The Navigation Menus
 The navigation menu helps you to intuitively and easily navigate  the applications  through the the different pages and find the relevant content. The menus are grouped into links with similar content - like dashboards or finances and the groups of menus can be expanded to show the menu links under them or collapsed to reduce clutter.

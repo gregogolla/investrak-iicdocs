@@ -3,6 +3,7 @@ This is the page where the user will usually land when they log-in to the portal
 
 ![alt text](images/2.2_Home_Page.png "Home Page") 
 
+
 ## Fund summary
 The Fund summary widget displays a summary of fund's overal status - including Cash Position, Outstadning loans etc.
 

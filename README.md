@@ -1,6 +1,6 @@
-# InvesTrak Insurers Investment Club
+# InvesTrak Investment Club Platform
 
-> Welcome to the Insurer's Investment Club Application user guide.
+> Welcome to InvesTrak. This is your Investment Club's Application user guide.
 >The InvesTrak application automates the management your investment club.
 
 ![alt text](images/0.1_Welcome.PNG "home page")

@@ -1,6 +1,6 @@
 # Access The Site
 To access the webpage and application, here is the URL:
-[https://www.ogollas.com/insurance-dev](https://www.ogollas.com/insurance-dev)
+[https://www.investrak.club/insurance](https://www.investrak.club/insurance)
 
 ##	Logging In
 <!-- tabs:start -->

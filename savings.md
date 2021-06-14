@@ -3,7 +3,7 @@ Displays details of savings contributions made for each account.
 
 ## Accessing the savings module
 
-To access the savings module, click on the `Savings` Link from the navigation menu.
+To access the savings module, click on the navigation menu as follows: `User Menu` ->`My Activity` -> `Savings` Link from the navigation menu.
 
 ![alt text](images/3.1.1_Savings_Menu.png "Savings menu")
 
