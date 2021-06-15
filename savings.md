@@ -1,9 +1,9 @@
 # Savings Module
-Displays details of savings contributions made for each account. 
+This module is used to display and manage the details of members' savings contributions. 
 
 ## Accessing the savings module
 
-To access the savings module, click on the navigation menu as follows: `User Menu` ->`My Activity` -> `Savings` Link from the navigation menu.
+To access the savings module, click on the navigation menu as follows: `User Menu` ->`My Activity` -> `Savings`.
 
 ![alt text](images/3.1.1_Savings_Menu.png "Savings menu")
 
@@ -20,7 +20,7 @@ If your account has the required permissions yuu can access the manage savings m
 
 ## Searching for a transaction
 
-Use the search bar `Search Transactions` to find a particular transactions.Type a either a name or a date or part of the memo in the search field to find what you are looking for
+Use the search bar `Search Transactions` to find a particular transactions.Type a either a name or a date or part of the memo in the search field to find what you are looking for.
 
 
 ![alt text](images/3.1.3_Search_Savings_Page.png "Search Savings")
