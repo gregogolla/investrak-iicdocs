@@ -2,7 +2,7 @@
 This reports module provides an overview of the financial health of the investment club. 
 
 ## Accessing the reports module
-To access the reports module, click on the `Reports` link from the navigation menu.
+To access the reports module, click on the navigation menu as follows : `User Menu` ->`Fund Activity` ->  `Reports`.
 
 ![alt text](images/8.1_Reports_Menu.png "Security groups")
 

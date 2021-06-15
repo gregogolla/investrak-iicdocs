@@ -1,5 +1,5 @@
 # Loans Module
-Displays the details of loans given to the members.
+This module is used to display and manage the details of loans given to the members.
 
 ## Accessing the savings module
 

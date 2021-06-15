@@ -5,7 +5,7 @@ This section is used to administer the records of the fund members. There are se
 
 ## Accessing the Member accounts module
 
-To access the Member Accounts module, click on the `Member Accounts` Link from the `Admin Menu` Section navigation menu.
+To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 
 ![alt text](images/9.1_Members_Menu.png "Member Accounts menu")
 
