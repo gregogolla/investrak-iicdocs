@@ -27,6 +27,7 @@ The Expected monthly contribtions section enables to administrator to set  the d
 
 ### System will track arrears 
 ![alt text](images/11.2.2_Track_Arrears_Button.png "Track Arrears Button")
+
 This is a master button to set whether or not the club will track arrears. If this is turned off, then no date ranges are expected and it is assumed that there is no required amount that the club expects from members.
 
 ### Date Range Table
