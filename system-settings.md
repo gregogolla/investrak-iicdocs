@@ -35,7 +35,7 @@ This is a master button to set whether or not the club will track arrears. If th
 
 ### Date Range Table
 
-If the system has been set to track arrears the administrator will use this table to add, delete and maintain the range of dates and how much is expected for each active member.
+If the system has been set to track arrears, the administrator will use this table to add, delete and maintain the range of dates and how much is expected monthly for each active member.
 
 ![alt text](images/11.3.1_Date_Range_Table.png "Date Range table")
 
@@ -50,11 +50,17 @@ The Date ranges are added and managed using the `Edit Date Range` form. The form
 1. `Description` - any additional information that provides additional information for the date range
 
 
-
 ## Loan Settings
+This section is used by the administrator to set the default options that are applied to loans that the club provides to its members.
+
 ![alt text](images/11.4_Loan_settings.png "Loan Settings")
 
-- `Interest Type` - 
-- `Interest Rate` - 
-- `Application fee Rate` - 
-- `Insurance fee Rate` - 
+The following settings are availbale on how to manage loans:
+
+1. `Interest Type` - There are two interest types - `Compound Interest` and `Simple Interest`. The Interest applied to loans will be determined by the interst type of the loan.
+
+1. `Interest Rate` - This is the default Annual Percentage Rate (APR) that is applied to a loan. This setting only provides the default rate. The default rate can be changed for each individual loan by the loan committee or treasurer.
+
+1. `Application fee Rate` - Some clubs charge an application fee when a loan is disbursed. Use the check box so that the system will charge a lona application fee. Use the Text Box to enter the rate (as a percentage of the loan amount) at which the fee will be charged.
+
+1. `Insurance fee Rate` -  Some clubs charge an Insurance fee when a loan is disbursed. Use the check box so that the system will charge a lona application fee. Use the text Box to enter the rate (as a percentage of the loan amount) at which the insurance fee will be charged.
