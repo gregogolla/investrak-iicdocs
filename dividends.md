@@ -15,6 +15,7 @@ To access the  module, click on the navigation menu as follows : `Admin Menu` ->
 ## Searching for a dividend
 
 Use the search bar `Search Dividends` to find a particular dividend.Type a either a name or a date or part of the memo in the search field to find what you are looking for.
+![alt text](images/10.6.2_Search_Dividends.png "Search Dividends")
 
 ## Distribute Dividends
 
