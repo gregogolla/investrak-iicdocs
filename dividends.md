@@ -6,9 +6,9 @@ To access the  module, click on the navigation menu as follows : `Admin Menu` ->
 
 ![alt text](images/10.6_Dividends_Menu.png "Dividends menu")
 
- ?> **Note** The distribution of dividends does not involve actual  payments to members. It simply transfers the equivalent dividend value from the club's `Retained earnings` account to the repective member's `Savings account`.
+?> **Note** The distribution of dividends does not involve actual  payments to members. It simply transfers the equivalent dividend value from the club's `Retained earnings` account to the repective member's `Savings account`.
 
- |  Dividends List             |  Dividends List Open |
+ |  Dividends List             |  Open Dividends List  |
   :-------------------------:|:-------------------------:
 ![alt text](images/10.6.1_Dividends_List.png "change stasus button") | ![alt text](images/10.6.2_Dividends_List_Open.png "Confirm change status")
 
@@ -25,6 +25,6 @@ If your account has the required permissions you can distribute dividends. Click
 
 The `Distribute Dividends` dialog page opens up. Use this page to the amount to distribute and the effective date of the distribution.
 
- ?> **Note** The dividend amount to individual members is automatically calculated based on the respective member's share of the total savings contributions. These amounts cannot be indivually changed.
+?> **Note** The dividend amount to individual members is automatically calculated based on the respective member's share of the total savings contributions. These amounts cannot be indivually changed.
 
 ![alt text](images/10.8_Distribute_Dividends_Page.png "Distribute Dividends page")
