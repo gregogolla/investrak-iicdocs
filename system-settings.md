@@ -22,9 +22,24 @@ The `Club Details` is used to set  the name of the Club. The club name that is s
 ## Expected Monthly Contributions
 ![alt text](images/11.3_Expected_monthly.png "Expected monthly payments")
 
-!> **Note** It is important that the Administrator accurately records all members' `Expected Monthly Contribution` date intervals with no overlaps or gaps so that arrears and dues can be calculated correctly.
+The Expected monthly contribtions section enables to administrator to set  the data ranges and corresponding amounts for the date ranges that the system expects savings contributions from each dues paying member. The ranges are used to determine each members expected contribution and to calculate arrears. Comparing with each member's [participation dates](member-accounts.md?id=participation-dates), the system knows how much to expect every month.
 
-The Expected monthly contribtions section enables to administrator to set  the data ranges and corresponding amounts for the date ranges that the system expects savings contributions from each dues paying member. This is used with each member's [participation dates](member-accounts.md?id=participation-dates)
+### System will track arrears 
+This is a master button to set whether or not the club will track arrears. If this is turned off, then no date ranges are expected and it is assumed that there is no required amount that the club expects from members.
+
+### Date Range Table
+If the system has been set to track arrears the administrator will use this table to add, delete and maintain the range of dates and how much is expected for each active member. 
+
+![alt text](images/11.3_Edit_Date_Range.png "Edit Date Ranges")
+
+The Date ranges are added and managed using the `Edit Date Range` form. The form has the following fields:
+
+1. `Amount` - The amount that is expected every month for the period
+1. `Start` - The earliest month in the period
+1. `End` - The latest month in the period. This is left blank for the current on-going period.
+1. `Description` - any additional information that provides additional information for the date range
+
+!> **Note** It is important that the administrator accurately records all `Expected Monthly Contribution` date ranges with no overlaps or gaps so that arrears and dues can be calculated correctly.
 
 ## Loan Settings
 ![alt text](images/11.4_Loan_settings.png "Loan Settings")
