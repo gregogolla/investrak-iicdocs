@@ -23,6 +23,8 @@
 
 [**Finance Accounts**](finance_accounts.md)
 
+[**Dividends Module**](dividends.md)
+
 [**System Settings**](system-settings.md)
 
 

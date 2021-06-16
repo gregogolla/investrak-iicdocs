@@ -9,7 +9,7 @@ To be able to store transactions and report on them, the systm groups all transa
 - `Revenue` - keep track of any income the club brings in from operations 
 
 ## Accessing the Finance Account module
-To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` ->    `Finance Accounts`.
+To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Finance Accounts`.
 
 ![alt text](images/10.1_Finance_Account_Menu.png "Finance Accounts menu")
 
