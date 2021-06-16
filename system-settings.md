@@ -35,6 +35,7 @@ This is a master button to set whether or not the club will track arrears. If th
 
 ### Date Range Table
 ![alt text](images/11.3.1_Date_Range_Table.png "Date Range table")
+
 If the system has been set to track arrears the administrator will use this table to add, delete and maintain the range of dates and how much is expected for each active member. 
 
 ![alt text](images/11.3_Edit_Date_Range.png "Edit Date Ranges")
