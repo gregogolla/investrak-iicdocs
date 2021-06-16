@@ -34,6 +34,7 @@ The Expected monthly contribtions section enables to administrator to set  the d
 This is a master button to set whether or not the club will track arrears. If this is turned off, then no date ranges are expected and it is assumed that there is no required amount that the club expects from members.
 
 ### Date Range Table
+![alt text](images/11.3.1_Date_Range_Table.png "Date Range table")
 If the system has been set to track arrears the administrator will use this table to add, delete and maintain the range of dates and how much is expected for each active member. 
 
 ![alt text](images/11.3_Edit_Date_Range.png "Edit Date Ranges")
