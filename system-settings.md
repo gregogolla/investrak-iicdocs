@@ -20,6 +20,9 @@ The `Club Details` is used to set  the name of the Club. The club name that is s
 1. `Abbreviated Name` - Will be name displayed on the top banner for smaller screens like mobile.
 
 ## Expected Monthly Contributions
+
+!> **Caution** It is important that the administrator accurately records all `Expected Monthly Contribution` date ranges with no overlaps or gaps so that arrears and dues can be calculated correctly.
+
 ![alt text](images/11.3_Expected_monthly.png "Expected monthly payments")
 
 
@@ -42,7 +45,7 @@ The Date ranges are added and managed using the `Edit Date Range` form. The form
 1. `End` - The latest month in the period. This is left blank for the current on-going period.
 1. `Description` - any additional information that provides additional information for the date range
 
-!> **Note** It is important that the administrator accurately records all `Expected Monthly Contribution` date ranges with no overlaps or gaps so that arrears and dues can be calculated correctly.
+
 
 ## Loan Settings
 ![alt text](images/11.4_Loan_settings.png "Loan Settings")
