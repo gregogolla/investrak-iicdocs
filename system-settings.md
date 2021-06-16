@@ -39,6 +39,7 @@ If the system has been set to track arrears the administrator will use this tabl
 
 ![alt text](images/11.3.1_Date_Range_Table.png "Date Range table")
 
+### Edit Date Range
 The Date ranges are added and managed using the `Edit Date Range` form. The form has the following fields: 
 
 ![alt text](images/11.3_Edit_Date_Range.png "Edit Date Ranges")
