@@ -2,6 +2,8 @@
 
 This module is used to display and manage the details of the Invetsments made by the club
 
+![alt text](images/7.0_Investments_Banner.png "Investments banner")
+
 ## Accessing the investments module
 
 To access the Investments module, click on the navigation menu as follows : `User Menu` ->`Fund Activity` ->  `Fund Investments`.

@@ -1,5 +1,9 @@
 # Finance Accounts Module
 
+The `Finance Accounts` module is used to record the accounts that fund's transactions are recorded against.
+
+![alt text](images/10.0_Finance_Account_Banner.png "Finance Accounts banner")
+
 To be able to store transactions and report on them, the systm groups all transactions into several Financial accounts. These accounts are largely grouped into the following categories:
 
 - `Assets` - to record transactions for any physical items of value that the club owns
@@ -11,9 +15,10 @@ To be able to store transactions and report on them, the systm groups all transa
 ## Accessing the Finance Account module
 To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Finance Accounts`.
 
+
 ![alt text](images/10.1_Finance_Account_Menu.png "Finance Accounts menu")
 
-The `Finance Accounts` module is used to record the fund's transactions – expenses, audit fees, bank charges etc.
+
 
 ![alt text](images/10.2_Finance_Account_Page.png "Finance Accounts page")
 

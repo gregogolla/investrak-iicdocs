@@ -1,10 +1,13 @@
 # Dividends Module
 This module allows the treasurer to distribute the club's investment earnings to the club members.
 
+![alt text](images/10.6.0_Dividends_Banner.png "Dividends Banner")
+
 ## Accessing the Dividends module
 To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Dividends`.
 
 ![alt text](images/10.6_Dividends_Menu.png "Dividends menu")
+
 
 ?> **Note** The distribution of dividends does not involve actual  payments to members. It simply transfers the equivalent dividend value from the club's `Retained earnings` account to the repective member's `Savings account`.
 

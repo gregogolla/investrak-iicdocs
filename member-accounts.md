@@ -1,11 +1,14 @@
 # Member accounts
 !> This page can only be accessed by the `Admin`, `Treasurer` or member with the `finance_write` or `manage_member` permissions.
 
+![alt text](images/9.0_Members_Banner.png "Member Accounts banner")
+
 This section is used to administer the records of the fund members. There are several sections at the administrator’s disposal.
 
 ## Accessing the Member accounts module
 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
+
 
 ![alt text](images/9.1_Members_Menu.png "Member Accounts menu")
 

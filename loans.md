@@ -1,6 +1,8 @@
 # Loans Module
 This module is used to display and manage the details of loans given to the members.
 
+![alt text](images/4.0_Loans_Banner.png "Loans Banner")
+
 ## Accessing the savings module
 
 To access the savings module, click on the navigation menu as follows : `User Menu` ->`My Activity` ->  `Loans`.
