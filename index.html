@@ -13,7 +13,7 @@
 </head>
 <body>
   <div id="app"></div>
-  <script>
+  <!--<script>
     window.$docsify = {
       loadSidebar: true,
       pagination: {
@@ -28,8 +28,27 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <!-- <script src="//unpkg.com/docsify-search/dist/docsify-search.min.js"></script>
+   <script src="//unpkg.com/docsify-search/dist/docsify-search.min.js"></script>
   <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script> -->
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      subMaxLevel: 4,
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+    }
+  </script>
+
+  <!-- docsify -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- plugins -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
