@@ -4,13 +4,13 @@ This reports module provides an overview of the financial health of the investme
 ## Accessing the reports module
 To access the reports module, click on the navigation menu as follows : `User Menu` ->`Fund Activity` ->  `Reports`.
 
-![alt text](images/8.1_Reports_Menu.png "Security groups")
+![alt text](../images/8.1_Reports_Menu.png ":size=x120 Reports menu")
 
 The reports module has several widgets :
 - `Fund Summary` widget displays a summary of fund's overal status including Cash Position, Outstanding loans etc.
 - `Financial Reports` including the Balance Sheet, Cash Flow Report and Profit and Loss statement.
   
-![alt text](images/8.2_Reports_Page.png "Security groups")
+![alt text](../images/8.2_Reports_Page.png ":size=x300 Security groups")
 
 ## Fund summary
 The Fund summary widget displays a summary of fund's overall status - including Cash Position, Outstanding loans etc.
@@ -18,7 +18,7 @@ The Fund summary widget displays a summary of fund's overall status - including 
 
 |  Date and year selection    |  Chart                   |
 :----------------------------:|:-------------------------:
-![alt text](images/8.2_Reports_Date_Select.png "send statements dialog")| ![alt text](images/8.2_Reports_Chart.png "Fund Summary chart")
+![alt text](../images/8.2_Reports_Date_Select.png ":size=x200 send statements dialog")| ![alt text](../images/8.2_Reports_Chart.png ":size=x200 Fund Summary chart")
 
 The top section of the Fund Summary has some controls - a Year selector and date range selector that allow a user to filter the reports for a certain year or date range.date
 

@@ -1,18 +1,19 @@
 # Navigating the Application
-![alt text](images/2.1_App_Overview.png "App Overview")
-
 The Application is built to allow easy access of all the screens and content using Navigation menus, the Top Banner area, and the  Main Content Page. After successfully logging in, these sections will be displayed.
 
+![alt text](../images/2.1_App_Overview.png ":size=x300 App Overview")
 
-## The Top Banner Area
-![alt text](images/2.1.2_Top_Banner.png "App Overview")
- The top banner on the screen is available on every page of the application. It will display some additional icons and information as follows:
+## The Top Banner Area 
+The top banner on the screen is available on every page of the application.
+![alt text](../images/2.1.2_Top_Banner.png ":size=x150 Top Banner")
+
+ It will display some additional icons and information as follows:
  
  - The `Club Logo` is displayed on the left side of the Top banner. Clicking it will navigate the member to the home page.
 
 - The `Club Name` is displayed on the next to the Club Logo. It displays the name of the club.
  
-- The `Admin QuickMenu` is only availbale to the admins of the Club. It provides shortcut menus to pages that are used for administrative tasks.
+- The `Admin QuickMenu` is only available to the admins of the Club. It provides shortcut menus to pages that are used for administrative tasks.
 
  - The `Member Drop-down` Icon provides the members with access to their profile, ability to reset their password or to log out from the site
  
