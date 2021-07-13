@@ -3,7 +3,7 @@
 Welcome to InvesTrak. This is your Investment Club's Application user guide.
 The InvesTrak application automates the management your investment club.
 
-![alt text](../images/0.1_Welcome.PNG ":size=x300 home page")
+![alt text](images/0.1_Welcome.PNG ":size=x300 home page")
 
 ## What the InvesTrak application does
  The purpose of the application is as follows:
