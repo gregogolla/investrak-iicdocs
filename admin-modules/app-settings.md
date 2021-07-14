@@ -11,6 +11,10 @@ The `Club Details` is used to set  the name of the Club. The club name that is s
 
 1. `Abbreviated Name` - Will be name displayed on the top banner for smaller screens like mobile.
 
+1. `Tagline` - A short phrase that is used to represent the club's values.
+
+1. `Currency` - The currency symbol that will appear next to cash amounts.
+
 ## Expected Monthly Contributions
 
 !> **Caution** It is important that the administrator accurately records all `Expected Monthly Contribution` date ranges with no overlaps or gaps so that arrears and dues can be calculated correctly.

@@ -6,9 +6,10 @@
     - [Navigating the Application](access-the-site/navigate-the-app.md)
     - [The Home Page](access-the-site/home-page.md)
 
-- Application Modules
+- User Modules
 
     - [Savings](user-modules/savings.md)
+    - [Arrears](user-modules/arrears.md)
     - [Loans](user-modules/loans.md)
     - [Documents](user-modules/documents.md)
     - [Fund Transactions](user-modules/fund-transactions.md)
@@ -17,6 +18,8 @@
 
 - Admin Modules
 
+    - [Manage Savings](admin-modules/manage-savings.md)
+    - [Manage Loans](admin-modules/manage-loans.md)
     - [Member Accounts](admin-modules/member-accounts.md)
     - [Finance Accounts](admin-modules/finance-accounts.md)
     - [Dividends](admin-modules/dividends.md)

@@ -7,11 +7,11 @@ To confgure the default options that are new loan will have
 
 ![alt text](../images/11.4_Loan_settings.png ":size=x300 Loan Settings")
 
-The following settings are availbale on how to manage loans:
+The following settings are available on how to manage loans:
 
 1. `Interest Type` - There are two interest types - `Compound Interest` and `Simple Interest`. The Interest applied to loans will be determined by the interst type of the loan.
 
-1. `Interest Rate` - This is the default Annual Percentage Rate (APR) that is applied to a loan. This setting only provides the default rate. The default rate can be changed for each individual loan by the loan committee or treasurer.
+1. `Interest Rate` - This is the default Interest rate that is applied to a loan. If the interest type is set to `Compound Interest` the interest rate will be Annual Percentage Rate (APR) calculated monthly.  This setting only provides the default rate. The default rate can be changed for each individual loan by the loan committee or treasurer.
 
 1. `Loan duration` - This is the default period in months for which a loan should be paid back.The default duration can be changed for each individual loan by the loan committee or treasurer.
 
@@ -27,7 +27,7 @@ Some club may have different types of loans that are offered to mem,bers based o
 ![alt text](../images/11.6_Loan_types.png ":size=x200 Loan Types")
 
 
-#3# Add or Edit a loan type
+### Add or Edit a loan type
 You can add a new loan type using the Add New Loan Type button on the top of the table. You can also edit a loan type by click on it from the table. Use the Edit Loan Type Form to edit and save your changes.
 
 ![alt text](../images/11.7_Edit_Loan_type.png ":size=x300 Edit Loan Types")

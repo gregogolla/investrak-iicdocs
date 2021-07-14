@@ -14,11 +14,6 @@ The savings module page displays the list of individual transactions, a section 
 ![alt text](../images/3.1.1_Savings_Page.png ":size=x250 Savings page")
 
 
-## Accessing the manage savings module
-
-If your account has the required permissions yuu can access the manage savings module. Click on the three horizontal dot menu on the Savings page and select the `Manage Mode` option
-
-![alt text](../images/3.1.2_Manage_Savings_Page.png ":size=x150 Manage Savings page")
 
 
 ## Searching for a transaction
@@ -29,13 +24,4 @@ Use the search bar `Search Transactions` to find a particular transactions.Type 
 ![alt text](../images/3.1.3_Search_Savings_Page.png ":size=x300 Search Savings")
 
 
-## Manage Savings Transactions
 
-Click on the three horizontal dot menu on the Manage Savings page and select any of the following options:
-
-- `New Savings` option to create a new savings transaction
-- `New Withdrawal` option to create a new withdrawal transaction
-- `New Transfer` option to create a new transfer between two members
-- `Close Manage Mode` option to go back to the savings page
-  
-![alt text](../images/3.1.4_Manage_Savings_Menu.png ":size=x150 Manage Savings menu")

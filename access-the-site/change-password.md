@@ -1,5 +1,5 @@
 # Changing your password
-If you loose you password and you would like to reset it or you just want to change an old password you can use the steps outline below.
+If you loose you password and you would like to reset it or you just want to change an old password, you can use the steps outlined below.
 
 ##	Resetting lost password
 
