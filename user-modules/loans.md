@@ -26,29 +26,41 @@ Click on the three horizontal dot menu on the Loans page and select the `Apply f
 
 ![alt text](../images/4.4_Apply_Loan_Menu.png ":size=x100 Apply Loan")
 
-The `Apply Loan` dialog page opens up. Use this page to apply for a new loan.
+The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 
 <!-- tabs:start -->
 
 #### **Loan start**
+1. You can begin by clicking on your profile to ensure that all your profile details are correct
+1. Check the box to accept the loan terms. You can optionally click on the policy link to review all the terms before you accept them
+1. Click on the start button to proceed to the next step
+
 ![alt text](../images/4.4_Apply_Loan_Page.png ":size=x300 Apply Loan start")
 
+#### **Loan Type**
+If your club has different types of loans, select the one that is most suitable for you
+
+![alt text](../images/4.4.1_Apply_Loan_Type.png ":size=x300 Loan Types List")
+
+#### **Loan Limit**
+Click on the links to confirm what you can borrow
+
+![alt text](../images/4.4.2.0_Apply_Loan_Limit.png ":size=x300 Loan Limit screen")
+
+#### **Loan Guarantor**
+If you need to borrow more than your loan limit allows, you can add another member as your Guarantor.
+
+![alt text](../images/4.4.2.2_Apply_Loan_Guarantor.png ":size=x300 Loan Guarantor screen")
+
 #### **Loan submit**
+After confirming the amount and the guarantors click on the submit button. You will receive a notification that your loan has been submitted.
+
 ![alt text](../images/4.4.2_Apply_Loan_Page_2.png ":size=x300 Apply Loan submit")
 
-#### **Loan Approval**
-!>For committee members only
+#### **Notification**
+You will receive a notification that your loan has been submitted.
 
-![alt text](../images/4.4.3_Apply_Loan_Approval.png ":size=x300 Apply Loan approval")
-
-#### **Loan Disburse**
-!>For Treasurers only
-
-![alt text](../images/4.4.4_Apply_Loan_Disburse.png ":size=x300 Apply Loan disburse")
-
-#### **Loan Transaction**
-
-![alt text](../images/4.4.5_Loan_Transactions.png ":size=x300 Apply Loan disburse")
+![alt text](../images/4.4.4.1_Apply_Loan_Notify.png ":size=x300 Apply Loan submit")
 
 <!-- tabs:end -->
 

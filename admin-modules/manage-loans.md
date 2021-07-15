@@ -21,12 +21,21 @@ The Manage Loans module page displays the list of individual loan applications a
 
 After a member has submitted a loan request, an email notification will go out to all committee members. At least two committee members are required to approve the loan before it can be marked as approved. 
 
+!>For committee members only
 
+![alt text](../images/4.4.3_Apply_Loan_Approval.png ":size=x300 Apply Loan approval")
 
 ## Disbursing a loan
 !> This function can only be done by club treasurer
 
 After a loan has been marked as approved, the treasurer will then disburse the loan. The process of disbursement will add the various transactions (loan amount as well as any of the applied interest, processing fees and/or insurance charges).
+!>For Treasurers only
+
+![alt text](../images/4.4.4_Apply_Loan_Disburse.png ":size=x300 Apply Loan disburse")
 
 >**Note** \
 After a lona has been disbursed all loan  records (including type, charges and guarantors) approval will become read-only
+
+## Loan Transactions
+Once a loan has been approved and disbursed you can track the individual transactions on this tab
+![alt text](../images/4.4.5_Loan_Transactions.png ":size=x300 Apply Loan disburse")
