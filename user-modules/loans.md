@@ -67,4 +67,12 @@ You will receive a notification that your loan has been submitted.
 ## Loan Guarantee
 If you guaranteed any loans they will appear under `Guarantees` tab.
 
-![alt text](../images/4.5_Loan_Gurantee_Page.png "Loan Guarantee tab")
+![alt text](../images/4.5_Loan_Gurantee_Page.png ":size=x200 Loan Guarantee tab")
+
+Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. after confirming the guarantee amount, your loan borrowing limit accept or decline the request.
+
+![alt text](../images/4.5.1_Loan_Gurantee_Dialog.png ":size=x300 Loan Guarantee dialog")
+
+Once you approve or decline a notification will be sent to the loan applicant.
+
+![alt text](../images/4.5.2_Loan_Gurantee_Notify.png ":size=x300 Loan Guarantee notification")
