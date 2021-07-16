@@ -25,6 +25,10 @@ After a member has submitted a loan request, an email notification will go out t
 
 ![alt text](../images/4.4.3_Apply_Loan_Approval.png ":size=x300 Apply Loan approval")
 
+The system expects at least two committe members to approve a loan. Once there are two approvals the loan approval status will automatically change form '`Pending` to `Approved`.
+
+![alt text](../images/4.4.3.2_Loan_Approved.png ":size=x300 Loan Approved")
+
 ## Disbursing a loan
 !> This function can only be done by club treasurer
 

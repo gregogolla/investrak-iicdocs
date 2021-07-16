@@ -76,3 +76,4 @@ Click on the loan guarantee request to open up the dialog. Use the dialog to rev
 Once you approve or decline a notification will be sent to the loan applicant.
 
 ![alt text](../images/4.5.2_Loan_Gurantee_Notify.png ":size=x300 Loan Guarantee notification")
+
