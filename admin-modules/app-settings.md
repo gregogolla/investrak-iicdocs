@@ -15,6 +15,8 @@ The `Club Details` is used to set  the name of the Club. The club name that is s
 
 1. `Currency` - The currency symbol that will appear next to cash amounts.
 
+1. `Company Logo` - The logo image that will be displayed on the site and emails sent. This is restricted to image files of type `PNG`.
+
 ## Expected Monthly Contributions
 
 !> **Caution** It is important that the administrator accurately records all `Expected Monthly Contribution` date ranges with no overlaps or gaps so that arrears and dues can be calculated correctly.

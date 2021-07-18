@@ -21,8 +21,6 @@ The Manage Loans module page displays the list of individual loan applications a
 
 After a member has submitted a loan request, an email notification will go out to all committee members. At least two committee members are required to approve the loan before it can be marked as approved. 
 
-!>For committee members only
-
 ![alt text](../images/4.4.3_Apply_Loan_Approval.png ":size=x300 Apply Loan approval")
 
 The system expects at least two committe members to approve a loan. Once there are two approvals the loan approval status will automatically change form '`Pending` to `Approved`.
