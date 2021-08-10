@@ -52,4 +52,4 @@ The Date ranges are added and managed using the `Edit Date Range` form. The form
 1. `Amount` - The amount that is expected every month for the period.
 1. `Start` - The earliest month in the period. Note that these are stored as whole months.
 1. `End` - The latest month in the period. This is left blank for the current on-going period.
-1. `Description` - any additional information that provides additional information for the date range
+1. `Description` - any additional information that provides additional information for the date range.
