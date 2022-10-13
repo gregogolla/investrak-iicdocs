@@ -1,7 +1,7 @@
 # Home page
 This is the page where the user will usually land when they log-in to the portal. The home page consists of several widgets that provide a summarized overview for the currently logged in user.
 
-![alt text](../images/2.2_Home_Page.png ':size=x300 Home Page') 
+![alt text](../images/2.2_Home_Page.png ' Home Page') 
 
 
 ## Fund Summary
@@ -16,10 +16,10 @@ The My Total Savings widget displays a summary of all the savings contributions 
 
 ![alt text](../images/2.3_Home_Page_My_Savings.png "My Total Savings widget") 
 
-## My Outstanding loans
-The My Outstanding Loans widget displays a summary of outstanding loans that the users owes
+## My Unpaid loans
+The My Unpaid Loans widget displays a summary of outstanding loans that the users owes
 
-![alt text](../images/2.3_Home_Page_My_Loans.png "My Outstanding Loans  widget") 
+![alt text](../images/2.3_Home_Page_My_Loans.png "My Unpaid Loans  widget") 
 
 ## Recent Transactions
 The recent transactions widget displays the last 10 transactions associated with the currenttly logged in user.
