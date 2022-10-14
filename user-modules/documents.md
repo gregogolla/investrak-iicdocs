@@ -20,20 +20,27 @@ To access the documents module, click on the navigation menu as follows: `User M
 
 <!-- tabs:start -->
 #### **Desktop**
- ![alt text](../images/5.0.2_Documents.png ":size=x200 Document List")
-
+<p align="center">
+    <img src="images/5.0.2_Documents.png" alt="Document list">
+</p>
  #### **Mobile**
- ![alt text](../images/5.0.2_Documents_Mobile.png ":size=x200 Document List")
+ <p align="center">
+    <img src="images/5.0.2_Documents_Mobile.png" alt="Document List">
+</p>
 <!-- tabs:end -->
 
 Clicking on the document record opens the `View Document` page to display the document details.
 
 <!-- tabs:start -->
 #### **Desktop**
-![alt text](../images/5.0.3_Document_Detail.png ":size=x200 Document Detail")
+<p align="center">
+    <img src="images/5.0.3_Document_Detail.png" alt="Documents Detail">
+</p>
 
 #### **Mobile**
-![alt text](../images/5.0.3_Document_Detail_Mobile.png ":size=x200 Document Detail")
+<p align="center">
+    <img src="images/5.0.3_Document_Detail_Mobile.png" alt="Documents menu">
+</p>
 <!-- tabs:end -->
 
 Details of the document record include:
