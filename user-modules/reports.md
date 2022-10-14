@@ -9,8 +9,11 @@ To access the reports module, click on the navigation menu as follows : `User Me
 </p>
 
 The landing page of the reports module displays several widgets :
+<p align="center">
+    <img src="images/8.2_Reports_Landing_page.png" alt="Report Dates Filter">
+</p>
 
-## Filter Dates Widget
+## Filter Dates
 `Filter Dates` widget allows you to filter the records between to dates. It includes a year dropdown to select all records for a specific calendar year and a calender input control to select any range between two give dates.
 
 <p align="center">
