@@ -58,22 +58,34 @@ The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 #### **Loan Type**
 If your club has different types of loans, select the one that is most suitable for you
 
-![alt text](../images/4.4.1_Apply_Loan_Type.png ":size=x300 Loan Types List")
+<p align="center">
+    <img src="images/4.4.1_Apply_Loan_Type.png" alt="Loan Types List">
+</p>
+
 
 #### **Loan Limit**
 Click on the links to confirm what you can borrow
 
-![alt text](../images/4.4.2.0_Apply_Loan_Limit.png ":size=x300 Loan Limit screen")
+<p align="center">
+    <img src="images/4.4.2.0_Apply_Loan_Limit.png" alt="Loan Limit screen">
+</p>
+
 
 #### **Loan Guarantor**
 If you need to borrow more than your loan limit allows, you can add another member as your Guarantor.
 
-![alt text](../images/4.4.2.2_Apply_Loan_Guarantor.png ":size=x300 Loan Guarantor screen")
+<p align="center">
+    <img src="images/4.4.2.2_Apply_Loan_Guarantor.png" alt="Loan Guarantor screen">
+</p>
+
 
 #### **Loan submit**
 After confirming the amount and the guarantors click on the submit button. You will receive a notification that your loan has been submitted.
 
-![alt text](../images/4.4.2_Apply_Loan_Page_2.png ":size=x300 Apply Loan submit")
+<p align="center">
+    <img src="images/4.4.2_Apply_Loan_Page_2.png" alt="Apply Loan submit">
+</p>
+
 
 #### **Notification**
 You will receive a notification that your loan has been submitted.
@@ -92,7 +104,7 @@ If you guaranteed any loans they will appear under `My Guarantee Requests` tab.
     <img src="images/4.5_Loan_Gurantee_Page.png" alt="Loan Guarantee tab">
 </p>
 
-Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. after confirming the guarantee amount, your loan borrowing limit accept or decline the request.
+Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. After confirming the guarantee amount, your loan borrowing limit accept or decline the request.
 
 <p align="center">
     <img src="images/4.5.1_Loan_Gurantee_Dialog.png" alt="Loan Guarantee dialog">
