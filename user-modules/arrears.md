@@ -22,7 +22,7 @@ The arrears for a member can be accessed in one of two ways:
     - Under the Transaction amount you will find the arrears link
     
 <p align="center">
-    <img src="../images/3.3.2_Edit_Savings_Arrears.png" alt="arrears link from edit savings">
+    <img src="images/3.3.2_Edit_Savings_Arrears.png" alt="arrears link from edit savings">
 </p>
 
 ## Arrears Module Tabs
@@ -32,7 +32,7 @@ The arrears for a member can be accessed in one of two ways:
 The arrears tab provides a breakdown by month, for the member' arrears.  The system keeps track of expected payments based on  [`Participation Dates`](admin-modules/member-accounts?id=participation-dates) of the member and the [`Expected Contributions`](admin-modules/app-settings?id=expected-monthly-contributions) records of the club. When a savings payment is received from the member, it is applied to earliest month that the systems expects payment for the respective member. If the payment is more than (or less than) the expected payment for the month the amount is allocated as described in the allocations section below.
 
 <p align="center">
-    <img src="../images/3.5_Arrears_Tab.png" alt="Arrears Tab">
+    <img src="images/3.5_Arrears_Tab.png" alt="Arrears Tab">
 </p>
 
 All the months for which payment is expected but has not been received is included up as part of the arrears for the particular member.
@@ -44,7 +44,7 @@ All the months for which payment is expected but has not been received is includ
 `Allocations` are useful when a single large payment was made for an account. If the payment is larger than the [`expected contribution`](admin-modules/app-settings?id=expected-monthly-contributions) for the month, then it will be distributed for several months. The single payment is saved as one contribution. Allocations are then used to apportion the single contribution payment to different months.
 
 <p align="center">
-    <img src="../images/3.6_Allocations_Tab.png" alt="Allocations Tab">
+    <img src="images/3.6_Allocations_Tab.png" alt="Allocations Tab">
 </p>
 
 The system automatically handles the allocation of payments distributed accross the months. You can use this tab to track how far ahead or behind the account is with expected payments.
