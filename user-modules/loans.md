@@ -1,30 +1,46 @@
 # Loans Module
-This module is used to display and manage the details of loans given to the members.
+The Loans module is used to display and manage the details of loans given to the club members. It manages the workflow for a loan application and approval and also tracks the payments and charges associated with the loan.
 
-![alt text](../images/4.0_Loans_Banner.png ":size=x100 Loans Banner")
+<p align="center">
+    <img src="images/4.0_Loans_Banner.png" alt="Loans Banner">
+</p>
 
 ## Accessing the loans module
 
 To access the loans module, click on the navigation menu as follows : `User Menu` ->`My Activity` ->  `Loans`.
 
-![alt text](../images/4.1_Loans_Menu.png ":size=x200 Loans menu")
+<p align="center">
+    <img src="images/4.1_Loans_Menu.png" alt="Loans Menu">
+</p>
 
+The landing page of the Loans module page displays the list of individual loan applications submitted by the club member. The page also has a search bar to search for  loans by free text and filter to list loans by status. 
 
-The loans module page displays the list of individual loan applications and a section showing total loans taken by the individual members.
+<p align="center">
+    <img src="images/4.2_Loans_Page.png" alt="Loans Page">
+</p>
 
-![alt text](../images/4.2_Loans_Page.png ":size=x300 Loans page")
+The landing page also displays various summaries for the loans taken by the club member.
 
 ## Searching for a loan record
 
-Use the search bar `Search loans` to find a particular loan record.Type a either a name or a date or amount or part of the memo in the search field to find a specific loan
+Use the search bar `Search loans` to find a particular loan record. Type a either a name or a date or amount or part of the memo in the search field to find a specific loan
 
+<p align="center">
+    <img src="images/4.3_Search_Loans_Page.png" alt="Search Loans">
+</p>
 
-![alt text](../images/4.3_Search_Loans_Page.png ":size=x300 Search Loans")
+You can also filter the loans by status. Filtering is a useful way to display only the loan records that you want based on the current status of the loan.
+
+<p align="center">
+    <img src="images/4.3.2_Filter_Loans.png" alt="Search Loans">
+</p>
 
 ## Apply for a loan
-Click on the three horizontal dot menu on the Loans page and select the `Apply for a loan` option
+Click on the three horizontal dot menu on the Loans page and select the `Apply for a loan` option.
 
-![alt text](../images/4.4_Apply_Loan_Menu.png ":size=x100 Apply Loan")
+<p align="center">
+    <img src="images/4.4_Apply_Loan_Menu.png" alt="Apply Loan">
+</p>
 
 The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 
@@ -35,7 +51,9 @@ The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 1. Check the box to accept the loan terms. You can optionally click on the policy link to review all the terms before you accept them
 1. Click on the start button to proceed to the next step
 
-![alt text](../images/4.4_Apply_Loan_Page.png ":size=x300 Apply Loan start")
+<p align="center">
+    <img src="images/4.4_Apply_Loan_Page.png" alt="Apply Loan start">
+</p>
 
 #### **Loan Type**
 If your club has different types of loans, select the one that is most suitable for you
@@ -60,20 +78,29 @@ After confirming the amount and the guarantors click on the submit button. You w
 #### **Notification**
 You will receive a notification that your loan has been submitted.
 
-![alt text](../images/4.4.4.1_Apply_Loan_Notify.png ":size=x300 Apply Loan submit")
+<p align="center">
+    <img src="images/4.4.4.1_Apply_Loan_Notify.png" alt="Apply Loan submit">
+</p>
+
 
 <!-- tabs:end -->
 
 ## Loan Guarantee
-If you guaranteed any loans they will appear under `Guarantees` tab.
+If you guaranteed any loans they will appear under `My Guarantee Requests` tab.
 
-![alt text](../images/4.5_Loan_Gurantee_Page.png ":size=x200 Loan Guarantee tab")
+<p align="center">
+    <img src="images/4.5_Loan_Gurantee_Page.png" alt="Loan Guarantee tab">
+</p>
 
 Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. after confirming the guarantee amount, your loan borrowing limit accept or decline the request.
 
-![alt text](../images/4.5.1_Loan_Gurantee_Dialog.png ":size=x300 Loan Guarantee dialog")
+<p align="center">
+    <img src="images/4.5.1_Loan_Gurantee_Dialog.png" alt="Loan Guarantee dialog">
+</p>
 
 Once you approve or decline a notification will be sent to the loan applicant.
 
-![alt text](../images/4.5.2_Loan_Gurantee_Notify.png ":size=x300 Loan Guarantee notification")
+<p align="center">
+    <img src="images/4.5.2_Loan_Gurantee_Notify.png" alt="Loan Guarantee notification">
+</p>
 
