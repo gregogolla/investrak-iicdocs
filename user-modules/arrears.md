@@ -13,7 +13,7 @@ The arrears for a member can be accessed in one of two ways:
 1. Click on the arrears link from the [`Savings`](user-modules/savings) page. 
 
 <p align="center">
-    <img src="../images/3.4_My_Arrears_Link.png" alt="My Arrears Link">
+    <img src="images/3.4_My_Arrears_Link.png" alt="My Arrears Link">
 </p>
 
 2. (Requires `finance_read_all` permissions). From the [`Manage Savings`](admin-modules/manage-savings.md) page do the following:
