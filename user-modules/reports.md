@@ -1,10 +1,12 @@
 #	Reports Module
-This reports module provides an overview of the financial health of the investment club. 
+The reports module provides an overview of the financial health of the investment club. 
 
 ## Accessing the reports module
-To access the reports module, click on the navigation menu as follows : `User Menu` ->`Fund Activity` ->  `Reports`.
+To access the reports module, click on the navigation menu as follows :
+    `User Menu` ->`Fund Activity` ->  `Reports`
 
 <p align="center">
+    
     <img src="images/8.1_Reports_Menu.png" alt="Reports Menu">
 </p>
 
@@ -31,18 +33,13 @@ The Fund summary widget displays a summary of fund's overal status - including C
 
 ## Financial Reports
 
-!>These financial reports are for informational use only. They are intended only to provide guidance and insight into the regular and daily activities of your investment club. Consult a certified accountant or authorised financial professional  before using them for regulatory reporting.
+!>The financial reports are for informational use only. They are intended only to provide guidance and insight into the regular and daily activities of your investment club. Consult a certified accountant or authorised financial professional  before using them for regulatory reporting.
 
 ### Financial Reports - Balance sheet
 The Balance Sheet details of the assets and liabilities of club. The Total Assets will always equal the Total Liabilities plus Members Equity of the club.
 <p align="center">
     <img src="images/8.2_Reports_Bal_Sheet.png" alt="Reports Page">
 </p>
-
-
-
-
-
 
 The assets include Cash (at hand and in the bank), tangible assets and property and value of security and investments.
 
@@ -57,7 +54,8 @@ The Cashflow report summarizes the amount of cash and cash equivalents coming in
 </p>
 
 ### Financial Reports - Profit Loss Statement
-The profit loss statement report summarizes the revenues, costs, and expenses incurred by the club during a specified year. The income comes from contributions, loan payments, and other miscellaneous income like bank charges. The expenditure comes from loan disbursements and other miscellaneous expense like bank charges.
+The profit loss statement report summarizes the revenue, costs, and expenses incurred by the club. The income comes from contributions, loan interest, and other miscellaneous income like bank charges. The expenditure comes from expenses like bank charges, fees, taxes, services etc.
+
 <p align="center">
     <img src="images/8.2_Reports_Prof_Loss.png" alt="Reports Page">
 </p>
