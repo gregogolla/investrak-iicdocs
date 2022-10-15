@@ -25,7 +25,7 @@ Use the search bar `Search Dividends` to find a particular dividend.Type a eithe
 
 ![alt text](../images/10.7_Distribute_Dividends_menu.png ":size=x100 Distribute Dividends menu")
 
-If your account has the required permissions you can distribute dividends. Click on the three horizontal dot menu on the Investment Records page and select the `Distribute Dividends` option.
+If your account has the required permissions you can distribute dividends. Click on the three vertical dot menu on the Investment Records page and select the `Distribute Dividends` option.
 
 
 The `Distribute Dividends` dialog page opens up. Use this page to the amount to distribute and the effective date of the distribution.

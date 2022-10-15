@@ -4,7 +4,7 @@ The Manage Loans  module is an extention of the [Loans](user-modules/loans.md) m
 ## Accessing the Manage Loans
 If your login has the required authorization (Committee Membership or `finance_read_all` permissions) then you will be able to access the module  in one of two ways:
 
-1. Click on the three horizontal dot menu on the Loans page and select the `Manage Mode` option
+1. Click on the three vertical dot menu on the Loans page and select the `Manage Mode` option
 
 ![alt text](../images/4.6.1_Manage_Loans_menu.png ":size=x150 Manage Lonas menu")
 

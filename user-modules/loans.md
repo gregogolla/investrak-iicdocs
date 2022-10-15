@@ -36,7 +36,7 @@ You can also filter the loans by status. Filtering is a useful way to display on
 </p>
 
 ## Apply for a loan
-Click on the three horizontal dot menu on the Loans page and select the `Apply for a loan` option.
+Click on the three vertical dot menu on the Loans page and select the `Apply for a loan` option.
 
 <p align="center">
     <img src="images/4.4_Apply_Loan_Menu.png" alt="Apply Loan">

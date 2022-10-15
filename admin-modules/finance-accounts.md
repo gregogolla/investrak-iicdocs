@@ -32,7 +32,7 @@ Use the search bar `Search Finance Account` to find a particular account. Type a
 
 ![alt text](../images/10.4_Add_Finanace_Account_Menu.png "Add Finance Account menu")
 
-If your account has the required permissions you can add a new finance account. Click on the three horizontal dot menu on the Finance Accounts page and select the `New Account` option.
+If your account has the required permissions you can add a new finance account. Click on the three vertical dot menu on the Finance Accounts page and select the `New Account` option.
 
 
 The `New Account` dialog page opens up. Use this page to enter a new account.

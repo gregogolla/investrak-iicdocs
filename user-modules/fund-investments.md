@@ -42,7 +42,7 @@ You can also filter the investment records by status (Active or Dormant).
     <img src="images/7.4_Add_Investment_Menu.png" alt="Add Investment Record menu">
 </p>
 
-If your account has the required permissions you can add a new Investment Record. Click on the three horizontal dot menu on the Investment Records page and select the `New Investment` option.
+If your account has the required permissions you can add a new Investment Record. Click on the three vertical dot menu on the Investment Records page and select the `New Investment` option.
 
 
 The `New Investment` dialog page opens up. Use this page to enter a new transaction.

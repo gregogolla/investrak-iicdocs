@@ -30,7 +30,7 @@ Use the search bar `Search Fund Transactions` to find a particular transaction. 
 ## Add a new Fund transaction
 
 
-If your account has the required permissions you can add a new fund transaction. Click on the three horizontal dot menu on the `Fund Transactions` page and select the `New Transaction` option.
+If your account has the required permissions you can add a new fund transaction. Click on the three vertical dot menu on the `Fund Transactions` page and select the `New Transaction` option.
 
 <p align="center">
     <img src="images/5.4_Add_Fund_Tx_Menu.png" alt="Add Fund Transaction Menu">

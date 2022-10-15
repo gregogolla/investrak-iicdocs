@@ -8,7 +8,7 @@ This module provides the treasurer with the ability to be able to add contributi
 
 If your account has the required authorization (Committee member or `finance_read_all` permission) you can access the manage savings module in one of two ways:
 
-1. Click on the three horizontal dot menu on the Savings page and select the `Manage Mode` option
+1. Click on the three vertical dot menu on the Savings page and select the `Manage Mode` option
 
 ![alt text](../images/3.1.2_Manage_Savings_Page.png ":size=x100 Manage Savings page")
 
@@ -34,7 +34,7 @@ Click on a transaction to edit it. The `Edit Payment` dialog is displayed. The d
 
 ## Manage Savings options
 
-Click on the three horizontal dot menu on the Manage Savings page and select any of the following options:
+Click on the three vertical dot menu on the Manage Savings page and select any of the following options:
 
 - `New Savings` option to create a new savings transaction
 - `New Withdrawal` option to create a new withdrawal transaction
