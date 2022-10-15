@@ -10,22 +10,22 @@ To access the reports module, click on the navigation menu as follows :
     <img src="images/8.1_Reports_Menu.png" alt="Reports Menu">
 </p>
 
-The landing page of the reports module displays several widgets :
+The landing page of the reports module displays several sections :
 <p align="center">
     <img src="images/8.2_Reports_Landing_page.png" alt="Report Dates Filter">
 </p>
 
 ## Filter Dates
-`Filter Dates` widget allows you to filter the records between to dates. It includes a year dropdown to select all records for a specific calendar year and a calender input control to select any range between two give dates.
+`Filter Dates` section allows you to filter the records between to dates. It includes a year dropdown to select all records for a specific calendar year and a calender input control to select any range between two give dates.
 
 <p align="center">
     <img src="images/8.1.2_Dates_Filter.png" alt="Report Dates Filter">
 </p>
 
 ## Fund Summary
-`Fund Summary` widget displays a summary of fund's overal status including Cash Position, Outstanding loans etc.
+`Fund Summary` section displays a summary of fund's overal status including Cash Position, Outstanding loans etc.
 
-The Fund summary widget displays a summary of fund's overal status - including Cash Position, Outstadning loans etc.
+The Fund summary section displays a summary of fund's overal status - including Cash Position, Outstadning loans etc.
 
 <p align="center">
     <img src="images/2.3_Home_Page_Fund_Summary.png " alt="Home Page Fund Summary">
