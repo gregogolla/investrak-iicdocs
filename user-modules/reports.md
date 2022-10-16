@@ -6,20 +6,19 @@ To access the reports module, click on the navigation menu as follows :
     `User Menu` ->`Fund Activity` ->  `Reports`
 
 <p align="center">
-    
-    <img src="images/8.1_Reports_Menu.png" alt="Reports Menu">
+    <img src="images/8.1_Reports_Menu.png" height="400px" alt="Reports Menu">
 </p>
 
 The landing page of the reports module displays several sections :
 <p align="center">
-    <img src="images/8.2_Reports_Landing_page.png" alt="Report Dates Filter">
+    <img src="images/8.2_Reports_Landing_page.png" height="400px" alt="Report Dates Filter">
 </p>
 
 ## Filter Dates
 `Filter Dates` section allows you to filter the records between to dates. It includes a year dropdown to select all records for a specific calendar year and a calender input control to select any range between two give dates.
 
 <p align="center">
-    <img src="images/8.1.2_Dates_Filter.png" alt="Report Dates Filter">
+    <img src="images/8.1.2_Dates_Filter.png" height="400px" alt="Report Dates Filter">
 </p>
 
 ## Fund Summary
@@ -28,7 +27,7 @@ The landing page of the reports module displays several sections :
 The Fund summary section displays a summary of fund's overal status - including Cash Position, Outstadning loans etc.
 
 <p align="center">
-    <img src="images/2.3_Home_Page_Fund_Summary.png " alt="Home Page Fund Summary">
+    <img src="images/2.3_Home_Page_Fund_Summary.png" height="400px" alt="Home Page Fund Summary">
 </p> 
 
 ## Financial Reports
@@ -38,7 +37,7 @@ The Fund summary section displays a summary of fund's overal status - including 
 ### Financial Reports - Balance sheet
 The Balance Sheet details of the assets and liabilities of club. The Total Assets will always equal the Total Liabilities plus Members Equity of the club.
 <p align="center">
-    <img src="images/8.2_Reports_Bal_Sheet.png" alt="Reports Page">
+    <img src="images/8.2_Reports_Bal_Sheet.png" height="400px" alt="Reports Page">
 </p>
 
 The assets include Cash (at hand and in the bank), tangible assets and property and value of security and investments.
@@ -50,12 +49,12 @@ The difference between the assets and liabilities will be the member equity. The
 ### Financial Reports - Cashflow report
 The Cashflow report summarizes the amount of cash and cash equivalents coming into(revenue) and getting out of (expenditure) the club. The revenue comes from contributions, loan payments, and other miscellaneous income like bank charges. The expenditure comes from investments, loan disbursements and other miscellaneous expense like bank charges.
 <p align="center">
-    <img src="images/8.2_Reports_Cash_Flow.png" alt="Reports Page">
+    <img src="images/8.2_Reports_Cash_Flow.png" height="400px" alt="Reports Page">
 </p>
 
 ### Financial Reports - Profit Loss Statement
 The profit loss statement report summarizes the revenue, costs, and expenses incurred by the club. The income comes from contributions, loan interest, and other miscellaneous income like bank charges. The expenditure comes from expenses like bank charges, fees, taxes, services etc.
 
 <p align="center">
-    <img src="images/8.2_Reports_Prof_Loss.png" alt="Reports Page">
+    <img src="images/8.2_Reports_Prof_Loss.png" height="400px" alt="Reports Page">
 </p>
