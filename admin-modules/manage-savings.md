@@ -68,7 +68,7 @@ Click on the three vertical dot menu on the Manage Savings page and select any o
 </p>
 
 ### New Transfer
-`New Transfer` option is used to create a new transfer between two members
+`New Transfer` option is used to create a new transfer between two members or between a member and another account(loan or share capital).
 <p align="center">
     <img src="images/3.3.4_New_Transfer.png" height="400px" alt="New Savings Transfer">
 </p>

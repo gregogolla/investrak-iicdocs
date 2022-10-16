@@ -6,15 +6,25 @@ If your login has the required authorization (Committee Membership or `finance_r
 
 1. Click on the three vertical dot menu on the Loans page and select the `Manage Mode` option
 
-![alt text](../images/4.6.1_Manage_Loans_menu.png ":size=x150 Manage Lonas menu")
+<!-- ![alt text](../images/4.6.1_Manage_Loans_menu.png ":size=x150 Manage Lonas menu") -->
+<p align="center">
+    <img src="images/4.6.1_Manage_Loans_menu.png" height="200px" style="object-fit:contain;" alt="Manage Loans menu">
+</p>
 
 2. Alternatively, you can access the module by clicking on the `Manage Loans` button located in the Quick menu in the [Top Banner arear](access-the-site/navigate-the-app?id=the-top-banner-area)
 
-![alt text](../images/4.6.2_Manage_Loans_quick_menu.png ":size=x150 Manage Loans menu")
+<!-- ![alt text](../images/4.6.2_Manage_Loans_quick_menu.png ":size=x150 Manage Loans menu") -->
+
+<p align="center">
+    <img src="images/4.6.2_Manage_Loans_quick_menu.png"  width="600px" style="object-fit:contain" alt="Manage Loans Menu">
+</p>
 
 The Manage Loans module page displays the list of individual loan applications and a section showing a chart of top borrowers.
 
-![alt text](../images/4.6.3_Manage_Loans_page.png ":size=x300 Manage Loans page")
+<!-- ![alt text](../images/4.6.3_Manage_Loans_page.png ":size=x300 Manage Loans page") -->
+<p align="center">
+    <img src="images/4.6.3_Manage_Loans_page.png"  width="600px" style="object-fit:contain" alt="Manage Loans Page">
+</p>
 
 ## Approving a loan
 !> This function can only be done by club committee
