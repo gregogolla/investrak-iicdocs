@@ -3,7 +3,7 @@
 The Investments Module is used to display and manage the details of the Club's Financial Investments portfolio.
 
 <p align="center">
-    <img src="images/7.0_Investments_Banner.png" alt="Investments Banner">
+    <img src="images/7.0_Investments_Banner.png"  width="300px" alt="Investments Banner">
 </p>
 
 ## Accessing the investments module
@@ -11,7 +11,7 @@ The Investments Module is used to display and manage the details of the Club's F
 To access the Investments module, click on the navigation menu as follows :
 
 <p align="center">
-    <img src="images/7.1_Investments_Menu.png" alt="Investments Menu">
+    <img src="images/7.1_Investments_Menu.png"  width="300px" alt="Investments Menu">
 </p>
 
  `User Menu` ->`Fund Activity` ->  `Fund Investments`.
@@ -19,7 +19,7 @@ To access the Investments module, click on the navigation menu as follows :
 The Investments module landing page will display a list of all investment records. It also displays a graph summary of the financial performance of the investment portfolio over time.
 
 <p align="center">
-    <img src="images/7.2_Investments_Page.png" alt="Investments Page">
+    <img src="images/7.2_Investments_Page.png"  width="300px" alt="Investments Page">
 </p>
 
 ## Searching for a Investment record
@@ -27,19 +27,19 @@ The Investments module landing page will display a list of all investment record
 Use the search bar `Search Investments` to find a particular investment record. Type a either a title or a date or part of the account number in the search field to find what you are looking for.
 
 <p align="center">
-    <img src="images/7.3_Investments_Search.png" alt="Investments Search">
+    <img src="images/7.3_Investments_Search.png"  width="300px" alt="Investments Search">
 </p>
 
 You can also filter the investment records by status (Active or Dormant). 
 
 <p align="center">
-    <img src="images/7.3.1_Filter_Investments.png" alt="Filter Investments">
+    <img src="images/7.3.1_Filter_Investments.png"  width="300px" alt="Filter Investments">
 </p>
 
 ## Add a new Investment Record
 
 <p align="center">
-    <img src="images/7.4_Add_Investment_Menu.png" alt="Add Investment Record menu">
+    <img src="images/7.4_Add_Investment_Menu.png"  width="300px" alt="Add Investment Record menu">
 </p>
 
 If your account has the required permissions you can add a new Investment Record. Click on the three vertical dot menu on the Investment Records page and select the `New Investment` option.
@@ -48,14 +48,14 @@ If your account has the required permissions you can add a new Investment Record
 The `New Investment` dialog page opens up. Use this page to enter a new transaction.
 
 <p align="center">
-    <img src="images/7.5_Add_Investment_Page.png" alt="Add Investment Record page">
+    <img src="images/7.5_Add_Investment_Page.png" width="300px" alt="Add Investment Record page">
 </p>
 
 ## Understanding Investment Indicators
 The Investment Records display several indicators to help a club member understand the performance of the associated Investment.
 
  <p align="center">
-    <img src="images/7.6_Investment_Indicators.png" alt="Investment Indicators">
+    <img src="images/7.6_Investment_Indicators.png" width="300px" alt="Investment Indicators">
 </p>
 
 ### Investment FUNDING
@@ -70,7 +70,7 @@ The Investment Records display several indicators to help a club member understa
  ## Investment Transactions
  Investment Transactions can be found in the `Edit Investment` page of each Investment record. They provide a way to granularly track the transactions for deposits, withdrwals, gains, losses, taxes and fees associated with the Investment.
 <p align="center">
-    <img src="images/7.7_Investment_Transactions.png" alt="Investment Transactions">
+    <img src="images/7.7_Investment_Transactions.png" width="300px" alt="Investment Transactions">
 </p>
 
  1. From the `Investments` landing page, click on an Investment record to view its details.
@@ -81,11 +81,11 @@ The Investment Records display several indicators to help a club member understa
 Each Investment record has the abilty to load associated documents (e.g. Statements, Tax receipts etc.). 
 
 <p align="center">
-    <img src="images/7.8_Investment_Documents.png" alt="Investment Documents">
+    <img src="images/7.8_Investment_Documents.png" width="300px" alt="Investment Documents">
 </p>
 
 1. From the `Investments` landing page, click on an Investment record to view its details.
 1. The `Edit Investment` dialog page is displayed with the Investment's details.
-1. Click on the `Transactions` Tab to view the transactions.
+1. Click on the `Documents` Tab to view the transactions.
 
 Details on adding and working with documents can be found on the [`Documents`](user-modules/documents.md) page.
