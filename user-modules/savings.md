@@ -9,7 +9,7 @@ This module is used to display and manage the details of members' savings contri
 To access the savings module, click on the navigation menu as follows: `User Menu` ->`My Activity` -> `Savings`.
 
 <p align="center">
-    <img src="images/3.1.1_Savings_Menu.png" alt="Savings menu">
+    <img src="images/3.1.1_Savings_Menu.png" height="400px" alt="Savings menu">
 </p>
 The savings module page displays the list of individual transactions, a section on savings totals and a section on the individual members share.
 
