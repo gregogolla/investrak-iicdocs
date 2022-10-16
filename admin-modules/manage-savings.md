@@ -11,20 +11,20 @@ If your account has the required authorization (Committee member or `finance_rea
 1. Click on the three vertical dot menu on the Savings page and select the `Manage Mode` option
 
 <p align="center">
-    <img src="images/3.1.2_Manage_Savings_Page.png" width="300px" alt="Manage Savings Page">
+    <img src="images/3.1.2_Manage_Savings_Page.png" width="600px" style="object-fit:contain" alt="Manage Savings Page">
 </p>
 
 2. Alternatively, you can access the module by clicking on the `Manage Savings` button located in the Quick menu in the [Top Banner arear](access-the-site/navigate-the-app?id=the-top-banner-area)
 
 
 <p align="center">
-    <img src="images/3.2_Manage_savings_quick_menu.png"  width="300px" alt="Manage Savings Menu">
+    <img src="images/3.2_Manage_savings_quick_menu.png"  width="600px" style="object-fit:contain" alt="Manage Savings Menu">
 </p>
 
 The Manage Savings module page displays the list of member transactions, a section on savings totals and a section on the monthly chart of all contributions.
 
 <p align="center">
-    <img src="images/3.3_Manage_Savings_Page.png" width="300px" alt="Manage Savings Page">
+    <img src="images/3.3_Manage_Savings_Page.png" height="400px" style="object-fit:contain" alt="Manage Savings Page">
 </p>
 
 ## Edit Savings Transaction
@@ -39,7 +39,7 @@ The Manage Savings module page displays the list of member transactions, a secti
 
 
 <p align="center"> 
-    <img src="images/3.3.1_Edit_Savings_Page.png"  width="300px" alt="Edit Savings Page">
+    <img src="images/3.3.1_Edit_Savings_Page.png"  height="400px" alt="Edit Savings Page">
 </p>
 
 ## Manage Savings options
@@ -47,7 +47,7 @@ The Manage Savings module page displays the list of member transactions, a secti
 Click on the three vertical dot menu on the Manage Savings page and select any of the following options:
 
 <p align="center">
-    <img src="images/3.1.4_Manage_Savings_Menu.png" width="300px" alt="Manage Savings Menu Options">
+    <img src="images/3.1.4_Manage_Savings_Menu.png" height="400px" style="object-fit:contain;" alt="Manage Savings Menu Options">
 </p>
 
 ### New Savings
@@ -55,7 +55,7 @@ Click on the three vertical dot menu on the Manage Savings page and select any o
 - The fields are exactly the same as described in the `Edit Savings Trnasaction` section above.
 
 <p align="center">
-    <img src="images/3.3.4_New_Savings.png" alt="New Savings">
+    <img src="images/3.3.4_New_Savings.png" height="400px" alt="New Savings">
 </p>
 
 ### New Withdrawal
@@ -64,13 +64,13 @@ Click on the three vertical dot menu on the Manage Savings page and select any o
 - The difference with the options above is that the amount is deducted rather than added.
 
 <p align="center">
-    <img src="images/3.3.4_New_Withdrawal.png" alt="New Savings Withdrawal">
+    <img src="images/3.3.4_New_Withdrawal.png" height="400px" alt="New Savings Withdrawal">
 </p>
 
 ### New Transfer
 `New Transfer` option is used to create a new transfer between two members
 <p align="center">
-    <img src="images/3.3.4_New_Transfer.png" width="300px" alt="New Savings Transfer">
+    <img src="images/3.3.4_New_Transfer.png" height="400px" alt="New Savings Transfer">
 </p>
 
 - The difference with the `New Savings` and `New Withdrawal` options is that there is a FROM field and a TO field. The amount is deducted from the FROM account and added to the TO account.
@@ -86,7 +86,7 @@ Click on the three vertical dot menu on the Manage Savings page and select any o
 Each Savings record has the abilty to load associated documents (e.g. Bank Deposit slip etc.). 
 
 <p align="center">
-    <img src="images/3.3.2_Edit_Savings_Documents.png" width="300px" alt="Edit Savings Documents">
+    <img src="images/3.3.2_Edit_Savings_Documents.png" height="400px" alt="Edit Savings Documents">
 </p>
 
 1. From the `Manage Savings` landing page, click on an Savings record to view its details.
