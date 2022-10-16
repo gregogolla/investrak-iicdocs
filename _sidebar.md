@@ -2,9 +2,9 @@
 
     - [Welcome](/)
     - [Accessing the Site](access-the-site/login.md)
-    - [Change Password](access-the-site/change-password.md)
     - [Navigating the Application](access-the-site/navigate-the-app.md)
     - [The Home Page](access-the-site/home-page.md)
+    - [Change Password](access-the-site/change-password.md)
 
 - User Modules
 
