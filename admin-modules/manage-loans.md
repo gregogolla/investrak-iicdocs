@@ -2,7 +2,7 @@
 The Manage Loans  module is an extention of the [Loans](user-modules/loans.md) module. IT is used to perform additional functions like approving and disbursing loans.
 
 ## Accessing the Manage Loans
-If your login has the required authorization (Committee Membership or `finance_read_all` permissions) then you will be able to access the module  in one of two ways:
+If your login has the required authorization (Committee Membership or [`finance_read_all`](admin-modules/member-accounts.md#finance_read_all) permissions) then you will be able to access the module  in one of two ways:
 
 1. Click on the three vertical dot menu on the Loans page and select the `Manage Mode` option
 

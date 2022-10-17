@@ -1,7 +1,9 @@
 # Member accounts
-!> This page can only be accessed by the `Admin`, `Treasurer` or member with the `finance_write` or `manage_member` permissions.
+!> This page can only be accessed by the [`Admin`](#admin-group), [`Treasurer`](#treasurer-group) or member with the [`finance_write`](#finance_write) or [`manage_member`](#manage_member) permissions.
 
-![alt text](../images/9.0_Members_Banner.png ":size=x100 Member Accounts banner")
+<p align="center">
+    <img src="images/9.0_Members_Banner.png" width="600px" style="object-fit:contain" alt="Members Banner">
+</p>
 
 This section is used to administer the records of the fund members. There are several sections at the administrator’s disposal.
 
@@ -9,14 +11,17 @@ This section is used to administer the records of the fund members. There are se
 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 
-
-![alt text](../images/9.1_Members_Menu.png ":size=x150 Member Accounts menu")
-
+<p align="center">
+    <img src="images/9.1_Members_Menu.png" height="400px" style="object-fit:contain" alt="Member Accounts Menu">
+</p>
 
 ## Member Profiles
 The Member Profiles is used to edit an individual member’s profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
 
-![alt text](../images/9.1_Member_Profiles.png ":size=x300 Member profiles")
+<!-- ![alt text](../images/9.1_Member_Profiles.png ":size=x300 Member profiles") -->
+<p align="center">
+    <img src="images/9.1_Member_Profiles.png" height="400px" style="object-fit:contain" alt="Member Profiles">
+</p>
 
 ### Searching for a member profile
 
@@ -99,8 +104,79 @@ The email dialog is displayed with the member account(s) to send the email state
 
 Security groups are used to easily place login accounts into groups for which appropriate permissions can be assigned.
 
-![alt text](../images/9.4_Security_groups.png ":size=x300  Security groups")
+The following Security groups are setup by default for the club
 
+### Admin Group
+The Admin Group is designed to provide overall site administartion for the club. By default it has been setup to have all the [`Security permisions`](#security-permissions) described below.
+
+### Committee Group
+The committee group is designed to provide visibility to all the club's records without neccessarily being able to add, delete or change the records. This is suited for committee members who are expected to review and discuss all matters of the club and contribute to  working level decisions. By default the committee group has the [`finance_read_all`](#finance_read_all) permission.
+
+### Secretary Group
+The committee group is designed to manage the club's documentation. By default the secretary group has the [`manage_docs`](#manage_docs) permission.
+
+### Treasurer Group
+The Treasurer group is designed to manage the club's financial information. Treasurers are ususally By default the Treasurer group has the  [`finance_read_all`](#finance_read_all),  [`finance_write`](#finance_write)  [`manage_docs`](#manage_docs) permissions.
+
+### Users Group
+The Users group includes all authenticated members of the club. Users can log into the system and view their own finances - savings, loans and arrears. Users can also view fund transactions and fund investments. By Default there are no additional elevated permissions provided to this group. 
+
+<!-- tabs:start -->
+
+#### **Groups List **
+<p align="center">
+    <img src="images/9.4_Security_groups.png" height="400px" style="object-fit:contain" alt="Security groups">
+</p>
+
+#### **Admin Group **
+
+<p align="center">
+    <img src="images/9.4_Security_groups_admin.png" height="400px" style="object-fit:contain" alt="Admin Security group">
+</p>
+
+#### **Committee Group **
+
+<p align="center">
+    <img src="images/9.4_Security_groups_committee.png" height="400px" style="object-fit:contain" alt="Committee Security groups">
+</p>
+
+#### **Secretary Group **
+
+<p align="center">
+    <img src="images/9.4_Security_groups_secretary.png" height="400px" style="object-fit:contain" alt="Secretary Security groups">
+</p>
+
+#### **Treasurer Group **
+
+<p align="center">
+    <img src="images/9.4_Security_groups_treasurer.png" height="400px" style="object-fit:contain" alt="Treasurer Security groups">
+</p>
+
+#### **Users Group **
+
+<p align="center">
+    <img src="images/9.4_Security_groups_user.png" height="400px" style="object-fit:contain" alt="Users Security groups">
+</p>
+
+
+<!-- tabs:end -->
+
+### Security Permissions
+
+#### finance_read_all
+Authenticated club members who have this permission can read all the club's financial information. This includes all savings, all loans, all arrears, all dividend distributions and fund transactions. This permission goves read only permission.
+
+#### finance_write
+Authenticated club members who have this permission can read and write all the club's financial information. In addition to the [`finance_read_all`](#finance_read_all) permission, members with this permission will be able to add, edit and delete savings records,  loan records, investment records and fund transactions.
+
+#### manage_docs
+Authenticated club members who have this permission can add, edit and delete club documents.
+
+#### manage_member
+Authenticated club members who have this permission can read and manage member profile information. This includes adding/editing a new profile or a new member account, adding/editing participation dates for a member
+
+#### manage_site
+Can read and write site settings that control the functioning of the site. This includes provisioning of permissions to different secirty groups.
 
 ## Accounts
 All paying members of the fund should be associated with an account. An account is the entity to which savings contributions, loans, and loan payments to or from the fund are attributed to. An account can contain one or more users. Although expected contributions depend on each individual in an account, the amounts are reflected against the account.
