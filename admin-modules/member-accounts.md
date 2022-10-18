@@ -1,13 +1,13 @@
 # Member accounts
-!> This page can only be accessed by the [`Admin`](#admin-group), [`Treasurer`](#treasurer-group) or member with the [`finance_write`](#finance_write) or [`manage_member`](#manage_member) permissions.
+The `Member Accounts` module is used to administer the profile records of the fund members.
 
 <p align="center">
     <img src="images/9.0_Members_Banner.png" width="600px" style="object-fit:contain" alt="Members Banner">
 </p>
 
-This section is used to administer the records of the fund members. There are several sections at the administrator’s disposal.
-
 ## Accessing the Member accounts module
+
+!> This page can only be accessed by the [`Admin`](#admin-group), [`Treasurer`](#treasurer-group) or member with the [`finance_write`](#finance_write) or [`manage_member`](#manage_member) permissions.
 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 
@@ -15,8 +15,15 @@ To access the Member Accounts module, click on the navigation menu as follows : 
     <img src="images/9.1_Members_Menu.png" height="400px" style="object-fit:contain" alt="Member Accounts Menu">
 </p>
 
+ The landing page of the module is divived into 3 sections: 
+- [`Member Profiles`](#member-profiles) - to edit an individual member’s profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
+- [`Security Groups`](#security-groups) - used to easily place login accounts into groups for which appropriate permissions can be assigned.
+-  [`Accounts`](#accounts)
+
+
+
 ## Member Profiles
-The Member Profiles is used to edit an individual member’s profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
+The Member Profiles is used to manage an individual member’s login profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
 
 <p align="center">
     <img src="images/9.1_Member_Profiles.png" height="400px" style="object-fit:contain" alt="Member Profiles">
@@ -87,30 +94,47 @@ In the `New Date Range` page, provide the following information:
 - `Description` – Additional information regarding the participation date record.
 - `Leave Memo` – Additional information that can be added when the participant left.
 
-<!-- ?> **Note** If there are no participation date records that include the current date, the member's account will be marked as `inactive`. -->
 
 ### Send Statements
+As part of the regular updates given to members, the [`Treasurer`](#treasurer-group) or [`Admin`](#admin-group) can send a statement financial statement by email to any or all members so that they are kept up to date even if he or she does not access the system. Follow the steps outlined below to to send statements by email to the members.
+
 <!-- tabs:start -->
-#### **Statements Button  **
+#### **Initiate  **
+Click on the `STATEMENTS` button to start the process.
 <p align="center">
-    <img src="images/9.3.0_Statements_Button.png" height="400px" style="object-fit:contain" alt="Statements Button">
+  <img src="images/9.3.0_Statements_Button.png" height="200px" style="object-fit:contain" alt="Statements Button">
 </p>
-#### **Select Recipients **
- To send multiple email statements use the checkboxes to select the members and the `Email statements` button. 
 
- ![alt text](../images/9.3.1_Email_Selected.png "Email statements to selected") 
- 
- To email statements to an individual member use the Send email button next to each member's name.
+<p align="center">
+  Wait for the financial data to finish loading and the email statements controls to become visible.
+  <img src="images/9.3.0_Statements_Loading_Progress.png" height="200px" style="object-fit:contain" alt="Statements Loading">
+</p>
 
-![alt text](../images/9.3.2_Email_Individual.png ":size=x100 Email statements to individual")
 
-#### ** Email confirm dialog **
+#### **Email Controls **
+ Once the data is loaded and the controls become available, you can use them to select the profiles that you want to send  email statements to. 
+
+ <p align="center">
+  <img src="images/9.3.1_Email_Selected.png" height="400px" style="object-fit:contain" alt="Email Selection Controls">
+</p>
+
+#### ** Confirm dialog **
 The email dialog is displayed with the member account(s) to send the email statement to. Before sending, you can preview the statement.
 
-![alt text](../images/9.3_Email_Statements.png ":size=x200 send statements dialog")
+<p align="center">
+  <img src="images/9.3_Email_Statements.png" height="400px" style="object-fit:contain" alt="Email Statements Dialog">
+</p>
 
 #### **Preview Statement**
- ![alt text](../images/9.3_Email_Preview.png ":size=x300 statement preview")
+ <p align="center">
+  <img src="images/9.3_Email_Preview.png" height="400px" style="object-fit:contain" alt="Email Statements Preview">
+</p>
+
+#### **Send Statement**
+When ready use the `Email Statements` -> `Send` buttons to send the statements the the selected members.
+ <p align="center">
+  <img src="images/9.3_Email_Statements_Send.png" height="400px" style="object-fit:contain" alt="Email Statements Send">
+</p>
 
 <!-- tabs:end -->
 
