@@ -18,7 +18,6 @@ To access the Member Accounts module, click on the navigation menu as follows : 
 ## Member Profiles
 The Member Profiles is used to edit an individual member’s profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
 
-<!-- ![alt text](../images/9.1_Member_Profiles.png ":size=x300 Member profiles") -->
 <p align="center">
     <img src="images/9.1_Member_Profiles.png" height="400px" style="object-fit:contain" alt="Member Profiles">
 </p>
@@ -27,7 +26,9 @@ The Member Profiles is used to edit an individual member’s profile. It can be 
 
 Use the search bar `Search profiles` to find a particular member profile.Type a either a name, email address, phone number or part of the account number in the search field to find what you are looking for.
 
-![alt text](../images/9.1_Profiles_Search.png ":size=x300 Member profiles search")
+<p align="center">
+    <img src="images/9.1_Profiles_search.png" height="400px" style="object-fit:contain" alt="Member Profiles search">
+</p>
 
 
 ### Activate or disable Users
@@ -37,39 +38,48 @@ To login and use the platform a user's login needs to be active. All user accoun
   - `Pending` - When a member initially registers into the system the user's account is saved with this status. They will be unable to login until the administrator changes the status to `Active`. The admin cannot manually set an account to this status. The status is denoted by the colour orange.
   - `Disabled` - When a user leaves the investment club, the Administrator can disable the user's login by changing the status to `Disabled`. The member will be unable to login until the administrator changes the status to `Active`. The status is denoted by the colour red.
   
-<!-- tabs:start -->
-#### **Disable Profile**
-![alt text](../images/9.1.2_Disable_Active_Profiles.png ":size=x200 Disable profile")
-<div>
-To disable a user click on the  users `Activate or Deactivate` button in the `Member Accounts` page. 
-</div>
+ 
 
-#### **Enable Profile**
-![alt text](../images/9.1.3_Enable_Disabled_Profile.png ":size=x200 Enable profile") 
-<div>
+<!-- tabs:start -->
+#### **Disble Profile **
+To disable a user click on the  users `Activate or Deactivate` button in the `Member Accounts` page.
+<p align="center">
+    <img src="images/9.1.2_Disable_Active_Profiles.png" height="200px" style="object-fit:contain" alt="Member Profiles search">
+</p>
+#### **Enable Profile **
 To activate a user whose status is `pending` or `disabled` use the same users `Activate or Deactivate` button.
-</div>
+<p align="center">
+    <img src="images/9.1.3_Enable_Disabled_Profile.png" height="200px" style="object-fit:contain" alt="Member Profiles search">
+</p>
 <!-- tabs:end -->
 
 ?> **Note** You cannot use the `status` button to change a user's status from something else to `pending`. The `pending` status is reserved for the system. A newly signed up user will automatically be marked as `pending`, until the admin changes this status. 
 
 ### Create and edit profiles
-![alt text](../images/9.2_New_Profile.png "New profile page")
+<p align="center">
+    <img src="images/9.2_New_Profile.png" width="400px" style="object-fit:contain" alt="New Profiles page">
+</p>
 
 ### Participation Dates
 !> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
 
 `Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges, the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation, especially if the member had many gaps in their membership.
 
-![alt text](../images/9.2.2_Participation_Dates.png "participation dates")
+<p align="center">
+    <img src="images/9.2.2_Participation_Dates.png" width="400px" style="object-fit:contain" alt="Participation Dates">
+</p>
 
 ####	Add Participation dates
 To add a participation date click on the `Add Participation date` button.
-![alt text](../images/9.2.4_Participation_Dates_Add_Button.png ":size=x100 participation dates tab")
+<p align="center">
+    <img src="images/9.2.4_Participation_Dates_Add_Button.png" width="400px" style="object-fit:contain" alt="Participation Dates Add Button">
+</p>
 
 In the `New Date Range` page, provide the following information:
 
-![alt text](../images/9.2.3_Participation_Dates_Add.png ":size=x300 Add participation dates")
+<p align="center">
+    <img src="images/9.2.3_Participation_Dates_Add.png" width="400px" style="object-fit:contain" alt="Add Participation Dates">
+</p>
 
 - `Name` – This is pre-selected based on the member record under which the add button was clicked. It can not be changed.
 - `Joined` – Select the date joined or the date rejoined after the member had previously left.
@@ -81,6 +91,10 @@ In the `New Date Range` page, provide the following information:
 
 ### Send Statements
 <!-- tabs:start -->
+#### **Statements Button  **
+<p align="center">
+    <img src="images/9.3.0_Statements_Button.png" height="400px" style="object-fit:contain" alt="Statements Button">
+</p>
 #### **Select Recipients **
  To send multiple email statements use the checkboxes to select the members and the `Email statements` button. 
 
