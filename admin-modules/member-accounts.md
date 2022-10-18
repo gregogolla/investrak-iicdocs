@@ -29,6 +29,17 @@ The Member Profiles is used to manage an individual member’s login profile. It
     <img src="images/9.1_Member_Profiles.png" height="400px" style="object-fit:contain" alt="Member Profiles">
 </p>
 
+### Adding a New Member Profile
+Click on the three vertical dot menu on the Investment Records page and select the `New Profile` option.
+<p align="center">
+    <img src="images/9.1_New_Profile_Menu.png" height="200px" style="object-fit:contain" alt="Member Profiles">
+</p>
+
+### Create and edit profiles
+<p align="center">
+    <img src="images/9.2_New_Profile.png" width="400px" style="object-fit:contain" alt="New Profiles page">
+</p>
+
 ### Searching for a member profile
 
 Use the search bar `Search profiles` to find a particular member profile.Type a either a name, email address, phone number or part of the account number in the search field to find what you are looking for.
@@ -62,10 +73,7 @@ To activate a user whose status is `pending` or `disabled` use the same users `A
 
 ?> **Note** You cannot use the `status` button to change a user's status from something else to `pending`. The `pending` status is reserved for the system. A newly signed up user will automatically be marked as `pending`, until the admin changes this status. 
 
-### Create and edit profiles
-<p align="center">
-    <img src="images/9.2_New_Profile.png" width="400px" style="object-fit:contain" alt="New Profiles page">
-</p>
+
 
 ### Participation Dates
 !> **Note** It is important that the Administrator accurately records all members' `Participation Dates` so that arrears and dues can be calculated correctly.
@@ -221,3 +229,8 @@ All paying members of the fund should be associated with an account. An account 
 
 ![alt text](../images/9.4_Accounts.png ":size=x300 Security groups")
  
+### Adding a New Account
+Click on the three vertical dot menu on the Investment Records page and select the `New Account` option.
+<p align="center">
+    <img src="images/9.4_New_Account_Menu.png" height="200px" style="object-fit:contain" alt="New Account Menu">
+</p>
