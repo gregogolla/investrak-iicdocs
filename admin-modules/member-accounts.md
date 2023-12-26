@@ -5,9 +5,9 @@ The `Member Accounts` module is used to administer the profile records of the fu
     <img src="images/9.0_Members_Banner.png" width="600px" style="object-fit:contain" alt="Members Banner">
 </p>
 
-## Accessing the Member accounts module
+## Accessing Member Accounts
 
-!> This page can only be accessed by the [`Admin`](#admin-group), [`Treasurer`](#treasurer-group) or member with the [`finance_write`](#finance_write) or [`manage_member`](#manage_member) permissions.
+!> This module can only be accessed by the [`Admin`](#admin-group), [`Treasurer`](#treasurer-group) or member with the [`finance_write`](#finance_write) or [`manage_member`](#manage_member) permissions.
 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 

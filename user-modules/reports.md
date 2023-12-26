@@ -1,7 +1,7 @@
 #	Reports Module
 The reports module provides an overview of the financial health of the investment club. 
 
-## Accessing the reports module
+## Accessing Reports
 To access the reports module, click on the navigation menu as follows :
     `User Menu` ->`Fund Activity` ->  `Reports`
 

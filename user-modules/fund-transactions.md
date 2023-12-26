@@ -6,8 +6,8 @@ The Fund Transactions module is used to track the details of the Club's financia
     <img src="images/5.0_Fund_Transactions_Banner.png" alt="Fund Transactions">
 </p>
 
-## Accessing the Fund transactions module
-To access the Fund activity module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Fund Transactions`.
+## Accessing Fund transactions
+To access the Fund Transactions module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Fund Transactions`.
 
 <p align="center">
     <img src="images/5.1_Fund_Transactions_Menu.png" alt="Fund Transactions menu">

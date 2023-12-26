@@ -4,7 +4,7 @@
 !>**Note.** \
 For accurate calculation of arrears, every club member must have their [`Participation Dates`](admin-modules/member-accounts?id=participation-dates) correctly entered by the administrator. Additionally the [`Expected Contributions`](admin-modules/app-settings?id=expected-monthly-contributions) records must be accurately maintained.
 
-## Accessing the arrears module
+## Accessing Arrears
 >**Note.** \
 >For the arrears module to be visible, the system must have the [`Track arrears`](admin-modules/app-settings?id=system-will-track-arrears) setting turned on. 
 

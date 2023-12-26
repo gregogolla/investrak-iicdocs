@@ -5,8 +5,8 @@ The Dividendss module allows the treasurer to distribute the club's investment e
     <img src="images/10.6.0_Dividends_Banner.png" width="600px" style="object-fit:contain" alt="Dividends Banner">
 </p>
 
-## Accessing the Dividends module
-To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Dividends`.
+## Accessing Dividends
+To access the dividends module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Dividends`.
 
 <p align="center">
     <img src="images/10.6_Dividends_Menu.png" height="400px" style="object-fit:contain" alt="Dividends Menu">

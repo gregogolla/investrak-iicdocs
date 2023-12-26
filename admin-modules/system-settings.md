@@ -3,8 +3,8 @@
 
 This module is used to administer the club specific settings. Because the operations and needs of each club is different, there are some settings and modules that can be turned on or off and in some cases conifgurations that are set differently depending on the club needs.
 
-## Accessing the Systems Setting module
-To access the  module, click on the navigation menu as follows : `Admin Menu` ->`System` ->    `App Settings`.
+## Accessing Systems Settings
+To access the Systems Settings module, click on the navigation menu as follows : `Admin Menu` ->`System` ->    `App Settings`.
 
 ![alt text](../images/11.1_System_Settings_Menu.png ":size=x150 System Settings menu")
 

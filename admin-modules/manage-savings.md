@@ -4,7 +4,7 @@
 This module provides the treasurer with the ability to be able to add contributions for members or to edit existing contributions.
 
 
-## Accessing the Manage Savings module
+## Accessing Manage Savings
 
 If your account has the required authorization (Committee member or `finance_read_all` permission) you can access the manage savings module in one of two ways:
 

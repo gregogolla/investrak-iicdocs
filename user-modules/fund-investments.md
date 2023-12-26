@@ -6,7 +6,7 @@ The Investments Module is used to display and manage the details of the Club's F
     <img src="images/7.0_Investments_Banner.png"  width="300px" alt="Investments Banner">
 </p>
 
-## Accessing the investments module
+## Accessing Investments
 
 To access the Investments module, click on the navigation menu as follows :
 

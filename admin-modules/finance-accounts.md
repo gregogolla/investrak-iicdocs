@@ -12,8 +12,8 @@ To be able to store transactions and report on them, the systm groups all transa
 - `Expenses` - to record all of the money and resources the club spends for operations or in the process of generating revenues
 - `Revenue` - keep track of any income the club brings in from operations 
 
-## Accessing the Finance Account module
-To access the  module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Finance Accounts`.
+## Accessing Finance Accounts 
+To access the Finance Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Finance Accounts`.
 
 
 ![alt text](../images/10.1_Finance_Account_Menu.png ":size=x150 Finance Accounts menu")

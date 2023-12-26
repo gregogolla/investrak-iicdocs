@@ -4,7 +4,7 @@ This module is used to display and manage the details of members' savings contri
     <img src="images/3.0_Savings_Banner.png" alt="Savings Banner">
 </p>
 
-## Accessing the savings module
+## Accessing Savings
 
 To access the savings module, click on the navigation menu as follows: `User Menu` ->`My Activity` -> `Savings`.
 

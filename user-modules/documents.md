@@ -9,7 +9,7 @@ This module displays a list the documents clubs relevant documents, such as meet
 
 The `company secretary` or any `committee member` will be able to add and remove documents from this module. All members are able to view & download any company documents posted here.
 
-## Accessing the documents module
+## Accessing Documents
 
 To access the documents module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Documents` Link from the navigation menu.
 
