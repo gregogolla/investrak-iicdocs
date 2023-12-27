@@ -1,5 +1,5 @@
 # Arrears Module
- if the [`Track arrears`](admin-modules/app-settings?id=system-will-track-arrears) setting is turned on, the system automatically calculates and tracks how much each club member is supposed to pay every month. The expected amount is compared to the total amount that the member has contributed and if it is less, then the club member is in arrears.
+ If the [`Track arrears`](admin-modules/app-settings?id=system-will-track-arrears) setting is turned on, the system automatically calculates and tracks how much each club member is supposed to pay every month. The expected amount is compared to the total amount that the member has contributed and if it is less, then the club member is in arrears.
 
 !>**Note.** \
 For accurate calculation of arrears, every club member must have their [`Participation Dates`](admin-modules/member-accounts?id=participation-dates) correctly entered by the administrator. Additionally the [`Expected Contributions`](admin-modules/app-settings?id=expected-monthly-contributions) records must be accurately maintained.
