@@ -72,6 +72,6 @@ Follow these steps to make a submission:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.1.3.2_self_submit_confirm.png "Self Submit New Dialog :size=200").
 
 >**Note.** \
->If more clarification is required after the record has been submitted both the Treasurer and te member can use the `COMMENTS` Tab of the record to provided additional information.
+>If more clarification is required after the record has been submitted both the Treasurer and the member can use the `COMMENTS` Tab of the record to provided additional information.
 
 ![alt text](../images/3.1.3.2_self_submit_comment.png "Self Submit New Dialog :size=400").

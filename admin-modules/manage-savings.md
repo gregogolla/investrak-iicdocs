@@ -1,31 +1,27 @@
 # Manage Savings
 !> This page can only be accessed by the `Admin`, `Treasurer` or member with the `finance_read_all` permission.
 
-This module provides the treasurer with the ability to be able to add contributions for members or to edit existing contributions.
+This module provides the Treasurer with the ability to be able to add contributions for members or to edit existing contributions.
 
 
 ## Accessing Manage Savings
 
 If your account has the required authorization (Committee member or `finance_read_all` permission) you can access the manage savings module in one of two ways:
 
-1. Click on the three vertical dot menu on the Savings page and select the `Manage Mode` option
+1. Click on the three vertical dot menu on the Savings page and select the `Manage` button.
 
-<p align="center">
-    <img src="images/3.1.2_Manage_Savings_Page.png" width="600px" style="object-fit:contain" alt="Manage Savings Page">
-</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.1.2_Manage_Savings_Button.png "Manage Savings Mode Button :size=400").
 
 2. Alternatively, you can access the module by clicking on the `Manage Savings` button located in the Quick menu in the [Top Banner arear](access-the-site/navigate-the-app?id=the-top-banner-area)
 
 
-<p align="center">
-    <img src="images/3.2_Manage_savings_quick_menu.png"  width="600px" style="object-fit:contain" alt="Manage Savings Menu">
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.2_Manage_savings_quick_menu.png "Manage Savings Quick Menu :size=400").
 
 The Manage Savings module page displays the list of member transactions, a section on savings totals and a section on the monthly chart of all contributions.
 
-<p align="center">
-    <img src="images/3.3_Manage_Savings_Page.png" height="400px" style="object-fit:contain" alt="Manage Savings Page">
-</p>
+
+![alt text](../images/3.3_Manage_Savings_Page.png "Manage Savings Page :size=400").
 
 ## Edit Savings Transaction
 - From the `Manage Savings` landing page, click on a Savings record to view its details.
@@ -38,40 +34,34 @@ The Manage Savings module page displays the list of member transactions, a secti
     1. `Arrears` - This line will only appear if the [Track arrears](admin-modules/app-settings?id=system-will-track-arrears) setting is turned on. It indicates the amount that the member owes in arrears. Clicking on it will open the [Arrears](user-modules/arrears.md) module.
 
 
-<p align="center"> 
-    <img src="images/3.3.1_Edit_Savings_Page.png"  height="400px" alt="Edit Savings Page">
-</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.3.1_Edit_Savings_Page.png "Edit Savings Dialog :size=400").
 
 ## Manage Savings options
 
 Click on the three vertical dot menu on the Manage Savings page and select any of the following options:
 
-<p align="center">
-    <img src="images/3.1.4_Manage_Savings_Menu.png" height="400px" style="object-fit:contain;" alt="Manage Savings Menu Options">
-</p>
+
+![alt text](../images/3.1.4_Manage_Savings_Menu.png "Manage Savings Menu Options :size=400").
 
 ### New Savings
 - `New Savings` option is used to create a new savings transaction.
 - The fields are exactly the same as described in the `Edit Savings Trnasaction` section above.
 
-<p align="center">
-    <img src="images/3.3.4_New_Savings.png" height="400px" alt="New Savings">
-</p>
+
+![alt text](../images/3.3.4_New_Savings.png "New Saving Dialog :size=400").
 
 ### New Withdrawal
 - `New Withdrawal` option is used to create a new withdrawal transaction.
 - The fields are exactly the same as described in the `Edit Savings Trnasaction` section above.
 - The difference with the options above is that the amount is deducted rather than added.
 
-<p align="center">
-    <img src="images/3.3.4_New_Withdrawal.png" height="400px" alt="New Savings Withdrawal">
-</p>
+![alt text](../images/3.3.4_New_Withdrawal.png "New Savings Withdrawal Dialog :size=400").
 
 ### New Transfer
 `New Transfer` option is used to create a new transfer between two members or between a member and another account(loan or share capital).
-<p align="center">
-    <img src="images/3.3.4_New_Transfer.png" height="400px" alt="New Savings Transfer">
-</p>
+
+![alt text](../images/3.3.4_New_Transfer.png "New Savings Transfer Dialog :size=400").
 
 - The difference with the `New Savings` and `New Withdrawal` options is that there is a FROM field and a TO field. The amount is deducted from the FROM account and added to the TO account.
 - For the TO account, in addition to Member Savings accounts, money cn also be transfered to the following accounts:
@@ -85,9 +75,8 @@ Click on the three vertical dot menu on the Manage Savings page and select any o
 ## Savings Documents
 Each Savings record has the abilty to load associated documents (e.g. Bank Deposit slip etc.). 
 
-<p align="center">
-    <img src="images/3.3.2_Edit_Savings_Documents.png" height="400px" alt="Edit Savings Documents">
-</p>
+
+![alt text](../images/3.3.2_Edit_Savings_Documents.png "Edit Savings Documents :size=400").
 
 1. From the `Manage Savings` landing page, click on an Savings record to view its details.
 1. The `Edit Payment` dialog page is displayed with the Savings details.
