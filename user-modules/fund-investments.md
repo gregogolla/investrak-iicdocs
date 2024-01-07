@@ -14,7 +14,7 @@ To access the Investments module, click on the navigation menu as follows :
 <!-- <p align="center">
     <img src="images/7.1_Investments_Menu.png"  width="300px" alt="Investments Menu">
 </p> -->
-![alt text](../images/7.1_Investments_Menu.png "Investments Menu :size=400").
+![alt text](../images/7.1_Investments_Menu.png "Investments Menu :size=100").
 
  `User Menu` ->`Fund Activity` ->  `Fund Investments`.
 
