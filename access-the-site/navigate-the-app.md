@@ -1,15 +1,18 @@
 # Navigating the Application
 The Application is built to allow easy access of all the screens and content using Navigation menus, the Top Banner area, and the  Main Content Page. After successfully logging in, these sections will be displayed.
 
-<p align="center">
-    <img src="images/2.1_App_Overview.png" height="400px" alt="App Overview">
-</p>
+<!-- <p align="center">
+    <img src="images/2.1_App_Overview.png" width="400px" alt="App Overview">
+</p> -->
+![alt text](../images/2.1_App_Overview.png "App Overview :size=400").
 
 ## The Top Banner Area 
 The top banner on the screen is available on every page of the application.
-<p align="center">
-    <img src="images/2.1.2_Top_Banner.png" height="400px" style="object-fit:contain;" alt="Top Banner">
-</p>
+<!-- <p align="center">
+    <img src="images/2.1.2_Top_Banner.png" width="400px" style="object-fit:contain;" alt="Top Banner">
+</p> -->
+
+![alt text](../images/2.1.2_Top_Banner.png "Top Banner :size=400").
 
  It will display some additional icons and information as follows:
  
@@ -28,9 +31,10 @@ The top banner on the screen is available on every page of the application.
 ## The Navigation Menus
 The navigation menu helps you to intuitively and easily navigate  the applications  through the the different pages and find the relevant content. The menus are grouped into links with similar content - like user related resources (`My Savings` and `My Loans`) vs club related resources (like `Fund Activity` or `Fund Investments`). The groups of menus can be expanded to show the menu links under them or collapsed to reduce clutter.
 
-<p align="center">
+<!-- <p align="center">
     <img src="images/2.1.3_Nav_Menu.png" height="400px" alt="Navigation Menu">
-</p>
+</p> -->
+![alt text](../images/2.1.3_Nav_Menu.png "Navigation Menu :size=150").
 
 ## The Main Content Area
 The main content area is a dynamic page area that is used to display the data that you have selected using the navigation menus or links from the top banner. This is the page that will show you the important content on the site.
