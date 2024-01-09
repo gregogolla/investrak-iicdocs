@@ -26,6 +26,11 @@ The `Club Details` is used to set  the name of the Club. The club name that is s
 
 The Expected monthly contribtions section enables to administrator to set  the data ranges and corresponding amounts for the date ranges that the system expects savings contributions from each dues paying member. The ranges are used to determine each members expected contribution and to calculate arrears. Comparing with each member's [participation dates](member-accounts.md?id=participation-dates), the system knows how much to expect every month.
 
+### Members can self submit savings 
+![alt text](../images/11.2.2_Track_Arrears_Button.png ":size=400 Track Arrears Button")
+
+This is a master button to set whether or not the club will allow regular members to self submit their contributions. If this is turned on, then self submit controls will be enabled regular members to submit their contributions and workflow put in place so that the Treasurer will be notified and will need to approve before the submitted savings are added into the account savings.
+
 ### System will track arrears 
 ![alt text](../images/11.2.2_Track_Arrears_Button.png ":size=400 Track Arrears Button")
 
