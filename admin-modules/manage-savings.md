@@ -88,8 +88,27 @@ Details on adding and working with documents can be found on the [`Documents`](u
 
 If permitted by the Club Administrator or Treasurer, regular club members can record their own savings that they have submitted to the bank. There is a workflow in place so that the Treasurer will be notified and will need to approve before the submitted payment is added into the account savings.
 
-Follow these steps to approve a submission:
+Follow these steps to approve or decline a submission:
 
-1. From the Manage Savings page navigate to the `SELF SUBMITTED SAVINGS` tab and click on the 3 vertical dots menu.
+1. From the Manage Savings page navigate to the `SELF SUBMITTED SAVINGS` tab and select the self submitted record you would like to approve or decline.
+   
+![alt text](../images/3.3.2_Select_Self_Submit_Savings.png "Select Self Submit Savings :size=400").
+
 >**Note.** \
 >If you do not see the `SELF SUBMITTED SAVINGS` it means that your club has not been enabled for this feature. Check your [App Settings](admin-modules/app-settings.md).
+
+2. The `Self Submitted Payment` dialog opens up. On the `DETAILS` Tab, review the details of the payments  that has been self submitted by the member to the bank. Most of the fields are pre-filled and you can edit them if you like.
+   
+![alt text](../images/3.3.2_Review_Self_Submit_Savings.png "Review Self Submit Savings :size=400").
+
+1. Next, click on the `DOCUMENTS` Tab and review the upload an image of the bank slip or receipt that shows the bank transaction. This provides the proof needed to review and reconcile the recorded self submitted payment with the bank statements so that it can be approved.
+   
+&nbsp;&nbsp;&nbsp;![alt text](../images/3.3.2_Review_Self_Submit_Doc.png "Self Submit New Dialog :size=400").
+
+4. If everything looks ok, click on the Grren `APPROVE` button. You can also reject submitted record by clicking on the `DECLINE` button.
+5. ![alt text](../images/3.3.2_Approve_Self_Submit_Savings.png "Self Submit New Dialog :size=400").
+
+>**Note.** \
+>If more clarification is required after the record has been submitted both the Treasurer and the member can use the `COMMENTS` Tab of the record to provided additional information.
+
+![alt text](../images/3.1.3.2_self_submit_comment.png "Self Submit New Dialog :size=400").
