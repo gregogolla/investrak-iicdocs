@@ -1,11 +1,25 @@
 # Loan Settings
 This tab is used by the administrator to set the default options that are applied to loans that the club provides to its members.
 
-There are two sections:
+There are two options at the top of the page:
+
+## Loans module enabled
+![alt text](../images/11.4.0_Loans_enabled.png ":size=400 Loan Settings")
+
+This option setting determines whether the loans module is enabled or disabled. It provides clubs who do not use the loans facility to turn this off.
+
+If the Loans module is enabled, the other settings become availbale to configure as described below
+
+## Members Self Submit loan payments
+![alt text](../images/11.4.0_Self_Submit_loans.png ":size=500 Loan Settings")
+
+This option setting determines whether the club administartors allow club members to submit their loan payments. If enabled it will provide the screens and the workflow that enable regular members to self submit payments that they have made to the bank and also enable the workflow for the treasurer to approve the submission.
+
+
 ## Configure Loan Settings
 To confgure the default options that are new loan will have
 
-![alt text](../images/11.4_Loan_settings.png ":size=x300 Loan Settings")
+![alt text](../images/11.4_Loan_settings.png ":size=400 Loan Settings")
 
 The following settings are available on how to manage loans:
 
@@ -24,12 +38,12 @@ The following settings are available on how to manage loans:
 ## Loan Types
 Some club may have different types of loans that are offered to mem,bers based on different criteria. This section is used to add these different types of loans.
 
-![alt text](../images/11.6_Loan_types.png ":size=x200 Loan Types")
+![alt text](../images/11.6_Loan_types.png ":size=400 Loan Types")
 
 
 ### Add or Edit a loan type
 You can add a new loan type using the Add New Loan Type button on the top of the table. You can also edit a loan type by click on it from the table. Use the Edit Loan Type Form to edit and save your changes.
 
-![alt text](../images/11.7_Edit_Loan_type.png ":size=x300 Edit Loan Types")
+![alt text](../images/11.7_Edit_Loan_type.png ":size=400 Edit Loan Types")
 
 >Note there is a loan type labeled `General`that is read only and provides the default loan settings for the club. It cannot be deleted or modified from the table. Whenever any of the default settings are modified in the above section, they will be reflected by this record.
