@@ -1,9 +1,8 @@
 # Member accounts
 The `Member Accounts` module is used to administer the profile records of the fund members.
 
-<p align="center">
-    <img src="images/9.0_Members_Banner.png" width="600px" style="object-fit:contain" alt="Members Banner">
-</p>
+
+![alt text](../images/9.0_Members_Banner.png "Members Banner :size=400").
 
 ## Accessing Member Accounts
 
@@ -11,9 +10,8 @@ The `Member Accounts` module is used to administer the profile records of the fu
 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 
-<p align="center">
-    <img src="images/9.1_Members_Menu.png" height="400px" style="object-fit:contain" alt="Member Accounts Menu">
-</p>
+
+![alt text](../images/9.1_Members_Menu.png "Member Accounts Menu :size=100").
 
  The landing page of the module is divived into 3 sections: 
 - [`Member Profiles`](#member-profiles) - to edit an individual member’s profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
@@ -25,29 +23,21 @@ To access the Member Accounts module, click on the navigation menu as follows : 
 ## Member Profiles
 The Member Profiles is used to manage an individual member’s login profile. It can be used to add new users or edit such records as Name, email address, account, profile image or address.
 
-<p align="center">
-    <img src="images/9.1_Member_Profiles.png" height="400px" style="object-fit:contain" alt="Member Profiles">
-</p>
+![alt text](../images/9.1_Member_Profiles.png "Mmmber Profiles  :size=400").
 
 ### Adding a New Member Profile
 Click on the three vertical dot menu on the Investment Records page and select the `New Profile` option.
-<p align="center">
-    <img src="images/9.1_New_Profile_Menu.png" height="200px" style="object-fit:contain" alt="Member Profiles">
-</p>
 
+![alt text](../images/9.1_New_Profile_Menu.png "New Profile Menu :size=400").
 ### Create and edit profiles
-<p align="center">
-    <img src="images/9.2_New_Profile.png" width="400px" style="object-fit:contain" alt="New Profiles page">
-</p>
+
+![alt text](../images/9.2_New_Profile.png "New Profile screen :size=400").
 
 ### Searching for a member profile
 
 Use the search bar `Search profiles` to find a particular member profile.Type a either a name, email address, phone number or part of the account number in the search field to find what you are looking for.
 
-<p align="center">
-    <img src="images/9.1_Profiles_search.png" height="400px" style="object-fit:contain" alt="Member Profiles search">
-</p>
-
+![alt text](../images/9.1_Profiles_search.png "New Profile screen :size=400").
 
 ### Activate or disable Users
 To login and use the platform a user's login needs to be active. All user accounts have one of the following statuses:
@@ -61,14 +51,14 @@ To login and use the platform a user's login needs to be active. All user accoun
 <!-- tabs:start -->
 #### **Disble Profile **
 To disable a user click on the  users `Activate or Deactivate` button in the `Member Accounts` page.
-<p align="center">
-    <img src="images/9.1.2_Disable_Active_Profiles.png" height="200px" style="object-fit:contain" alt="Member Profiles search">
-</p>
+
+![alt text](../images/9.1.2_Disable_Active_Profiles.png "Disable Active Profile :size=400").
+
 #### **Enable Profile **
 To activate a user whose status is `pending` or `disabled` use the same users `Activate or Deactivate` button.
-<p align="center">
-    <img src="images/9.1.3_Enable_Disabled_Profile.png" height="200px" style="object-fit:contain" alt="Member Profiles search">
-</p>
+
+![alt text](../images/9.1.3_Enable_Disabled_Profile.png "Disable Active Profile :size=400").
+
 <!-- tabs:end -->
 
 ?> **Note** You cannot use the `status` button to change a user's status from something else to `pending`. The `pending` status is reserved for the system. A newly signed up user will automatically be marked as `pending`, until the admin changes this status. 
@@ -80,21 +70,17 @@ To activate a user whose status is `pending` or `disabled` use the same users `A
 
 `Participation Dates` provide exact date intervals for which a specific member is expected to be an active, dues paying member of the fund. By recording exact date ranges, the system can then calculate how much everyone is expected to pay and from that determine arrears for each account. Add as many date ranges as necessary to fully describe the members dates of participation, especially if the member had many gaps in their membership.
 
-<p align="center">
-    <img src="images/9.2.2_Participation_Dates.png" width="400px" style="object-fit:contain" alt="Participation Dates">
-</p>
+![alt text](../images/9.2.2_Participation_Dates.png "Participation Dates :size=400").
 
 ####	Add Participation dates
 To add a participation date click on the `Add Participation date` button.
-<p align="center">
-    <img src="images/9.2.4_Participation_Dates_Add_Button.png" width="400px" style="object-fit:contain" alt="Participation Dates Add Button">
-</p>
+
+![alt text](../images/9.2.4_Participation_Dates_Add_Button.png "Participation Dates Add Button :size=400").
 
 In the `New Date Range` page, provide the following information:
 
-<p align="center">
-    <img src="images/9.2.3_Participation_Dates_Add.png" width="400px" style="object-fit:contain" alt="Add Participation Dates">
-</p>
+
+![alt text](../images/9.2.3_Participation_Dates_Add.png "Add Participation Dates :size=400").
 
 - `Name` – This is pre-selected based on the member record under which the add button was clicked. It can not be changed.
 - `Joined` – Select the date joined or the date rejoined after the member had previously left.
@@ -109,41 +95,32 @@ As part of the regular updates given to members, the [`Treasurer`](#treasurer-gr
 <!-- tabs:start -->
 #### **Initiate  **
 Click on the `STATEMENTS` button to start the process.
-<p align="center">
-  <img src="images/9.3.0_Statements_Button.png" height="200px" style="object-fit:contain" alt="Statements Button">
-</p>
 
-<p align="center">
-  Wait for the financial data to finish loading and the email statements controls to become visible.
-  <img src="images/9.3.0_Statements_Loading_Progress.png" height="200px" style="object-fit:contain" alt="Statements Loading">
-</p>
+![alt text](../images/9.3.0_Statements_Button.png "Statements Button :size=400").
+
+
+![alt text](../images/9.3.0_Statements_Loading_Progress.png "Statements Loading :size=400").
 
 
 #### **Email Controls **
  Once the data is loaded and the controls become available, you can use them to select the profiles that you want to send  email statements to. 
 
- <p align="center">
-  <img src="images/9.3.1_Email_Selected.png" height="400px" style="object-fit:contain" alt="Email Selection Controls">
-</p>
+![alt text](../images/9.3.1_Email_Selected.png "Email Selection Controls :size=400").
 
 #### ** Confirm dialog **
 The email dialog is displayed with the member account(s) to send the email statement to. Before sending, you can preview the statement.
 
-<p align="center">
-  <img src="images/9.3_Email_Statements.png" height="400px" style="object-fit:contain" alt="Email Statements Dialog">
-</p>
+
+![alt text](../images/9.3_Email_Statements.png "Email Statements Dialog :size=400").
 
 #### **Preview Statement**
- <p align="center">
-  <img src="images/9.3_Email_Preview.png" height="400px" style="object-fit:contain" alt="Email Statements Preview">
-</p>
+
+![alt text](../images/9.3_Email_Preview.png "Email Statements preview :size=400").
 
 #### **Send Statement**
 When ready use the `Email Statements` -> `Send` buttons to send the statements the the selected members.
- <p align="center">
-  <img src="images/9.3_Email_Statements_Send.png" height="400px" style="object-fit:contain" alt="Email Statements Send">
-</p>
-
+ 
+![alt text](../images/9.3_Email_Statements_Send.png "Email Statements Send :size=400").
 <!-- tabs:end -->
 
 ## Security Groups
@@ -170,40 +147,28 @@ The Users group includes all authenticated members of the club. Users can log in
 <!-- tabs:start -->
 
 #### **Groups List **
-<p align="center">
-    <img src="images/9.4_Security_groups.png" height="400px" style="object-fit:contain" alt="Security groups">
-</p>
+
+![alt text](../images/9.4_Security_groups.png "Security groups :size=400").
 
 #### **Admin Group **
 
-<p align="center">
-    <img src="images/9.4_Security_groups_admin.png" height="400px" style="object-fit:contain" alt="Admin Security group">
-</p>
+![alt text](../images/9.4_Security_groups_admin.png "Admin Security group :size=400").
 
 #### **Committee Group **
 
-<p align="center">
-    <img src="images/9.4_Security_groups_committee.png" height="400px" style="object-fit:contain" alt="Committee Security groups">
-</p>
+![alt text](../images/9.4_Security_groups_committee.png "Committee Security group :size=400").
 
 #### **Secretary Group **
 
-<p align="center">
-    <img src="images/9.4_Security_groups_secretary.png" height="400px" style="object-fit:contain" alt="Secretary Security groups">
-</p>
+![alt text](../images/9.4_Security_groups_secretary.png "Secretary Security group :size=400").
 
 #### **Treasurer Group **
 
-<p align="center">
-    <img src="images/9.4_Security_groups_treasurer.png" height="400px" style="object-fit:contain" alt="Treasurer Security groups">
-</p>
+![alt text](../images/9.4_Security_groups_treasurer.png "Treasurer Security group :size=400").
 
 #### **Users Group **
 
-<p align="center">
-    <img src="images/9.4_Security_groups_user.png" height="400px" style="object-fit:contain" alt="Users Security groups">
-</p>
-
+![alt text](../images/9.4_Security_groups_user.png "Users Security group :size=400").
 
 <!-- tabs:end -->
 
@@ -231,6 +196,5 @@ All paying members of the fund should be associated with an account. An account 
  
 ### Adding a New Account
 Click on the three vertical dot menu on the Investment Records page and select the `New Account` option.
-<p align="center">
-    <img src="images/9.4_New_Account_Menu.png" height="200px" style="object-fit:contain" alt="New Account Menu">
-</p>
+
+![alt text](../images/9.4_New_Account_Menu.png "New Account Menu :size=400").
