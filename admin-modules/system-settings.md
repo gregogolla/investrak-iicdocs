@@ -6,7 +6,7 @@ This module is used to administer the club specific settings. Because the operat
 ## Accessing Systems Settings
 To access the Systems Settings module, click on the navigation menu as follows : `Admin Menu` ->`System` ->    `App Settings`.
 
-![alt text](../images/11.1_System_Settings_Menu.png ":size=x150 System Settings menu")
+![alt text](../images/11.1_System_Settings_Menu.png ":size=150 System Settings menu")
 
 There are 3 tabs at the administrator’s disposal:
 1. [App Settings](admin-modules/app-settings.md)
