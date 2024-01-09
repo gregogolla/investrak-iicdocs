@@ -47,7 +47,7 @@ Follow these steps to make a submission:
 &nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.1.3.1_self_submit_menu.png "Self Submit Menu :size=400") 
 
 >**Note.** \
->If you do not see the `SELF SUBMITTED SAVINGS` it means that your club has not been enabled for this feature. Ask your Treasurer or Club Administartor.
+>If you do not see the `SELF SUBMITTED SAVINGS` it means that your club has not been enabled for this feature. Ask your Treasurer or Club Administrator.
 
 2. From the expanded menu options select `Pay` to open the Self submit dialog screen.
 
