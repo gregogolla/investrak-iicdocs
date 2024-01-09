@@ -53,7 +53,7 @@ Follow these steps to make a submission:
 
 &nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.1.3.1_self_submit_pay.png "Self Submit Pay :size=400") 
 
-3. A `New Payment` dialog opens up. Enter the amount that has been self submitted by te member to the bank. Most of the fields are pre-filled and you can edit them if you like.
+3. A `New Payment` dialog opens up. Enter the amount that has been self submitted by the member to the bank. Most of the fields are pre-filled and you can edit them if you like.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../images/3.1.3.2_self_submit_new.png "Self Submit New Dialog :size=400").
 
