@@ -84,4 +84,12 @@ Each Savings record has the abilty to load associated documents (e.g. Bank Depos
 
 Details on adding and working with documents can be found on the [`Documents`](user-modules/documents.md) page.
 
+## Manage Self Submit Savings
 
+If permitted by the Club Administrator or Treasurer, regular club members can record their own savings that they have submitted to the bank. There is a workflow in place so that the Treasurer will be notified and will need to approve before the submitted payment is added into the account savings.
+
+Follow these steps to approve a submission:
+
+1. From the Manage Savings page navigate to the `SELF SUBMITTED SAVINGS` tab and click on the 3 vertical dots menu.
+>**Note.** \
+>If you do not see the `SELF SUBMITTED SAVINGS` it means that your club has not been enabled for this feature. Check your [App Settings](admin-modules/app-settings.md).
