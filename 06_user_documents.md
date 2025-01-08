@@ -20,12 +20,12 @@ The Documents Landing page displays a list of all the documents that have been u
 <!-- tabs:start -->
 #### **Desktop**
 <p>
-    <img src="/static/images/5.0.2_Documents.png"  width="300px" alt="Document list">
+    <img src="static/images/5.0.2_Documents.png"  width="300px" alt="Document list">
 </p>
 
  #### **Mobile**
  <p>
-    <img src="/static/images/5.0.2_Documents_Mobile.png"  width="300px" alt="Document List">
+    <img src="static/images/5.0.2_Documents_Mobile.png"  width="300px" alt="Document List">
 </p>
 <!-- tabs:end -->
 
@@ -38,12 +38,12 @@ The Documents Landing page displays a list of all the documents that have been u
 <!-- tabs:start -->
 #### **Desktop**
 <p>
-    <img src="/static/images/5.0.3_Document_Detail.png" alt="Documents Detail">
+    <img src="static/images/5.0.3_Document_Detail.png" alt="Documents Detail">
 </p>
 
 #### **Mobile**
 <p>
-    <img src="/static/images/5.0.3_Document_Detail_Mobile.png" alt="Documents menu">
+    <img src="static/images/5.0.3_Document_Detail_Mobile.png" alt="Documents menu">
 </p>
 <!-- tabs:end -->
 
@@ -58,7 +58,7 @@ Details of the document record include:
 ### Upload a Document
 1. From the landing page in the `Documents Module` Click on the three vertical dot menu and select the `New document` option.
 <p>
-    <img src="/static/images/5.0.4_Add_Document_Menu.png"  width="300px" alt="Add Documents Menu">
+    <img src="static/images/5.0.4_Add_Document_Menu.png"  width="300px" alt="Add Documents Menu">
 </p>
 1. The `New Club Document` page opens.
 1. Fill in the details and clik Save to upload the document.
@@ -66,12 +66,12 @@ Details of the document record include:
 <!-- tabs:start -->
 #### **Desktop**
 <p>
-    <img src="/static/images/5.0.4_Document_Upload.png"  width="300px" alt="New Club Documents page">
+    <img src="static/images/5.0.4_Document_Upload.png"  width="300px" alt="New Club Documents page">
 </p>
 
 #### **Mobile**
 <p>
-    <img src="/static/images/5.0.4_Document_Upload_Mobile.png"  width="300px" alt="Documents menu">
+    <img src="static/images/5.0.4_Document_Upload_Mobile.png"  width="300px" alt="Documents menu">
 </p>
 <!-- tabs:end -->
 

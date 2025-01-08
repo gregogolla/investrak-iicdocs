@@ -11,20 +11,20 @@ You can access the module  in one of two ways:
 1. Click on the three vertical dot menu on the Loans page and select the `MANAGE MODE` option
 
 <p>
-  <img src="/static/images/4.6.1_Manage_Loans_menu.png" 
+  <img src="static/images/4.6.1_Manage_Loans_menu.png" 
     height="200px" style="object-fit:contain;" alt="Manage Loans menu">
 </p>
 
 2. Alternatively, you can access the module by clicking on the **`MANAGE LOANS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](getting-started/navigate-the-app?id=the-top-banner-area)
 
 <p>
-  <img src="/static/images/4.6.2_Manage_Loans_quick_menu.png"  height="200px" style="object-fit:contain" alt="Manage Loans Menu">
+  <img src="static/images/4.6.2_Manage_Loans_quick_menu.png"  height="200px" style="object-fit:contain" alt="Manage Loans Menu">
 </p>
 
 The **`MANAGE LOANS`** module page displays the list of individual loan record and a section showing a chart of top borrowers. There are also controls for searching and filtering the loan records as well as a summary table of all the loans.
 
 <p>
-  <img src="/static/images/4.6.3_Manage_Loans_page.png"  width="400px"  style="object-fit:contain" alt="Manage Loans Page">
+  <img src="static/images/4.6.3_Manage_Loans_page.png"  width="400px"  style="object-fit:contain" alt="Manage Loans Page">
 </p>
 
 ## LOAN APPROVAL WORKFLOW

@@ -2,20 +2,20 @@
 # Arrears Module
 <!-- embed:start:participation dates warning -->
 
-[Participation Dates Warning](/static/markdown/participation_dates_warning.md ':include')
+[Participation Dates Warning](static/markdown/participation_dates_warning.md ':include')
 
 <!-- embed:end:participation dates warning -->
 
 <!-- embed:start:expected contribution warning -->
 
-[Expected Contribution Warning](/static/markdown/expected_contribution_warning.md ':include')
+[Expected Contribution Warning](static/markdown/expected_contribution_warning.md ':include')
 
 <!-- embed:end:expected contribution warning -->
 
 
 <!-- embed:start:arrears -->
 
-[Arrears Tab](/static/markdown/arrears.md ':include')
+[Arrears Tab](static/markdown/arrears.md ':include')
 
 <!-- embed:end:arrears -->
 
@@ -47,7 +47,7 @@ Clicking on any one of the items on the Member Arrears List brings up the Arrear
 
 <!-- embed:start:arrears tab -->
 
-[Allocations Tab](/static/markdown/arrears_tab.md ':include')
+[Allocations Tab](static/markdown/arrears_tab.md ':include')
 
 <!-- embed:end:arrears tab -->
 
@@ -55,7 +55,7 @@ Clicking on any one of the items on the Member Arrears List brings up the Arrear
 ### Transactions Tab
 <!-- embed:start:allocations tab -->
 
-[Transactions Tab](/static/markdown/arrears_allocations_tab.md ':include')
+[Transactions Tab](static/markdown/arrears_allocations_tab.md ':include')
 
 <!-- embed:end:allocations tab -->
 

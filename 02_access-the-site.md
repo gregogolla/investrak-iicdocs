@@ -31,8 +31,8 @@ If you loose you password and you would like to reset it or you just want to cha
 If you are unable to login or you forgot password, you can reset password as show below. 
 Watch the video below to walk through the steps to reset your lost password.
 
-<video src="/static/video/Reset_lost_password.mp4" width="90%" controls>
-  <img src="/static/images/1.3_Lost_password.png"/>
+<video src="static/video/Reset_lost_password.mp4" width="90%" controls>
+  <img src="static/images/1.3_Lost_password.png"/>
 </video>
 
 <!-- tabs:start >
@@ -76,8 +76,8 @@ Click on the email link to be directed to the page to reset your password.
 
 If you know your password and want to change it proceed as follows. Watch the video below to walk through the steps to change your password.
 
-<video src="/static/video/Change_current_password.mp4" width="90%" controls>
-  <img src="/static/images/1.8_Change_password_link.png"/>
+<video src="static/video/Change_current_password.mp4" width="90%" controls>
+  <img src="static/images/1.8_Change_password_link.png"/>
 </video>
 
 <!-- tabs:start >
@@ -108,8 +108,8 @@ you can use the Registration page to do so for yourself.
 3. Once completed you will receive an email with the next steps to confirm your registration
 4. Your registration application will be sent to the club administrator to review and confirm.
    
-<video src="/static/video/Register_new_account.mp4" width="90%" controls>
-  <img src="/static/images/1.11_New_Registration_step_2.png"/>
+<video src="static/video/Register_new_account.mp4" width="90%" controls>
+  <img src="static/images/1.11_New_Registration_step_2.png"/>
 </video>
 
 <!-- tabs:start >

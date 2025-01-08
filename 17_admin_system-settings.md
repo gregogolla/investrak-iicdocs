@@ -39,7 +39,7 @@ The **`CLUB DETAILS`** section is used to set the Club specific details and iden
 
 ### MONTHLY CONTRIBUTIONS SECTION
 
-[Expected Contribution Warning](/static/markdown/expected_contribution_warning.md ':include')
+[Expected Contribution Warning](static/markdown/expected_contribution_warning.md ':include')
 
 <!-- embed:end:expected contribution warning -->
 
