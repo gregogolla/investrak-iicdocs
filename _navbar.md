@@ -4,7 +4,7 @@
 	<div style="text-align:left;display:inline-flex;">
 		<a href="#/">
 			<img height="40px"  
-				src="static/images/0.0_investrak_logo.png">
+				src="./static/images/0.0_investrak_logo.png">
 			</img>
 		</a>
 	</div>
