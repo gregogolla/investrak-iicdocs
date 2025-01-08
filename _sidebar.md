@@ -1,30 +1,29 @@
-- Introduction
+- Welcome
 
-    - [Welcome](/)
-    - [Accessing the Site](access-the-site/login.md)
-    - [Navigating the Application](access-the-site/navigate-the-app.md)
-    - [The Home Page](access-the-site/home-page.md)
-    - [Change Password](access-the-site/change-password.md)
+    - [1. Home](/)
+  
+- Getting Started
+    - [2. Accessing the Site](02_access-the-site.md)
+    - [3. Navigating the Application](03_navigate-the-app.md)
 
 - User Modules
 
-    - [Savings](user-modules/savings.md)
-    - [Arrears](user-modules/arrears.md)
-    - [Loans](user-modules/loans.md)
-    - [Documents](user-modules/documents.md)
-    - [Fund Transactions](user-modules/fund-transactions.md)
-    - [Fund Investments](user-modules/fund-investments.md)
-    - [Reports](user-modules/reports.md)
+    - [4. Savings](04_user_savings.md)
+    - [5. Loans](05_user_loans.md)
+    - [6. Documents](06_user_documents.md)
+    - [7. Fund Transactions](07_user_fund-transactions.md)
+    - [8. Fund Investments](08_user_fund-investments.md)
+    - [9. Reports](09_user_reports.md)
 
 - Admin Modules
 
-    - [Manage Savings](admin-modules/manage-savings.md)
-    - [Manage Loans](admin-modules/manage-loans.md)
-    - [Member Accounts](admin-modules/member-accounts.md)
-    - [Finance Accounts](admin-modules/finance-accounts.md)
-    - [Dividends](admin-modules/dividends.md)
-    - [System Settings](admin-modules/system-settings.md)
-    - [App Settings](admin-modules/app-settings.md)
-    - [Profile Settings](admin-modules/profile-settings.md)
-    - [Loan Settings](admin-modules/loan-settings.md)
+    - [10. Member Accounts](10_admin_member-accounts.md)
+    - [11. Arrears](11_admin_arrears.md)
+    - [12. Manage Savings](12_admin_manage-savings.md)
+    - [13. Manage Loans](13_admin_manage-loans.md)
+    - [14. Finance Accounts](14_admin_finance-accounts.md)
+    - [15. Dividends](15_admin_dividends.md)
+    - [16. Ledger Postings](16_admin_ledger-postings.md)
+    - [17. System Settings](17_admin_system-settings.md)
+
     

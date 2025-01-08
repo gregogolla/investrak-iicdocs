@@ -1,0 +1,2 @@
+If required, the system can be setup to create new loan records without using the application workflow. If the [`BYPASS LOAN APPLICATION WORKFLOW`](17_admin_system-settings?id=bypass-loan-application-workflow) setting is turned on, it gives the [**`TREASURER`**](10_admin_member-accounts?id=_1034-treasurer-group) the option to create
+loan records directly and bypass the application workflow process. This allows more flexibilty to create records which may have been processed outside the system.

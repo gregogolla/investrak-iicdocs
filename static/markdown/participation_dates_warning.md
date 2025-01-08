@@ -1,0 +1,2 @@
+!> **IMPORTANT**\
+For accurate calculation of arrears and dues, every club member must have their [**`PARTICIPATION DATES`**](10_admin_member-accounts?id=_1025-participation-dates) kept upto date by the Administrator.

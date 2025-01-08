@@ -1,0 +1,5 @@
+The **`ALLOCATIONS`** tab provides a breakdown by month, for the member' arrears.  The system keeps track of expected payments based on  [`Participation Dates`](10_admin_member-accounts?id=_1025-participation-dates) of the member and the [`Expected Contributions`](17_admin_system-settings?id=_1712-expected-monthly-contributions) records of the club. When a savings payment is received from the member, it is applied to earliest unpaid month that the systems expects payment for the respective member. If the payment is more than (or less than) the expected payment for the month the amount is allocated as described in the allocations section below.
+
+![alt text](/static/images/3.5_Arrears_Tab.png "Arrears Tab :size=400").
+
+All the months for which payment is expected but has not been received is included up as part of the arrears for the particular member.

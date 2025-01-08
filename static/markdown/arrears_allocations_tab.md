@@ -1,0 +1,5 @@
+The **`TRANSACTIONS`** tab lists all the member's savings contribution transactions and provides drill-down detail to show how each payment transaction is allocated to the various months. `Allocations` are useful when a single large payment was made for an account. If the payment is larger than the [`expected contribution`](17_admin_system-settings?id=_1712-expected-monthly-contributions) for the month, then it will be distributed for several months. The single payment is saved as one contribution. Allocations are then used to apportion the single contribution payment to different months.
+
+![alt text](/static/images/3.6_Allocations_Tab.png "Allocations Tab :size=400").
+
+The system automatically handles the allocation of payments distributed accross the months. You can use this tab to track how far ahead or behind the account is with expected payments.
