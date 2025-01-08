@@ -14,7 +14,7 @@ You can access the manage savings module in one of two ways:
 
 &nbsp;&nbsp;&nbsp;&nbsp;![Manage Savings Mode Button](static/images/3.1.2_Manage_Savings_Button.png ":size=400").
 
-2. Alternatively, you can access the module by clicking on the **`MANAGE SAVINGS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](getting-started/navigate-the-app?id=the-top-banner-area)
+2. Alternatively, you can access the module by clicking on the **`MANAGE SAVINGS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](03_navigate-the-app?id=_31-the-top-banner-area)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.2_Manage_savings_quick_menu.png "Manage Savings Quick Menu :size=400").
@@ -47,30 +47,33 @@ Depending on the type of record being edited some of the fileds are visible or h
 
 ### Manage Savings Menu Options
 
-Depending on the Savings record to add/edit or the action to be performed the `Manage Savings` menu provides several options.
-Click on the three vertical dot menu on the **`Manage Savings`** page and select any of the following options:
+Depending on the Savings record to add/edit or the action to be performed the **`Manage Savings`** menu provides several options.
 
 ![Manage Savings Menu Options](static/images/3.1.4_Manage_Savings_Menu.png ":size=400").
 
-#### New Payment
+Click on the three vertical dot menu on the **`Manage Savings`** page and select one of the five options:
+<!-- tabs:start -->
+
+#### **New Payment**
+
 - **`New Payment`** option is used to create a new savings transaction.
 - The fields are exactly the same as described in the **`Savings Dialog Window`** section above.
 - It is generally the most frequent way to enter and edit Savings contribution submitted by members.
 
-![New Saving Dialog](static/images/3.3.4_New_Savings.png ":size=400").
+![New Saving Dialog](static/images/3.3.4_New_Savings.png ":size=300").
 
-#### New Withdrawal
+#### **New Withdrawal**
+
 - **`New Withdrawal`** option is used to create a new withdrawal transaction.
 - The fields are exactly the same as described in the **`Savings Dialog Window`** section above.
 - The difference with the options above is that the amount is deducted rather than added from the respective member's ledger account.
 - The most typical use is when giving money back to a member (for example if leaving the club)
 
-![New Savings Withdrawal Dialog](static/images/3.3.4_New_Withdrawal.png ":size=400").
+![New Savings Withdrawal Dialog](static/images/3.3.4_New_Withdrawal.png ":size=300").
 
-#### New Transfer
+#### **New Transfer**
+
 **`New Transfer`** option is used to create a new transfer between two members or between a member and another account (loan or share capital).
-
-![New Savings Transfer Dialog](static/images/3.3.4_New_Transfer.png ":size=400").
 
 ?>**ADDITIONAL INFO**\
 The difference with the **`New Savings`** and **`New Transfer`** options 
@@ -81,12 +84,21 @@ and added to the ledger account displayed in the **TO** field.
 - The **TO** account can include Member Savings accounts and also be one the following accounts:
     - The corresponding loan account of the **FROM** account (to pay outstanding loans with existing savings).
     - Share Capital Account for the club.
+    - 
+![New Savings Transfer Dialog](static/images/3.3.4_New_Transfer.png ":size=300").
 
-#### Close Manage Mode
+
+#### **Close Manage Mode**
 **`Close Manage Mode`** option to go back to the [**`SAVINGS`**](04_user_savings) module.
+
+All the Savings management controls are close and only the currently logged in individual's savings record are displayed.
   
-#### Export to Excel
-Export the currently displayed Savings records to be downloaded as an Excel file.
+#### **Export to Excel**
+The **`Export To Excel`** function exports the currently displayed Savings records to be downloaded as an Excel file.
+
+![New Savings Transfer Dialog](static/images/3.3.4_Excel_Export.png ":size=400").
+<!-- tabs:end -->
+
 
 ## SAVINGS DOCUMENTS
 Each Savings record has the abilty to load associated documents (e.g. Bank Deposit slip etc.). 

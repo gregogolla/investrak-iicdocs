@@ -9,18 +9,19 @@ For example if you club name is demo, the URL will be :
 Replace the last part of the URL (demo in tihs example) with the name of your investment club
 
 ## LOGGIN IN
-When you get to the InvesTrak site for the first time, or if you have been idle on the site for a while, 
+When you get to the InvesTrak Application Platform for the first time, 
+or if you have been idle on the site for a while, 
 you will be redirected to the login page. 
-The login page is the door between your web browser and the InvesTrak website. 
+The login page is the door between your web browser and the InvesTrak Platform. 
 By logging in you confirm your identity to the system, so that the content is provided to you securely.
 
 Enter your credentials and log in as shown below.
 
-![alt text](static/images/1.1_Login.png ":size=400 login page")
+![Login page](static/images/1.1_Login.png ":size=400")
 
 1. Enter your email address or your username
 1. Enter your password
-1. Click on the `Log in` button
+1. Click on the **`LOGIN IN`** button
 
 
 ## MANAGING YOUR CREDENTIALS
@@ -103,10 +104,10 @@ Change your password as follows:
 If this is your first time in the club and your administrator has not already created an account for you,
 you can use the Registration page to do so for yourself.
 
-1. Click on the `REGISTER NOW` at the bottom of your club's login page
+1. Click on the **`REGISTER NOW`** at the bottom of your club's login page
 2. Fill in the details as shown in the video below
 3. Once completed you will receive an email with the next steps to confirm your registration
-4. Your registration application will be sent to the club administrator to review and confirm.
+4. Your registration application will be sent to the Investment club's [`Administrator`](10_admin_member-accounts?id=_1031-admin-group) to review and confirm.
    
 <video src="static/video/Register_New_Account.mp4" width="90%" controls>
   <img src="static/images/1.11_New_Registration_step_2.png"/>

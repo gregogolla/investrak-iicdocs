@@ -5,14 +5,13 @@
   <meta charset="UTF-8">
   <title>Docsify-Pagination Example</title>
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" /> 
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/lib/themes/vue.css"> -->
   
   <!-- Custom theme stylesheet -->
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
-  <link rel="stylesheet" href="//unpkg.com/docsify-accordify/src/assets/default.css">
+  <!-- <link rel="stylesheet" href="//unpkg.com/docsify-accordify/src/assets/default.css"> -->
   <link rel="stylesheet" href="static/css/navbar-fixed.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" /> 
   
 </head>
 <style>
@@ -34,6 +33,16 @@
     padding: 20px 0 1rem;
     color: rgb(3, 169, 244) !important;
   } */
+  :root {
+    --docsifytabs-border-color: #ededed;
+    --docsifytabs-tab-highlight-color: purple;
+    --docsifytabs-tab-padding:5px 10px;
+  }
+  .docsify-tabs--classic>.docsify-tabs__content {
+    max-height: 400px;
+    min-height: 300px;
+    overflow: hidden auto;;
+}
 </style>
 
 <body>
@@ -68,10 +77,10 @@
           }
         },
       },
-      accordify: {
-        prerenderComments: true,                    // default
-        selectors: ['h1','h2','h3','h4','h5','h6'], // default value
-      },
+      // accordify: {
+      //   prerenderComments: true,                    // default
+      //   selectors: ['h1','h2','h3','h4','h5','h6'], // default value
+      // },
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
@@ -118,8 +127,6 @@
 
   <!-- docsify -->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@5/dist/docsify.min.js"></script> -->
   
   <!-- Vue Production
   <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script> -->
@@ -133,7 +140,7 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-autoheaders@latest"></script>
-  <script src="//unpkg.com/docsify-accordify/src/index.js"></script>
+  <!-- <script src="//unpkg.com/docsify-accordify/src/index.js"></script> -->
   <script src="https://unpkg.com/docsify-betterembed@1.1.1/dist/betterEmbed.min.js"></script>
   
   <!-- <script setup>

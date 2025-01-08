@@ -41,6 +41,8 @@ Use the search bar `Search Dividends` to find a particular dividend. Type a eith
 </video>
 
 ## DISTIRBUTE DIVIDENDS
+><ins>**NOTE**</ins>\
+>Distributing **`DIVIDENDS`** can only be done by security group members with the [`finance_write`](10_admin_member-accounts?id=finance_write) permission. This would normally include the [`ADMIN`](10_admin_member-accounts?id=_1031-admin-group)and [`TREASURER`](10_admin_member-accounts?id=_1034-treasurer-group) security groups.
 
 > <ins>**NOTE**</ins>\
  The dividend amount to individual members is automatically calculated based on the respective 

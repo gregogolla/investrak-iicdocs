@@ -15,7 +15,7 @@ You can access the module  in one of two ways:
     height="200px" style="object-fit:contain;" alt="Manage Loans menu">
 </p>
 
-2. Alternatively, you can access the module by clicking on the **`MANAGE LOANS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](getting-started/navigate-the-app?id=the-top-banner-area)
+2. Alternatively, you can access the module by clicking on the **`MANAGE LOANS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](03_navigate-the-app?id=_31-the-top-banner-area)
 
 <p>
   <img src="static/images/4.6.2_Manage_Loans_quick_menu.png"  height="200px" style="object-fit:contain" alt="Manage Loans Menu">

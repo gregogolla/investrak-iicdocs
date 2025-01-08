@@ -6,8 +6,6 @@ The `Member Accounts` module is used to administer the profile records of the cl
 The **`MEMBER ACCOUNTS`** module can only be accessed by security group members with the [`manage_member`](#manage_member) permissions. This would normally include the [`Admin`](#1031-admin-group) security group.
 
 ## ACCESSING MEMBER ACCOUNTS
-
-
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
 
 <video src="static/video/Member_Accounts.mp4" 
@@ -150,7 +148,7 @@ Security groups are used to easily place login accounts into groups for which ap
 The following Security groups are setup by default for the club
 
 ### Admin Group
-The Admin Group is designed to provide overall site administartion for the club. By default it has been setup to have all the [`Security permisions`](#security-permissions) described below.
+The Admin Group is designed to provide overall site administration for the club. By default it has been setup to have all the [`Security permisions`](#security-permissions) described below.
 
 ### Committee Group
 The committee group is designed to provide visibility to all the club's records without neccessarily being able to add, delete or change the records. This is suited for committee members who are expected to review and discuss all matters of the club and contribute to  working level decisions. By default the committee group has the [`finance_read_all`](#finance_read_all) permission.

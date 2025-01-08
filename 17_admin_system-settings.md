@@ -27,9 +27,9 @@ The app settings tab is used to configure general defaults in the application
 
 The **`CLUB DETAILS`** section is used to set the Club specific details and identification tags. There are 5 settings that can be changed:
 
-1. `Club Name` - Will be displayed in the top banner of the screen as well as the 'from' field in notification emails.
+1. `Club Name` - Will be displayed in the [**`TOP BANNER AREA`**](03_navigate-the-app?id=_31-the-top-banner-area) of the screen as well as the 'from' field in notification emails.
 
-2. `Abbreviated Name` - Will be name displayed on the top banner for smaller screens like mobile.
+2. `Abbreviated Name` - Will be name displayed on the [**`TOP BANNER AREA`**](03_navigate-the-app?id=_31-the-top-banner-area) for smaller screens like mobile.
 
 3. `Tagline` - A short phrase that is used to represent the club's values.
 
