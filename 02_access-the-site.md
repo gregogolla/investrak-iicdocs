@@ -108,7 +108,7 @@ you can use the Registration page to do so for yourself.
 3. Once completed you will receive an email with the next steps to confirm your registration
 4. Your registration application will be sent to the club administrator to review and confirm.
    
-<video src="static/video/Register_new_account.mp4" width="90%" controls>
+<video src="static/video/Register_New_Account.mp4" width="90%" controls>
   <img src="static/images/1.11_New_Registration_step_2.png"/>
 </video>
 
