@@ -24,11 +24,11 @@ Access the **`DIVIDENDS`** module in one of the following ways :
 <!-- tabs:start >
 #### **Dividends List**
 
-![Dividends List](../static/images/10.6.1_Dividends_List.png ":size=400").
+![Dividends List](static/images/10.6.1_Dividends_List.png ":size=400").
 
 #### **Open Dividends List**
 
-![Dividends List](../static/images/10.6.2_Dividends_List_Open.png ":size=400").
+![Dividends List](static/images/10.6.2_Dividends_List_Open.png ":size=400").
 <!-- tabs:end -->
 
 ## SEARCHING DIVIDENDS

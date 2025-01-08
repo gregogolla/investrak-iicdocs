@@ -23,7 +23,7 @@ with each tab for a different set of configuration settings:
 The app settings tab is used to configure general defaults in the application
 
 ### CLUB DETAILS SECTION
-![System Settings menu](../static/images/11.2_Club_details.png ":size=400")
+![System Settings menu](static/images/11.2_Club_details.png ":size=400")
 
 The **`CLUB DETAILS`** section is used to set the Club specific details and identification tags. There are 5 settings that can be changed:
 
@@ -43,7 +43,7 @@ The **`CLUB DETAILS`** section is used to set the Club specific details and iden
 
 <!-- embed:end:expected contribution warning -->
 
-![Expected monthly payments](../static/images/11.3_Expected_monthly.png ":size=400")
+![Expected monthly payments](static/images/11.3_Expected_monthly.png ":size=400")
 
 The **`MONTHLY CONTRIBUTIONS`** section enables to administrator to configure the following settings:
 
@@ -80,17 +80,17 @@ If the system has been set to track arrears, the administrator will use this tab
 
 <!-- tabs:start>
 #### **Track Arrears **
-![Date Range track arrears](../static/images/11.3.1_Date_Range_Table.png ":size=400")
+![Date Range track arrears](static/images/11.3.1_Date_Range_Table.png ":size=400")
 
 #### **Do Not Track**
-![Date Range do not track arrears](../static/images/11.3.2_Date_Range_Table_do_not_track.png ":size=400")
+![Date Range do not track arrears](static/images/11.3.2_Date_Range_Table_do_not_track.png ":size=400")
 
 <!-- tabs:end -->
 
 ###### Edit Date Range
 The Date ranges are added and managed using the `Edit Date Range` form. The form has the following fields: 
 
-![Edit Date Ranges](../static/images/11.3_Edit_Date_Range.png ":size=400")
+![Edit Date Ranges](static/images/11.3_Edit_Date_Range.png ":size=400")
 
 1. `Amount` - The amount that is expected every month for the period.
 1. `Start` - The earliest month in the period. Note that these are stored as whole months.
@@ -103,7 +103,7 @@ In this tab the administrator will find the settings that are used to configure 
 
 Each of the settings can be switched on or off as required.
 
-![Profile Settings](../static/images/11.5_Profile_settings.png ":size=400")
+![Profile Settings](static/images/11.5_Profile_settings.png ":size=400")
 
 The settings are as follows:
 
@@ -118,7 +118,7 @@ This tab is used by the administrator to set the default options that are applie
 There are two options at the top of the page:
 
 ### ENABLE LOANS MODULE
-![Loan Settings](../static/images/11.4.0_Loans_enabled.png ":size=400")
+![Loan Settings](static/images/11.4.0_Loans_enabled.png ":size=400")
 
 This option setting determines whether the loans module is enabled or disabled. It provides clubs who do not use the loans facility with the option to turn the feature off.
 
@@ -160,7 +160,7 @@ This option setting determines whether the club administartors allow club member
 ### GENERAL LOAN OPTIONS
 To confgure the default options that are new loan will have
 
-![Loan Settings](../static/images/11.4_Loan_settings.png ":size=400")
+![Loan Settings](static/images/11.4_Loan_settings.png ":size=400")
 
 The following settings are available on how to manage loans:
 
@@ -188,13 +188,13 @@ Some clubs charge an application fee and/or insurance fee when a loan is disburs
 ### LOAN TYPES
 Some clubs may have different types of loans that are offered to members based on different criteria. This section is used to add these different types of loans.
 
-![Loan Types](../static/images/11.6_Loan_types.png ":size=400")
+![Loan Types](static/images/11.6_Loan_types.png ":size=400")
 
 
 #### Add or Edit a loan type
 You can add a new loan type using the Add New Loan Type button on the top of the table. You can also edit a loan type by click on it from the table. Use the Edit Loan Type Form to edit and save your changes.
 
-![Edit Loan Types](../static/images/11.7_Edit_Loan_type.png ":size=400")
+![Edit Loan Types](static/images/11.7_Edit_Loan_type.png ":size=400")
 
 ><ins>**NOTE**</ins>\
 There is a loan type labeled **`GENERAL`** that is read only and provides the default loan settings for the club. It cannot be deleted or modified from the table. Whenever any of the default settings are modified in the above section, they will be reflected by this record.

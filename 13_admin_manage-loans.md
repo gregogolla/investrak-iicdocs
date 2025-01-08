@@ -55,7 +55,7 @@ The approval controls are found in the **`APPROVAL DETAILS`** section of the loa
 
 The system expects a minimum number of committee members to approve a loan. The minimum number of Loan approvers needed, is configured in the Systems Settings under the [`General Loan Options`](17_admin_system-settings?id=_1743-general-loan-options) Once the mimimum number is reached, the loan approval status will automatically change from **`PENDING`** to **`APPROVED`**.
 
-![Loan Approved](../static/images/4.4.3_Apply_Loan_Approval.png ":size=x300")
+![Loan Approved](static/images/4.4.3_Apply_Loan_Approval.png ":size=x300")
 
 ### Disbursing a loan
 ><ins>**NOTE**</ins>\
@@ -87,7 +87,7 @@ After a lona has been disbursed all loan  records (including type, charges and g
 ## LOAN TRANSACTIONS
 Once a loan has been approved and marked as **`DISBURSED`** you can track the payments and fees for the specific loan using the **`LOAN TRANSACTIONS`** tab
 
-![Loan Transactions](../static/images/4.4.5_Loan_Transactions.png ":size=x300")
+![Loan Transactions](static/images/4.4.5_Loan_Transactions.png ":size=x300")
 
 ## MANAGE SELF SUBMIT LOAN PAYMENTS
 

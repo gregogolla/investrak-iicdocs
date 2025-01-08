@@ -4,7 +4,7 @@ The Application is built to allow easy access of all the screens and content usi
 <!-- <p align="center">
     <img src="/static/images/2.1_App_Overview.png" width="400px" alt="App Overview">
 </p> -->
-![alt text](../static/images/2.1_App_Overview.png "App Overview :size=400").
+![alt text](static/images/2.1_App_Overview.png "App Overview :size=400").
 
 ## The Top Banner Area 
 The top banner on the screen is available on every page of the application.
@@ -12,7 +12,7 @@ The top banner on the screen is available on every page of the application.
     <img src="/static/images/2.1.2_Top_Banner.png" width="400px" style="object-fit:contain;" alt="Top Banner">
 </p> -->
 
-![alt text](../static/images/2.1.2_Top_Banner.png "Top Banner :size=400").
+![alt text](static/images/2.1.2_Top_Banner.png "Top Banner :size=400").
 
  It will display some additional icons and information as follows:
  
@@ -34,7 +34,7 @@ The navigation menu helps you to intuitively and easily navigate  the applicatio
 <!-- <p align="center">
     <img src="/static/images/2.1.3_Nav_Menu.png" height="400px" alt="Navigation Menu">
 </p> -->
-![alt text](../static/images/2.1.3_Nav_Menu.png "Navigation Menu :size=150").
+![alt text](static/images/2.1.3_Nav_Menu.png "Navigation Menu :size=150").
 
 ## The Main Content Area
 The main content area is a dynamic page area that is used to display the data that you have selected using the navigation menus or links from the top banner. This is the page that will show you the important content on the site.

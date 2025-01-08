@@ -60,19 +60,19 @@ To login and use the platform a member's profile needs to be **`Active`**. All m
 #### **Disble Profile **
 To disable a member click on the  member's `Activate or Deactivate` button in the `Member Accounts` page.
 
-![alt text](../static/images/9.1.2_Disable_Active_Profiles.png "Disable Active Profile :size=400").
+![alt text](static/images/9.1.2_Disable_Active_Profiles.png "Disable Active Profile :size=400").
 
 #### **Enable Profile **
 To activate a member whose status is `pending` or `disabled` use the same member's `Activate or Deactivate` button.
 
-![alt text](../static/images/9.1.3_Enable_Disabled_Profile.png "Disable Active Profile :size=400").
+![alt text](static/images/9.1.3_Enable_Disabled_Profile.png "Disable Active Profile :size=400").
 
 <!-- tabs:end -->
 
 ### Participation Dates
 <!-- embed:start:participation dates warning -->
 
-[Participation Dates Warning](../static/markdown/participation_dates_warning.md ':include')
+[Participation Dates Warning](static/markdown/participation_dates_warning.md ':include')
 
 <!-- embed:end:participation dates warning -->
 
@@ -90,7 +90,7 @@ Add as many date ranges as necessary to fully describe the members dates of part
 ####	Add Participation dates
 To add a participation date click on the `Add Participation date` button.
 
-<!-- ![alt text](../static/images/9.2.4_Participation_Dates_Add_Button.png "Participation Dates Add Button :size=400"). -->
+<!-- ![alt text](static/images/9.2.4_Participation_Dates_Add_Button.png "Participation Dates Add Button :size=400"). -->
 
 In the `New Date Range` page, provide the following information:
 
@@ -116,31 +116,31 @@ As part of the regular updates given to members, the [**`Treasurer`**](#_1034-tr
 #### **Initiate  **
 Click on the `STATEMENTS` button to start the process.
 
-![alt text](../static/images/9.3.0_Statements_Button.png "Statements Button :size=400").
+![alt text](static/images/9.3.0_Statements_Button.png "Statements Button :size=400").
 
 
-![alt text](../static/images/9.3.0_Statements_Loading_Progress.png "Statements Loading :size=400").
+![alt text](static/images/9.3.0_Statements_Loading_Progress.png "Statements Loading :size=400").
 
 
 #### **Email Controls **
  Once the data is loaded and the controls become available, you can use them to select the profiles that you want to send  email statements to. 
 
-![alt text](../static/images/9.3.1_Email_Selected.png "Email Selection Controls :size=400").
+![alt text](static/images/9.3.1_Email_Selected.png "Email Selection Controls :size=400").
 
 #### ** Confirm dialog **
 The email dialog is displayed with the member account(s) to send the email statement to. Before sending, you can preview the statement.
 
 
-![alt text](../static/images/9.3_Email_Statements.png "Email Statements Dialog :size=400").
+![alt text](static/images/9.3_Email_Statements.png "Email Statements Dialog :size=400").
 
 #### **Preview Statement**
 
-![alt text](../static/images/9.3_Email_Preview.png "Email Statements preview :size=400").
+![alt text](static/images/9.3_Email_Preview.png "Email Statements preview :size=400").
 
 #### **Send Statement**
 When ready use the `Email Statements` -> `Send` buttons to send the statements the the selected members.
  
-![alt text](../static/images/9.3_Email_Statements_Send.png "Email Statements Send :size=400").
+![alt text](static/images/9.3_Email_Statements_Send.png "Email Statements Send :size=400").
 <!-- tabs:end -->
 
 ## SECURITY GROUPS TAB
@@ -173,27 +173,27 @@ The Users group includes all authenticated members of the club. Users can log in
 
 #### **Groups List **
 
-![alt text](../static/images/9.4_Security_groups.png "Security groups :size=400").
+![alt text](static/images/9.4_Security_groups.png "Security groups :size=400").
 
 #### **Admin Group **
 
-![alt text](../static/images/9.4_Security_groups_admin.png "Admin Security group :size=400").
+![alt text](static/images/9.4_Security_groups_admin.png "Admin Security group :size=400").
 
 #### **Committee Group **
 
-![alt text](../static/images/9.4_Security_groups_committee.png "Committee Security group :size=400").
+![alt text](static/images/9.4_Security_groups_committee.png "Committee Security group :size=400").
 
 #### **Secretary Group **
 
-![alt text](../static/images/9.4_Security_groups_secretary.png "Secretary Security group :size=400").
+![alt text](static/images/9.4_Security_groups_secretary.png "Secretary Security group :size=400").
 
 #### **Treasurer Group **
 
-![alt text](../static/images/9.4_Security_groups_treasurer.png "Treasurer Security group :size=400").
+![alt text](static/images/9.4_Security_groups_treasurer.png "Treasurer Security group :size=400").
 
 #### **Users Group **
 
-![alt text](../static/images/9.4_Security_groups_user.png "Users Security group :size=400").
+![alt text](static/images/9.4_Security_groups_user.png "Users Security group :size=400").
 
 <!-- tabs:end -->
 
@@ -217,7 +217,7 @@ Can read and write site settings that control the functioning of the site. This 
 ## ACCOUNTS TAB
 All paying members of the fund should be associated with an account. An account is the entity to which savings contributions, loans, and loan payments to or from the investment club are attributed to. An account can contain one or more member profiles. Although expected contributions depend on each individual in an account, the amounts and totals are reflected against the account.
 
-![alt text](../static/images/9.4_Accounts.png ":size=x300 Security groups")
+![alt text](static/images/9.4_Accounts.png ":size=x300 Security groups")
  
 ### Adding or Editing an Account
 Adding a new Account is usually done while creating a new Member Profile. If necessary, it can also be created from the `New Account` option the three vertical dot selection menu at the top right of the page.

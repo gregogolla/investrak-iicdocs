@@ -9,7 +9,7 @@ and helps you navigate through its pages and modules so you understand how it wo
 Welcome to InvesTrak Investment Club Platform. This is your Investment Club's Application user guide.
 The InvesTrak application automates the management your investment club.
 
-<!-- [filename](../static/video/InvesTrak_Intro.mp4 ':include :size=600 :type=video controls') -->
+<!-- [filename](static/video/InvesTrak_Intro.mp4 ':include :size=600 :type=video controls') -->
 
 <video src="/static/video/InvesTrak_Intro.mp4" width="90%" autoplay controls loop>
   <img src="/static/images/0.1_Welcome.PNG"/>

@@ -17,7 +17,7 @@ The landing page of the Loans module page displays the list of individual loan a
 <!-- <p align="center">
     <img src="/static/images/4.2_Loans_Page.png" alt="Loans Page">
 </p> -->
-![alt text](../static/images/4.2_Loans_Page.png "Loans Page :size=400").
+![alt text](static/images/4.2_Loans_Page.png "Loans Page :size=400").
 
 The landing page also displays various summaries for the loans taken by the club member.
 
@@ -56,20 +56,20 @@ The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 #### **Loan Type**
 If your club has different types of loans, select the one that is most suitable for you
 
-![alt text](../static/images/4.4.1_Apply_Loan_Type.png "Loans Types List :size=400").
+![alt text](static/images/4.4.1_Apply_Loan_Type.png "Loans Types List :size=400").
 
 
 #### **Loan Limit**
 Click on the links to confirm what you can borrow
 
-![alt text](../static/images/4.4.2.0_Apply_Loan_Limit.png "Loans Limit Screen :size=400").
+![alt text](static/images/4.4.2.0_Apply_Loan_Limit.png "Loans Limit Screen :size=400").
 
 
 #### **Loan Guarantor**
 If you need to borrow more than your loan limit allows, you can add another member as your Guarantor.
 
 
-![alt text](../static/images/4.4.2.2_Apply_Loan_Guarantor.png "Loan Guarantor :size=400").
+![alt text](static/images/4.4.2.2_Apply_Loan_Guarantor.png "Loan Guarantor :size=400").
 
 
 #### **Loan submit**

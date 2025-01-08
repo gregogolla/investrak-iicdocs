@@ -12,12 +12,12 @@ You can access the manage savings module in one of two ways:
 1. Click on the three vertical dot menu on the [**`SAVINGS`**](04_user_savings) module and select the **`MANAGE`** button.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Manage Savings Mode Button](../static/images/3.1.2_Manage_Savings_Button.png ":size=400").
+&nbsp;&nbsp;&nbsp;&nbsp;![Manage Savings Mode Button](static/images/3.1.2_Manage_Savings_Button.png ":size=400").
 
 2. Alternatively, you can access the module by clicking on the **`MANAGE SAVINGS`** button located in the Admin Quick menu in the [**`TOP BANNER AREA`**](getting-started/navigate-the-app?id=the-top-banner-area)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;![alt text](../static/images/3.2_Manage_savings_quick_menu.png "Manage Savings Quick Menu :size=400").
+&nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.2_Manage_savings_quick_menu.png "Manage Savings Quick Menu :size=400").
 
 The **`MANAGE SAVINGS`** page is roughly divided into three sections:
 1. **`TRANSACTIONS LIST`** - the list of member transactions. 
@@ -25,7 +25,7 @@ The **`MANAGE SAVINGS`** page is roughly divided into three sections:
 3. **`CHARTS`** - a section on the monthly chart of all contributions.
 
 
-![alt text](../static/images/3.3_Manage_Savings_Page.png "Manage Savings Page :size=400").
+![alt text](static/images/3.3_Manage_Savings_Page.png "Manage Savings Page :size=400").
 
 ## EDIT TRANSACTIONS
 There are several types of transactions to work with. 
@@ -43,21 +43,21 @@ The details of the fields on the dialog are as follows:
 
 Depending on the type of record being edited some of the fileds are visible or hidden.
 
-&nbsp;&nbsp;&nbsp;&nbsp;![Edit Savings Dialog](../static/images/3.3.1_Edit_Savings_Page.png ":size=400").
+&nbsp;&nbsp;&nbsp;&nbsp;![Edit Savings Dialog](static/images/3.3.1_Edit_Savings_Page.png ":size=400").
 
 ### Manage Savings Menu Options
 
 Depending on the Savings record to add/edit or the action to be performed the `Manage Savings` menu provides several options.
 Click on the three vertical dot menu on the **`Manage Savings`** page and select any of the following options:
 
-![Manage Savings Menu Options](../static/images/3.1.4_Manage_Savings_Menu.png ":size=400").
+![Manage Savings Menu Options](static/images/3.1.4_Manage_Savings_Menu.png ":size=400").
 
 #### New Payment
 - **`New Payment`** option is used to create a new savings transaction.
 - The fields are exactly the same as described in the **`Savings Dialog Window`** section above.
 - It is generally the most frequent way to enter and edit Savings contribution submitted by members.
 
-![New Saving Dialog](../static/images/3.3.4_New_Savings.png ":size=400").
+![New Saving Dialog](static/images/3.3.4_New_Savings.png ":size=400").
 
 #### New Withdrawal
 - **`New Withdrawal`** option is used to create a new withdrawal transaction.
@@ -65,12 +65,12 @@ Click on the three vertical dot menu on the **`Manage Savings`** page and select
 - The difference with the options above is that the amount is deducted rather than added from the respective member's ledger account.
 - The most typical use is when giving money back to a member (for example if leaving the club)
 
-![New Savings Withdrawal Dialog](../static/images/3.3.4_New_Withdrawal.png ":size=400").
+![New Savings Withdrawal Dialog](static/images/3.3.4_New_Withdrawal.png ":size=400").
 
 #### New Transfer
 **`New Transfer`** option is used to create a new transfer between two members or between a member and another account (loan or share capital).
 
-![New Savings Transfer Dialog](../static/images/3.3.4_New_Transfer.png ":size=400").
+![New Savings Transfer Dialog](static/images/3.3.4_New_Transfer.png ":size=400").
 
 ?>**ADDITIONAL INFO**\
 The difference with the **`New Savings`** and **`New Transfer`** options 
@@ -92,7 +92,7 @@ Export the currently displayed Savings records to be downloaded as an Excel file
 Each Savings record has the abilty to load associated documents (e.g. Bank Deposit slip etc.). 
 
 
-![Edit Savings Documents](../static/images/3.3.2_Edit_Savings_Documents.png ":size=400").
+![Edit Savings Documents](static/images/3.3.2_Edit_Savings_Documents.png ":size=400").
 
 1. From the **`MANAGE SAVINGS`** landing page, click on an Savings record to view its details.
 2. The **`Edit Payment`** dialog page is displayed with the Savings details.
@@ -116,22 +116,22 @@ Follow these steps to approve or decline a submission:
 
 1. From the Manage Savings page click on the **`SELF SUBMITTED SAVINGS`** tab and select the self submitted record you would like to approve or decline.
    
-![Select Self Submit Savings](../static/images/3.3.2_Select_Self_Submit_Savings.png ":size=400").
+![Select Self Submit Savings](static/images/3.3.2_Select_Self_Submit_Savings.png ":size=400").
 
 
 2. The `Self Submitted Payment` dialog opens up. On the **`DETAILS`** Tab, review the details of the payments  that has been self submitted by the member to the bank. Most of the fields are pre-filled and you can edit them if you like.
    
-![Review Self Submit Savings](../static/images/3.3.2_Review_Self_Submit_Savings.png ":size=400").
+![Review Self Submit Savings](static/images/3.3.2_Review_Self_Submit_Savings.png ":size=400").
 
 3. Next, click on the **`DOCUMENTS`** Tab and review the upload an image of the bank slip or receipt that shows the bank transaction. This provides the proof needed to review and reconcile the recorded self submitted payment with the bank statements so that it can be approved.
    
-&nbsp;&nbsp;&nbsp;![Self Submit New Dialog](../static/images/3.3.2_Review_Self_Submit_Doc.png ":size=400").
+&nbsp;&nbsp;&nbsp;![Self Submit New Dialog](static/images/3.3.2_Review_Self_Submit_Doc.png ":size=400").
 
 4. If everything looks ok, click on the Green `APPROVE` button. You can also reject submitted record by clicking on the `DECLINE` button.
 
-![Self Submit New Dialog](../static/images/3.3.2_Approve_Self_Submit_Savings.png ":size=400").
+![Self Submit New Dialog](static/images/3.3.2_Approve_Self_Submit_Savings.png ":size=400").
 
 >**NOTE.** \
 >If more clarification is required after the record has been submitted both the Treasurer and the member can use the `COMMENTS` Tab of the record to provided additional information.
 
-![Self Submit New Dialog](../static/images/3.1.3.2_self_submit_comment.png ":size=400").
+![Self Submit New Dialog](static/images/3.1.3.2_self_submit_comment.png ":size=400").

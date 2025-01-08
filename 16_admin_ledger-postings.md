@@ -22,21 +22,21 @@ This module can be used to view all transactions for your club. Because it loads
 ## Search Ledger Postings
 Use the search bar `Search Ledger Postings` to find a particular transactions. Type a either a name or a date or part of the memo in the search field to find what you are looking for.
 
-![Ledger Search](../static/images/16.2_Ledger_Search.png ":size=400")
+![Ledger Search](static/images/16.2_Ledger_Search.png ":size=400")
 
 ## Manage Ledger Posting Records
 
 ### Add Ledger Posting
 From the vertical 3 dots selection menu click on `Add` to open up a `New Posting dialog` window.
 
-![Ledger Add](../static/images/16.3_Ledger_Add.png ":size=400")
+![Ledger Add](static/images/16.3_Ledger_Add.png ":size=400")
 
 Enter the required fields and click on the `SAVE` button.
 
 ### Edit Ledger Posting
 Identify the transaction you wish to edit. You can open the dialog using the `Edit` option in selection menu list or by just clicking directly on the record.
 
-![Ledger Edit](../static/images/16.3.2_Ledger_Edit.png ":size=400")
+![Ledger Edit](static/images/16.3.2_Ledger_Edit.png ":size=400")
 
 Make the necessary changes and Click on the `SAVE` Button.
 

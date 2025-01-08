@@ -6,7 +6,7 @@ Log in as show below.
 <!-- tabs:start -->
 #### **Enter your credentials**
 
-![alt text](../static/images/1.1_Login.png "login page")
+![alt text](static/images/1.1_Login.png "login page")
 
 1. Enter your email address  or your username
 1. Enter your password
@@ -15,7 +15,7 @@ Log in as show below.
 #### **Login confirmation**
 A message will appear on the top right to show you are `Logged in`.
 
-![alt text](../static/images/1.2_Logged_in.png "logged in message")
+![alt text](static/images/1.2_Logged_in.png "logged in message")
 <!-- tabs:end -->
 
 

@@ -4,7 +4,7 @@ In this tab the administrator will find the settings that are used to configure 
 
 Each of the settings can be switched on or off as required.
 
-![alt text](../static/images/11.5_Profile_settings.png ":size=400 Profile Settings")
+![alt text](static/images/11.5_Profile_settings.png ":size=400 Profile Settings")
 
 The settings are as follows:
 
