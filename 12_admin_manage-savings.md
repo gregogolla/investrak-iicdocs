@@ -66,25 +66,23 @@ Click on the three vertical dot menu on the **`Manage Savings`** page and select
 
 - **`New Withdrawal`** option is used to create a new withdrawal transaction.
 - The fields are exactly the same as described in the **`Savings Dialog Window`** section above.
-- The difference with the options above is that the amount is deducted rather than added from the respective member's ledger account.
-- The most typical use is when giving money back to a member (for example if leaving the club)
+- The difference with the options above is that the amount is <ins>deducted rather than added</ins> from the respective member's ledger account.
+- The most typical use is when giving money back to a member (for example if exiting from the club)
 
 ![New Savings Withdrawal Dialog](static/images/3.3.4_New_Withdrawal.png ":size=300").
 
 #### **New Transfer**
 
-**`New Transfer`** option is used to create a new transfer between two members or between a member and another account (loan or share capital).
+- **`New Transfer`** option is used to create a new transfer between two members 
+or between a member and another account (loan or share capital).
+- The difference with the **`New Savings`** and **`New Transfer`** options 
+is that there is a **FROM** field and a **TO** field. 
+- The amount is <ins>deducted</ins> from the ledger account in the **FROM** field 
+and <ins>added</ins> to the ledger account in the **TO** field.
 
 ?>**ADDITIONAL INFO**\
-The difference with the **`New Savings`** and **`New Transfer`** options 
-is that there is a **FROM** field and a **TO** field. 
-The amount is deducted from the ledger account displayed in the **FROM** field 
-and added to the ledger account displayed in the **TO** field.
-
-- The **TO** account can include Member Savings accounts and also be one the following accounts:
-    - The corresponding loan account of the **FROM** account (to pay outstanding loans with existing savings).
-    - Share Capital Account for the club.
-    - 
+For the **TO** account, in addition to transfering funds to other Member Savings accounts you can also transfer to one of your loan accounts with an outstanding balance or to the **`SHARE CAPTIAL`** ledger Account.
+  
 ![New Savings Transfer Dialog](static/images/3.3.4_New_Transfer.png ":size=300").
 
 
