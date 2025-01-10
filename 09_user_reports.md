@@ -29,7 +29,8 @@ The Fund summary section displays a summary of fund's overal status - including 
 
 ## FINANCIAL REPORTS
 
-!>The financial reports are for informational use only. They are intended only to provide guidance and insight into the regular and daily activities of your investment club. Consult a certified accountant or authorised financial professional  before using them for regulatory reporting.
+!>**IMPORTANT**\
+The financial reports are for informational use only. They are intended only to provide guidance and insight into the regular and daily activities of your investment club. Consult a certified accountant or authorised financial professional  before using them for regulatory reporting.
 
 ### Financial Reports - Balance sheet
 The Balance Sheet details of the assets and liabilities of club. The Total Assets will always equal the Total Liabilities plus Members Equity of the club.
