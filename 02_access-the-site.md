@@ -30,75 +30,76 @@ If you loose you password and you would like to reset it or you just want to cha
 ###	Resetting lost password
 
 If you are unable to login or you forgot password, you can reset password as show below. 
+<!-- tabs:start -->
+
+#### **VIDEO**
 Watch the video below to walk through the steps to reset your lost password.
 
 <video src="static/video/Reset_lost_password.mp4" width="90%" controls>
-  <img src="static/images/1.3_Lost_password.png"/>
+  <img src="static/images/1.3_Lost_password.png" alt="Lost password"/>
 </video>
 
-<!-- tabs:start >
+#### **INSTRUCTIONS**
+1. Click on the `RESET PASSWORD` button at the bottom of the login screen.
+   
+  ![Reset Lost Password Button](static/images/1.3_Lost_password.png ":size=200")
 
-#### **Click to Reset **
-Click on the `RESET PASSWORD` button at the bottom of the login screen
-
-![alt text](static/images/1.3_Lost_password.png ":size=400 Lost password") 
-
-#### **Request Reset **
-
-Request a password reset as follows:
-
-![alt text](static/images/1.4_Request_reset_password.png ":size=400 Request reset") 
-
-  1.	Provide your email address.  
-  1.	Click on the `Request reset password` button
-
-#### ** Reset Confirmation **
-  A confirmation page displays acknowledging recipt of the request.
-
-  ![alt text](static/images/1.5_Request_reset_sent.png ":size=400 Request reset sent") 
-
-#### ** Reset Email **
-  You’ll receive an email with a link to reset your password.
+2. You will be taken to the `REQUEST PASSWORD RESET` page.
+   - Provide your email address.
+   - Click on the `REQUEST` button
   
-  ![alt text](static/images/1.6_Request_reset_email.png "Request Email") 
+  ![Request Password Reset](static/images/1.4_Request_reset_password.png ":size=200 ") 
+3. Confirm the request is sent
+   - A confirmation page displays acknowledging recipt of the request.
   
-#### ** Reset Password **
-Click on the email link to be directed to the page to reset your password.
+  ![Request reset sent](static/images/1.5_Request_reset_sent.png ":size=200") 
 
-![alt text](static/images/1.7_Reset_password.png ":size=400 Reset password") 
+4. You’ll receive an email with a link to reset your password.
+   - Click on the link in the email
 
-1. Enter your new password
-1. Enter your password again to confirm
-1. Click on the `RESET PASSWORD` button
+  ![Request Email](static/images/1.6_Request_reset_email.png ":size=400")
 
+5. You will be taken to the `RESET PASSWORD` page.
+   - Enter your new password
+   - Enter your password again to confirm
+   - Click on the `RESET PASSWORD` button
+
+![Reset password](static/images/1.7_Reset_password.png ":size=200")
+
+6. You will be taken to the `LOGIN` page.
+   - Use your new password to login
+    
 <!-- tabs:end -->
+
 
 ###	Changing current password
 
-If you know your password and want to change it proceed as follows. Watch the video below to walk through the steps to change your password.
+If you know your password and want to change it proceed as follows. 
+
+<!-- tabs:start -->
+#### **VIDEO**
+Watch the video below to walk through the steps to change your password.
 
 <video src="static/video/Change_current_password.mp4" width="90%" controls>
   <img src="static/images/1.8_Change_password_link.png"/>
 </video>
 
-<!-- tabs:start >
-#### **Click to Change **
-Select `Change Password` option from the user profile drop down list.
+#### **INSTRUCTIONS**
 
-![alt text](static/images/1.8_Change_password_link.png ":size=400 click change password") 
+1. Select `CHANGE PASSWORD` option from the user profile drop down list.
 
-#### **Change Password **
+  ![Click change password](static/images/1.8_Change_password_link.png ":size=200") 
 
-Change your password as follows:
+1. You will be directed to the `CHANGE PASSWORD` page.Change your password as follows:
 
-![alt text](static/images/1.9_Change_password.png ":size=400 change password page") 
+  ![Change password page](static/images/1.9_Change_password.png ":size=200") 
 
-1. Enter your old password.  
-1. Enter your new password
-1. Enter your password again to confirm
-1. Click on the `Change Password` button
+   1. Enter your old password.  
+   2. Enter your new password
+   3. Enter your password again to confirm
+   4. Click on the `Change Password` button
   
-< tabs:end -->
+<!-- tabs:end -->
 
 ## REGISTER A NEW ACCOUNT
 
@@ -108,43 +109,39 @@ Check with your [**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-adm
 If this is your first time in the club and your 
 [**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-admin-group) has not already created an account for you, you can use the Registration page to do so for yourself.
 
-1. Click on the **`REGISTER NOW`** at the bottom of your club's login page
-2. Fill in the details as shown in the video below
-3. Once completed you will receive an email with the next steps to confirm your registration
-4. Your registration application will be sent to the Investment club's [`Administrator`](10_admin_member-accounts?id=_1031-admin-group) to review and confirm.
-   
+
+
+<!-- tabs:start -->
+
+#### **VIDEO**
+Fill in the details as shown in the video below
 <video src="static/video/Register_New_Account.mp4" width="90%" controls>
   <img src="static/images/1.11_New_Registration_step_2.png"/>
 </video>
 
-<!-- tabs:start >
-#### **Click to Register **
-Select `Change Password` option from the user profile drop down list.
+#### **INSTRUCTIONS**
 
-![alt text](static/images/1.10_New_Registration.png ":size=400 click new registration") 
+1. Click on the **`REGISTER NOW`** at the bottom of your club's login page
+   
+  ![Click new registration](static/images/1.10_New_Registration.png ":size=200") 
 
-#### **Provide Personal details **
+2. Enter your personal details such as your name, phone number and residential address:
 
-Enter your personal details such as your name, phone number and residential address:
+  ![Provide personal  details](static/images/1.11_New_Registration_step_1.png ":size=200x100") 
+3. Enter the credentials you will use to authenticate to the system:
 
-![alt text](static/images/1.11_New_Registration_step_1.png ":size=400x200 Provide personal  details") 
+  ![Provide Credentials  details](static/images/1.11_New_Registration_step_2.png ":size=200x100") 
+   1. Enter your email address.  
+   2. Enter your username you would like to use for login.
+   3. Enter your password (pay attention to the minimum security requirements)
+   4. Enter your password again to confirm (must match your password)
+4. Click on the `REGISTER` Button, confirm your information and then click on the second register button to complete your registration
+   
+  ![Registration Submit](static/images/1.11_New_Registration_complete.png ":size=200")  
+   
+1. Once completed you will receive an email with the next steps to confirm your registration
 
-#### **Provide Credentials **
-
-Enter the credentials you will use to authenticate to the system:
-
-![alt text](static/images/1.11_New_Registration_step_2.png ":size=400x200 Provide personal  details") 
-
-1. Enter your email address.  
-2. Enter your username you would like to use for login.
-3. Enter your password (pay attention to the minimum security requirements)
-4. Enter your password again to confirm (must match your password)
-
-#### **Complete Registration **
-
-Click on the `REGISTER` Button, confirm your information and then click on the second register button to complete your registration:
-
-![alt text](static/images/1.11_New_Registration_complete.png ":size=400 Provide personal  details") 
+2. Your registration application will be sent to the Investment club's [`Administrator`](10_admin_member-accounts?id=_1031-admin-group) to review and confirm.
 
 <!-- tabs:end -->
 
