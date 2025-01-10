@@ -35,7 +35,7 @@ If you are unable to login or you forgot password, you can reset password as sho
 #### **VIDEO**
 Watch the video below to walk through the steps to reset your lost password.
 
-<video src="static/video/Reset_lost_password.mp4" width="90%" controls>
+<video src="static/video/Password_Request_Reset.mp4" width="400px" controls>
   <img src="static/images/1.3_Lost_password.png" alt="Lost password"/>
 </video>
 
@@ -104,24 +104,23 @@ Watch the video below to walk through the steps to change your password.
 ## REGISTER A NEW ACCOUNT
 
 !> **IMPORTANT**\
-Check with your [**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-admin-group) first before registering your account. Make sure that an account has not already been created for you.
+Check with your [**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-admin-group) first <ins>before</ins> you register a account for yourself. Make sure that an account has not already been created for you.
 
 If this is your first time in the club and your 
-[**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-admin-group) has not already created an account for you, you can use the Registration page to do so for yourself.
-
-
+[**`CLUB ADMINISTRATOR`**](10_admin_member-accounts?id=_1031-admin-group) has not already created an account for you, you can use the Registration page to do so for yourself by following the steps below.
 
 <!-- tabs:start -->
 
 #### **VIDEO**
-Fill in the details as shown in the video below
+Fill in the details as shown in the video below.
+
 <video src="static/video/Register_New_Account.mp4" width="90%" controls>
   <img src="static/images/1.11_New_Registration_step_2.png"/>
 </video>
 
 #### **INSTRUCTIONS**
 
-1. Click on the **`REGISTER NOW`** at the bottom of your club's login page
+1. Click on the **`REGISTER NOW`** at the bottom of your club's **`LOGIN`** page.
    
   ![Click new registration](static/images/1.10_New_Registration.png ":size=200") 
 
