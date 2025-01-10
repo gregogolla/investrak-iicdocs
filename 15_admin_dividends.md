@@ -12,7 +12,7 @@ The **`DIVIDENDS`** module allows the [**`TREASURER`**](10_admin_member-accounts
  `Retained Earnings` ledger account to the respective member's `Savings Account`.
 
 Access the **`DIVIDENDS`** module in one of the following ways :
-1. From the Left navigation menu, Click  `ADMIN MENU` ->`FINANCE` -> `Dividends`.
+1. From the Left navigation menu, Click  `ADMIN MENU` &#8702;`FINANCE` &#8702; `Dividends`.
 1. From the Admin Quick menu, Click  `Dividends`.
 
 <video src="static/video/Dividends_Accessing.mp4"

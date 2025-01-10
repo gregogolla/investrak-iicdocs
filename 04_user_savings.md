@@ -6,7 +6,7 @@ The savings module is used to display and track the details of member's savings 
 
 To access the savings module, click on the navigation menu as follows:
 
-`User Menu` ->`My Activity` -> `Savings`.
+`User Menu` &#8702;`My Activity` &#8702; `Savings`.
 
 <video src="static/video/Access_My_savings.mp4" width="400px" controls autoplay loop>
   <img src="static/images/3.1.1_Savings_Menu.png"/>

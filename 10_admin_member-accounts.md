@@ -6,7 +6,7 @@ The `Member Accounts` module is used to administer the profile records of the cl
 The **`MEMBER ACCOUNTS`** module can only be accessed by security group members with the [`manage_member`](#manage_member) permissions. This would normally include the [`Admin`](#1031-admin-group) security group.
 
 ## ACCESSING MEMBER ACCOUNTS
-To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Users` -> `Member Accounts`.
+To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` &#8702;`Users` &#8702; `Member Accounts`.
 
 <video src="static/video/Member_Accounts.mp4" 
     width="400px" controls autoplay loop>
@@ -53,20 +53,6 @@ To login and use the platform a member's profile needs to be **`Active`**. All m
   <!-- <img src="static/images/9.1.2_Disable_Active_Profiles.png"/> -->
 </video>
 
-
-<!-- tabs:start >
-#### **Disble Profile **
-To disable a member click on the  member's `Activate or Deactivate` button in the `Member Accounts` page.
-
-![alt text](static/images/9.1.2_Disable_Active_Profiles.png "Disable Active Profile :size=400").
-
-#### **Enable Profile **
-To activate a member whose status is `pending` or `disabled` use the same member's `Activate or Deactivate` button.
-
-![alt text](static/images/9.1.3_Enable_Disabled_Profile.png "Disable Active Profile :size=400").
-
-<!-- tabs:end -->
-
 ### Participation Dates
 <!-- embed:start:participation dates warning -->
 
@@ -88,8 +74,6 @@ Add as many date ranges as necessary to fully describe the members dates of part
 ####	Add Participation dates
 To add a participation date click on the `Add Participation date` button.
 
-<!-- ![alt text](static/images/9.2.4_Participation_Dates_Add_Button.png "Participation Dates Add Button :size=400"). -->
-
 In the `New Date Range` page, provide the following information:
 
 
@@ -101,6 +85,28 @@ In the `New Date Range` page, provide the following information:
 - `Description` – Additional information regarding the participation date record.
 - `Leave Memo` – Additional information that can be added when the participant left.
 
+### Employment Details
+><ins>**NOTE**</ins>\
+This is an optional setting. For this section to be visible, The [**`Profile will include Employment details`**](17_admin_system-settings?id=profile-will-include-employment-details) setting needs to be enabled.
+
+[Employment Details](static/markdown/employment_details.md ':include')
+
+[Employment Details](static/markdown/employment_details_fields.md ':include')
+
+
+### Next of Kin Details
+><ins>**NOTE**</ins>\
+This is an optional setting. For this section to be visible, The [**`Profile will include Next of Kin`**](17_admin_system-settings?id=profile-will-include-next-of-kin) setting needs to be enabled.
+
+[Next of Kin](static/markdown/next_of_kin.md ':include')
+
+[Next of Kin](static/markdown/next_of_kin_fields.md ':include')
+
+### Recommenders
+><ins>**NOTE**</ins>\
+This is an optional setting. For this section to be visible, The [**`Profile will include Recommders`**](17_admin_system-settings?id=profile-will-include-recommenders) setting needs to be enabled.
+
+[Recommenders](static/markdown/recommenders.md ':include')
 
 ### Send Statements
 As part of the regular updates given to members, the [**`Treasurer`**](#_1034-treasurer-group) or [**`Admin`**](#_1031-admin-group) can send a statement financial statement by email to any or all members so that they are kept up to date even if he or she does not access the system. Follow the steps outlined in the video below to to send statements by email to the members.
@@ -110,36 +116,6 @@ As part of the regular updates given to members, the [**`Treasurer`**](#_1034-tr
   <img src="static/images/9.3.0_Statements_Button.png"/>
 </video>
 
-<!-- tabs:start >
-#### **Initiate  **
-Click on the `STATEMENTS` button to start the process.
-
-![alt text](static/images/9.3.0_Statements_Button.png "Statements Button :size=400").
-
-
-![alt text](static/images/9.3.0_Statements_Loading_Progress.png "Statements Loading :size=400").
-
-
-#### **Email Controls **
- Once the data is loaded and the controls become available, you can use them to select the profiles that you want to send  email statements to. 
-
-![alt text](static/images/9.3.1_Email_Selected.png "Email Selection Controls :size=400").
-
-#### ** Confirm dialog **
-The email dialog is displayed with the member account(s) to send the email statement to. Before sending, you can preview the statement.
-
-
-![alt text](static/images/9.3_Email_Statements.png "Email Statements Dialog :size=400").
-
-#### **Preview Statement**
-
-![alt text](static/images/9.3_Email_Preview.png "Email Statements preview :size=400").
-
-#### **Send Statement**
-When ready use the `Email Statements` -> `Send` buttons to send the statements the the selected members.
- 
-![alt text](static/images/9.3_Email_Statements_Send.png "Email Statements Send :size=400").
-<!-- tabs:end -->
 
 ## SECURITY GROUPS TAB
 

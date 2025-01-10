@@ -5,7 +5,7 @@ The Loans module is used to display and manage the details of loans given to the
 
 ## ACCESSING LOANS
 
-To access the loans module, click on the navigation menu as follows : `User Menu` ->`My Activity` ->  `Loans`.
+To access the loans module, click on the navigation menu as follows : `User Menu` &#8702;`My Activity` &#8702;  `Loans`.
 
 <video src="static/video/Access_My_Loans.mp4" width="400px" controls autoplay loop>
   <img src="static/images/4.1_Loans_Menu.png"/>

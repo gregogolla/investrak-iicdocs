@@ -17,11 +17,36 @@
 <style>
   .app-nav {
     background-color:rgb(3, 169, 244);
+    margin: 0px;
+    padding: 0px!important;
   }
+  /* body.sticky .sidebar, body.sticky .content {
+    margin-top: 20px;
+  } */
+
   h1{
     text-transform: uppercase;
     
     color: rgb(3, 169, 244) !important;
+  }
+  main {
+    padding: 0px!important;
+    top:75px;
+  }
+  @media (min-width: 768px) {
+    .app-nav {
+      padding: 5px 10px 0px!important;
+    }
+    body{
+      overflow: hidden;
+    }
+    .content {
+      padding-top: 10px;
+    }
+    main{
+      top: 45px;
+      overflow:hidden auto;
+    }
   }
   .sidebar .sidebar-nav>ul>li {
     font-weight: 950;
@@ -43,9 +68,15 @@
     min-height: 300px;
     overflow: hidden auto;;
   }
+  .markdown-section {padding: 0px 0 1rem;}
   .markdown-section h1 {
     font-size: 2rem;font-weight:950!important;
+    padding: 0px 0 1rem;
     color: var(--theme-color, #42b983);/*rgb(3, 169, 244) !important;*/
+  }
+  .markdown-section h2 {
+    padding: 10px 0 0.8rem;
+    margin: 0 !important;
   }
   .anchor span {
     color:  inherit;/* rgb(3, 169, 244) !important; */

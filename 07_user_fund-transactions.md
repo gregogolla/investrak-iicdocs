@@ -3,7 +3,7 @@
 The Fund Transactions module is used to track the details of the Club's financial transactions. This covers any expenses incurred or revenue received by the club. 
 
 ## ACCESSING FUND TRANSACTION
-To access the Fund Transactions module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Fund Transactions`.
+To access the Fund Transactions module, click on the navigation menu as follows: `User Menu` &#8702;`Fund Activity` &#8702; `Fund Transactions`.
 
 <video src="static/video/Access_Fund_Transactions.mp4" 
     width="400px" controls autoplay loop>

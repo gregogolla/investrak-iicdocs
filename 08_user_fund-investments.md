@@ -7,7 +7,7 @@ The Investments Module is used to display and manage the details of the Club's F
 
 To access the Investments module, click on the navigation menu as follows :
 
- `User Menu` ->`Fund Activity` ->  `Fund Investments`.
+ `User Menu` &#8702;`Fund Activity` &#8702;  `Fund Investments`.
 
 <video src="static/video/Fund_Investments.mp4" 
     width="400px" controls autoplay loop>

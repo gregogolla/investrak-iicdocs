@@ -31,6 +31,40 @@ The navigation menu helps you to intuitively and easily navigate  the applicatio
 The **`Member Drop-down`** Icon provides the members with access to their profile, ability to reset their password or to log out from the site
 
 ### My Profile
+**`MY PROFILE`** page allows an individula club member to view and edit personal details as well as other optional detail that the member's respctive club might keep track of. 
+
+<video src="static/video/My_Profile.mp4" width="400px" controls>
+  <img src="static/images/1.3_My_Profile.png"/>
+</video>
+
+Below are the dirrent sections with the details required for each. 
+
+<!-- tabs:start -->
+
+#### **PERSONAL DETAILS**
+
+[Personal Details](static/markdown/personal_details_fields.md ':include')
+
+
+#### **EMPLOYMENT**
+
+[Employment Details](static/markdown/employment_details.md ':include')
+
+[Employment Details](static/markdown/employment_details_fields.md ':include')
+
+
+#### **NEXT OF KIN**
+
+[Next of Kin](static/markdown/next_of_kin.md ':include')
+
+[Next of Kin](static/markdown/next_of_kin_fields.md ':include')
+
+#### **RECOMMENDERS**
+
+[Recommenders](static/markdown/recommenders.md ':include')
+
+<!-- tabs:end -->
+
   
 ## THE MAIN CONTENT AREA 
 

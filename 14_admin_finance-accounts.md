@@ -7,7 +7,7 @@ The `Finance Accounts` module is used to record the accounts that fund's transac
 ><ins>**NOTE**</ins>\
 >The **`FINANCE ACCOUNTS`** module can only be accessed by security group members with the [`finance_read_all`](10_admin_member-accounts?id=finance_read_all) permission. This would normally include the [`ADMIN`](10_admin_member-accounts?id=_1031-admin-group), [`TREASURER`](10_admin_member-accounts?id=_1034-treasurer-group) and [`COMMITTEE`](10_admin_member-accounts?id=_1032-committee-group) security groups.
 
-To access the Finance Accounts module, click on the navigation menu as follows : `Admin Menu` ->`Finance` -> `Finance Accounts`.
+To access the Finance Accounts module, click on the navigation menu as follows : `Admin Menu` &#8702;`Finance` &#8702; `Finance Accounts`.
 
 <video src="static/video/Finance_Accounts_Accessing.mp4"
 	width="400px" controls autoplay loop>

@@ -7,7 +7,7 @@ The [`Company Secretary`](10_admin_member-accounts?id=_1033-secretary-group) or 
 
 ## ACCESSING DOCUMENTS
 
-To access the documents module, click on the navigation menu as follows: `User Menu` ->`Fund Activity` -> `Documents` Link from the navigation menu.
+To access the documents module, click on the navigation menu as follows: `User Menu` &#8702;`Fund Activity` &#8702; `Documents` Link from the navigation menu.
 
 <video src="static/video/Access_Documents.mp4" 
     width="400px" controls autoplay loop>

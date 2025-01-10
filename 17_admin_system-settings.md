@@ -9,7 +9,7 @@ The **`APPLICATION SETTINGS`** module is used to administer the club specific se
 ><ins>**NOTE**</ins>\
 >The **`APPLICATION SETTINGS`** module can only be accessed by security group members with the [`manage_site`](10_admin_member-accounts?id=manage_site) permission. This would normally include the [`ADMIN`](10_admin_member-accounts?id=_1031-admin-group) security group.
 
-To access the Systems Settings module, click on the navigation menu as follows : `Admin Menu` ->`System` ->    `App Settings`.
+To access the Systems Settings module, click on the navigation menu as follows : `Admin Menu` &#8702;`System` &#8702; `App Settings`.
 
 <video src="static/video/System_settings_Accessing.mp4" 
     width="400px" controls autoplay loop>
@@ -78,14 +78,6 @@ This is a master button to set whether or not the platform will track the invest
 
 If the system has been set to track arrears, the administrator will use this table to add, delete and maintain the range of dates and corresponding amounts for **`EXPECTED CONTRIBUTIONS`**.The ranges are used to determine each members expected contribution and to calculate arrears. Comparing with each member's [**`PARTICIPATION DATES`**](10_admin_member-accounts?id=_1024-participation-dates), the system knows how much to expect every month.
 
-<!-- tabs:start>
-#### **Track Arrears **
-![Date Range track arrears](static/images/11.3.1_Date_Range_Table.png ":size=400")
-
-#### **Do Not Track**
-![Date Range do not track arrears](static/images/11.3.2_Date_Range_Table_do_not_track.png ":size=400")
-
-<!-- tabs:end -->
 
 ###### Edit Date Range
 The Date ranges are added and managed using the `Edit Date Range` form. The form has the following fields: 
@@ -107,10 +99,23 @@ Each of the settings can be switched on or off as required.
 
 The settings are as follows:
 
-1. Select whether the fields that record the members **Employment details** are required
-2. Select whether the fields that record the members **Next of Kin** are required
-3. Select whether the system needs to track whether the member was recommended by another member
-4. Provide a country code that the system uses as default for recording phone numbers
+#### Profile will include Employment details
+If this setting is turned on, the system will record and track members employment details.
+
+[Employment Details](static/markdown/employment_details.md ':include')
+
+#### Profile will include Next of Kin
+If this setting is turned on, the system will record and track members' Next of Kin
+
+[Employment Details](static/markdown/next_of_kin.md ':include')
+
+#### Profile will include Recommenders
+If this setting is turned on, the system will track whether the member was recommended by another member
+
+[Employment Details](static/markdown/recommenders.md ':include')
+
+#### Default Country Code
+This is for easier data entry. It is a drop-down with all the country codes in the world. The code entered here will be used by the system as default for recording phone numbers.
 
 ## LOAN TAB
 This tab is used by the administrator to set the default options that are applied to loans that the club provides to its members.

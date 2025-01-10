@@ -4,7 +4,7 @@ The reports module provides an overview of the financial health of the investmen
 
 ## ACCESSING REPORTS
 To access the reports module, click on the navigation menu as follows :
-    `User Menu` ->`Fund Activity` ->  `Reports`
+    `User Menu` &#8702;`Fund Activity` &#8702; `Reports`
 
 <video src="static/video/Accessing_Reports.mp4" 
     width="400px" controls autoplay loop>
