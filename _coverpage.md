@@ -2,7 +2,7 @@
 
 # InvesTrak HELP
 
-![alt text](images/0.0_investrak_logo.png ":size=120 Investrak Logo") 
+![InvesTrak Logo](images/0.0_investrak_logo.png ":size=120") 
 
 > An Investment Tracking Platform
 
