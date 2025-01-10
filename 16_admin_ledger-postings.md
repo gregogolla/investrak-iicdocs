@@ -2,7 +2,7 @@
 # Ledger Posting Module
 The Ledger Posting module allows the treasurer more granular control over the clubs's ledger transactions.
 
-!> **WARNING**\
+!> **IMPORTANT**\
  Use this module with caution and only as a last resort. Most of the Club's transactions can be recorded through the other modules with other considerations already taken into account.
 
 
