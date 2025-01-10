@@ -7,7 +7,7 @@ The Loans module is used to display and manage the details of loans given to the
 
 To access the loans module, click on the navigation menu as follows : `User Menu` &#8702;`My Activity` &#8702;  `Loans`.
 
-<video src="static/video/Access_My_Loans.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Access_My_Loans.mp4" width="400px" controls>
   <img src="static/images/4.1_Loans_Menu.png"/>
 </video>
 
@@ -25,13 +25,13 @@ The landing page also displays various summaries for the loans taken by the club
 
 Use the search bar `Search loans` to find a particular loan record. Type a either a name or a date or amount or part of the memo in the search field to find a specific loan
 
-<video src="static/video/Search_Loans.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Search_Loans.mp4" width="400px" controls>
   <img src="static/images/4.3_Search_Loans_Page.png"/>
 </video>
 
 You can also filter the loans by status. Filtering is a useful way to display only the loan records that you want based on the current status of the loan.
 
-<video src="static/video/Filter_My_Loans.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Filter_My_Loans.mp4" width="400px" controls>
   <img src="static/images/4.3.2_Filter_Loans.png"/>
 </video>
 
@@ -40,7 +40,7 @@ Click on the three vertical dot menu on the Loans page and select the `Apply` op
 
 The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 
-<video src="static/video/Apply_Loan.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Apply_Loan.mp4" width="400px" controls>
   <img src="static/images/4.4_Apply_Loan_Menu.png"/>
 </video>
 
@@ -95,7 +95,7 @@ If you guaranteed any loans they will appear under `My Guarantee Requests` tab. 
 
 Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. After confirming the guarantee amount, your loan borrowing limit accept or decline the request.
 
-<video src="static/video/Loan_Guarantee_Process.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Loan_Guarantee_Process.mp4" width="400px" controls>
   <img src="static/images/4.5_Loan_Gurantee_Page.png"/>
 </video>
 
@@ -111,6 +111,6 @@ Once you approve or decline a notification will be sent to the loan applicant.
 ### Self Submit a Loan Payment
 Follow the steps outlined in the video below to submit a loan payment for approval.
 
-<video src="static/video/Loan_Self_Submit_Payment.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Loan_Self_Submit_Payment.mp4" width="400px" controls>
   <img src="static/images/4.5_Loan_Gurantee_Page.png"/>
 </video>

@@ -16,7 +16,7 @@ Access the **`DIVIDENDS`** module in one of the following ways :
 1. From the Admin Quick menu, Click  `Dividends`.
 
 <video src="static/video/Dividends_Accessing.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.6_Dividends_Menu.png"/>
 </video>
 
@@ -36,7 +36,7 @@ Access the **`DIVIDENDS`** module in one of the following ways :
 Use the search bar `Search Dividends` to find a particular dividend. Type a either a name or a date or part of the memo in the search field to find what you are looking for.
 
 <video src="static/video/Dividends_Search.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.6.2_Search_Dividends.png"/>
 </video>
 
@@ -56,6 +56,6 @@ The **`DISTRIBUTE DIVIDENDS`** dialog page opens up. Use this page to the amount
 and the effective date of the distribution.
 
 <video src="static/video/Dividends_Distribute.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.8_Distribute_Dividends_Page.png"/>
 </video>

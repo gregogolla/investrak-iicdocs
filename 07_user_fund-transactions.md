@@ -6,7 +6,7 @@ The Fund Transactions module is used to track the details of the Club's financia
 To access the Fund Transactions module, click on the navigation menu as follows: `User Menu` &#8702;`Fund Activity` &#8702; `Fund Transactions`.
 
 <video src="static/video/Access_Fund_Transactions.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/5.1_Fund_Transactions_Menu.png"/>
 </video>
 
@@ -17,7 +17,7 @@ The landing page of the Fund Activity module displays all the club transactions 
 Use the search bar `Search Fund Transactions` to find a particular transaction. Type a memo, date, amount, account title to find a specific record.
 
 <video src="static/video/Search_Fund_Transactions.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/5.3_Fund_Transactions_Search.png"/>
 </video>
 

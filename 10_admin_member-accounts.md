@@ -9,7 +9,7 @@ The **`MEMBER ACCOUNTS`** module can only be accessed by security group members 
 To access the Member Accounts module, click on the navigation menu as follows : `Admin Menu` &#8702;`Users` &#8702; `Member Accounts`.
 
 <video src="static/video/Member_Accounts.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.1_Members_Menu.png"/>
 </video>
 
@@ -25,7 +25,7 @@ The Member Profiles is used to manage an individual member’s login profile. It
 Click on the three vertical dot menu on the Member Accounts page and select the **`+ Profile`** option to open the New Profile dialog.
 
 <video src="static/video/Create_New_Member.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.2_New_Profile.png"/>
 </video>
 
@@ -34,7 +34,7 @@ Click on the three vertical dot menu on the Member Accounts page and select the 
 Use the search bar **`Search Members`** to find a particular member profile.Type a either a name, email address, phone number or part of the account number in the search field to find what you are looking for.
 
 <video src="static/video/Search_Member_Profiles.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.1_Profiles_search.png"/>
 </video>
 
@@ -49,7 +49,7 @@ To login and use the platform a member's profile needs to be **`Active`**. All m
 > You cannot use the `ENABLE/DISABLE` button to change a member's status from something else to **`Pending`**. The **`Pending`** status is reserved for the system. A newly signed up member will automatically be marked as `pending`, until the admin changes this status. 
   
 <video src="static/video/Enable_Disable_Profiles.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <!-- <img src="static/images/9.1.2_Disable_Active_Profiles.png"/> -->
 </video>
 
@@ -67,7 +67,7 @@ By recording exact date ranges, the system can then calculate how much everyone 
 Add as many date ranges as necessary to fully describe the members dates of participation, especially if the member has had gaps in their membership.
 
 <video src="static/video/Manage_Participation_Dates.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.2.2_Participation_Dates.png"/>
 </video>
 
@@ -112,7 +112,7 @@ This is an optional setting. For this section to be visible, The [**`Profile wil
 As part of the regular updates given to members, the [**`Treasurer`**](#_1034-treasurer-group) or [**`Admin`**](#_1031-admin-group) can send a statement financial statement by email to any or all members so that they are kept up to date even if he or she does not access the system. Follow the steps outlined in the video below to to send statements by email to the members.
 
 <video src="static/video/Email_Member_Statements.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.3.0_Statements_Button.png"/>
 </video>
 
@@ -139,7 +139,7 @@ The Treasurer group is designed to manage the club's financial information. Trea
 The Users group includes all authenticated members of the club. Users can log into the system and view their own finances - savings, loans and arrears. Users can also view fund transactions and fund investments. By Default there are no additional elevated permissions provided to this group. 
 
 <video src="static/video/Manage_Security_Groups.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/9.4_Security_groups.png"/>
 </video>
 
@@ -199,6 +199,6 @@ Adding a new Account is usually done while creating a new Member Profile. If nec
 To edit and account, click on the `Edit` button next to the respective Account's record.
 
 <video src="static/video/Manage_Accounts.mp4" 
-  width="400px" controls autoplay loop>
+  width="400px" controls>
   <img src="static/images/9.4_New_Account_Menu.png"/>
 </video>

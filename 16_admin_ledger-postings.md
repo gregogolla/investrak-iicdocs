@@ -6,7 +6,7 @@ The Ledger Posting module allows the treasurer more granular control over the cl
  Use this module with caution and only as a last resort. Most of the Club's transactions can be recorded through the other modules with other considerations already taken into account.
 
 
-<video src="static/video/Ledger_Postings.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Ledger_Postings.mp4" width="400px" controls>
   <img src="static/images/3.1.3_Search_Savings_Page.png"/>
 </video>
 

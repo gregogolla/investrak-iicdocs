@@ -7,7 +7,7 @@ To access the reports module, click on the navigation menu as follows :
     `User Menu` &#8702;`Fund Activity` &#8702; `Reports`
 
 <video src="static/video/Accessing_Reports.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/8.1_Reports_Menu.png"/>
 </video>
 

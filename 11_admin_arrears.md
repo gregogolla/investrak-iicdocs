@@ -26,7 +26,7 @@
 Click on the **`Arrears`** option from the left side menu. 
 
 <video src="static/video/Access_Admin_Arrears.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/3.4_My_Arrears_Link.png"/>
 </video>
 
@@ -39,7 +39,7 @@ The Arrears module page is roughly divided into 2 sections:
 Clicking on any one of the items on the Member Arrears List brings up the Arrears dialog with more details for respective member account.
 
 <video src="static/video/Arrears_Dialog.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/3.4_My_Arrears_Link.png"/>
 </video>
 

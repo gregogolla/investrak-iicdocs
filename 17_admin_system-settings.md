@@ -12,7 +12,7 @@ The **`APPLICATION SETTINGS`** module is used to administer the club specific se
 To access the Systems Settings module, click on the navigation menu as follows : `Admin Menu` &#8702;`System` &#8702; `App Settings`.
 
 <video src="static/video/System_settings_Accessing.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/11.1_System_Settings_Menu.png"/>
 </video>
 
@@ -50,7 +50,7 @@ The **`MONTHLY CONTRIBUTIONS`** section enables to administrator to configure th
 ##### SELF SUBMIT SAVINGS 
 
 <video src="static/video/Savings_Self_Submit.mp4" 
-  width="400px" controls autoplay loop>
+  width="400px" controls>
   <img src="static/images/11.2.2_Self_Submit_Button.png"/>
 </video>
 
@@ -62,7 +62,7 @@ If the setting is turned on, the self submit controls will be enabled on the [**
 
 ##### TRACK ARREARS 
 
-<video width="400px" controls autoplay loop 
+<video width="400px" controls 
 	src="static/video/Track_Arrears_Setting.mp4">
   <img src="static/images/11.2.2_Track_Arrears_Button.png"/>
 </video>
@@ -71,7 +71,7 @@ This is a master button to set whether or not the platform will track the invest
 
 ##### EXPECTED CONTRIBUTION DATE RANGES
 
-<video width="400px" controls autoplay loop 
+<video width="400px" controls 
 	src="static/video/Contribution_Date_Ranges.mp4">
   <img src="static/images/11.3_Edit_Date_Range.png.png"/>
 </video>
@@ -149,7 +149,7 @@ Below are the other configurable settings for the [**`LOANS`**](05_user_loans) M
 #### SELF SUBMIT LOAN PAYMENTS
 
 <video src="static/video/Loans_Self_Submit.mp4"
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/11.4.0_Self_Submit_loans.png"/>
 </video>
 <!-- embed:start:app settings -->
@@ -184,11 +184,11 @@ Some clubs charge an application fee and/or insurance fee when a loan is disburs
 
 1. `CHARGE APPLICATION FEE` - If this setting is enabled, the system will charge a loan application fee. 
    
-2. `APPLICATION FEE RATE` -  If the seeting is enabled, use the Text Box to enter the rate (as a percentage of the loan amount) at which the fee will be charged.
+2. `APPLICATION FEE RATE` -  If the `CHARGE APPLICATION FEE` setting is enabled, use the text box to enter the rate (as a percentage of the loan amount) at which the fee will be charged.
 
 3. `CHARGE INSURANCE FEE ` -  If this setting is enabled, the system will charge a loan application fee. 
 
-4. `INSURANCE FEE RATE` -  If the setting is enabled, use the text Box to enter the rate (as a percentage of the loan amount) at which the insurance fee will be charged.
+4. `INSURANCE FEE RATE` -  If the `CHARGE INSURANCE FEE` setting is enabled, use the text box to enter the rate (as a percentage of the loan amount) at which the insurance fee will be charged.
 
 ### LOAN TYPES
 Some clubs may have different types of loans that are offered to members based on different criteria. This section is used to add these different types of loans.

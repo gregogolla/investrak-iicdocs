@@ -10,7 +10,7 @@ To access the Investments module, click on the navigation menu as follows :
  `User Menu` &#8702;`Fund Activity` &#8702;  `Fund Investments`.
 
 <video src="static/video/Fund_Investments.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/7.0_Investments_Banner.png"/>
 </video>
 
@@ -21,7 +21,7 @@ The Investments module landing page will display a list of all investment record
 Use the search bar `Search Investments` to find a particular investment record. Type a either a title or a date or part of the account number in the search field to find what you are looking for.
 
 <video src="static/video/Investments_Search_Filter.mp4" 
-    width="400px" controls autoplay loop>
+    width="400px" controls>
   <img src="static/images/7.3_Investments_Search.png"/>
 </video>
 

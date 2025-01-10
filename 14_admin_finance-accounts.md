@@ -10,7 +10,7 @@ The `Finance Accounts` module is used to record the accounts that fund's transac
 To access the Finance Accounts module, click on the navigation menu as follows : `Admin Menu` &#8702;`Finance` &#8702; `Finance Accounts`.
 
 <video src="static/video/Finance_Accounts_Accessing.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.2_Finance_Account_Page.png"/>
 </video>
 
@@ -21,7 +21,7 @@ To access the Finance Accounts module, click on the navigation menu as follows :
 Use the search bar `Search Finance Account` to find a particular account. Type a description, account code, account title to find a specific record.
 
 <video src="static/video/Finance_Accounts_Searching.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.3_Finance_Account_Search.png"/>
 </video>
 
@@ -34,7 +34,7 @@ Click on the three vertical dot menu on the Finance Accounts page and select the
 The `New Account` dialog page opens up. Use this page to enter a new account.
 
 <video src="static/video/Finance_Accounts_Add_Edit.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/10.5_Add_Finance_Account_Page.png"/>
 </video>
 

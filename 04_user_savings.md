@@ -8,7 +8,7 @@ To access the savings module, click on the navigation menu as follows:
 
 `User Menu` &#8702;`My Activity` &#8702; `Savings`.
 
-<video src="static/video/Access_My_savings.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Access_My_savings.mp4" width="400px" controls>
   <img src="static/images/3.1.1_Savings_Menu.png"/>
 </video>
 
@@ -24,7 +24,7 @@ The savings module page is roughly divided into 3 sections:
 
 Use the search bar `Search Transactions` to find a particular transactions. Type a either a name or a date or part of the memo in the search field to find what you are looking for.
 
-<video src="static/video/Search_Savings.mp4" width="400px" controls autoplay loop>
+<video src="static/video/Search_Savings.mp4" width="400px" controls>
   <img src="static/images/3.1.3_Search_Savings_Page.png"/>
 </video>
 

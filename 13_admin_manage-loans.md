@@ -49,7 +49,7 @@ After a member has submitted a [`loan request`](05_user_loans?id=_53-apply-for-a
 The approval controls are found in the **`APPROVAL DETAILS`** section of the loan record. Follow the step outline in the video below to provide your approval decision.
 
 <video src="static/video/Loan_Approval.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/4.4.3_Apply_Loan_Approval.png"/>
 </video>
 
@@ -64,7 +64,7 @@ The system expects a minimum number of committee members to approve a loan. The 
 After a loan has been marked as approved, the [`TREASURER`](10_admin_member-accounts?id=_1034-treasurer-group) will then mark the loan as **`DISBURSED`**. This indicates that the loan applicant has received the funds and the system can now begin tracking the repayments. The disbursement process will add the various transactions to the loan record. These would include loan disbursal transaction as well as transactions for any of the applied fees/charges (interest, processing fees and/or insurance charges).
 
 <video src="static/video/Loan_Disburse.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/4.4.4_Apply_Loan_Disburse.png"/>
 </video>
 
@@ -80,7 +80,7 @@ After a lona has been disbursed all loan  records (including type, charges and g
 <!-- embed:end:Loan App Bypass -->
 
 <video src="static/video/Loan_Bypass_Workflow.mp4"
-	width="400px" controls autoplay loop>
+	width="400px" controls>
   <img src="static/images/4.4.4_Apply_Loan_Disburse.png"/>
 </video>
 
