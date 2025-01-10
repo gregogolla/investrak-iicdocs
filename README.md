@@ -5,7 +5,7 @@
 ?>This guide provides you an introduction into the InvesTrak Application Platform 
 and helps you navigate through its pages and modules so you understand how it works.
 
-## Introduction
+## INTRODUCTION
 Welcome to InvesTrak Investment Club Platform. This is your Investment Club's Application user guide.
 The InvesTrak application automates the management your investment club.
 
@@ -13,7 +13,7 @@ The InvesTrak application automates the management your investment club.
   <img src="static/images/0.1_Welcome.PNG"/>
 </video>
 
-## How it Works
+## HOW IT WORKS
  InvesTrak is a web based online platform that enables investment club members to 
  access, manage and report on their club's finances at all times. The purpose of the application is as follows:
 
