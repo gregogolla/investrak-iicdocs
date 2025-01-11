@@ -35,7 +35,7 @@ If you are unable to login or you forgot password, you can reset password as sho
 #### **VIDEO**
 Watch the video below to walk through the steps to reset your lost password.
 
-<video src="static/video/Password_Request_Reset.mp4" width="400px" controls>
+<video src="static/video/Password_Request_Reset.mp4" width="80%" controls>
   <img src="static/images/1.3_Lost_password.png" alt="Lost password"/>
 </video>
 
@@ -80,7 +80,7 @@ If you know your password and want to change it proceed as follows.
 #### **VIDEO**
 Watch the video below to walk through the steps to change your password.
 
-<video src="static/video/Change_current_password.mp4" width="90%" controls>
+<video src="static/video/Change_Current_Password.mp4" width="80%" controls>
   <img src="static/images/1.8_Change_password_link.png"/>
 </video>
 
@@ -114,7 +114,7 @@ If this is your first time in the club and your
 #### **VIDEO**
 Fill in the details as shown in the video below.
 
-<video src="static/video/Register_New_Account.mp4" width="90%" controls>
+<video src="static/video/Register_New_Account.mp4" width="80%" controls>
   <img src="static/images/1.11_New_Registration_step_2.png"/>
 </video>
 
