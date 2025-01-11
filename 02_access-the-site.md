@@ -1,14 +1,14 @@
 @autoHeader:2
 # Access The Site
 
-To access the webpage and application, you will need to know the name your club uses on the InveTrak platform.
+To access the platform, you will need to know the name your club uses on the InvesTrak platform.
 
 For example if you club name is demo, the URL will be :
 [https://www.investrak.club/demo](https://www.investrak.club/demo).
 
 Replace the last part of the URL (demo in tihs example) with the name of your investment club
 
-## LOGGIN IN
+## LOG IN PROCESS
 When you get to the InvesTrak Application Platform for the first time, 
 or if you have been idle on the site for a while, 
 you will be redirected to the login page. 
@@ -25,7 +25,7 @@ Enter your credentials and log in as shown below.
 
 
 ## MANAGING YOUR CREDENTIALS
-If you loose you password and you would like to reset it or you just want to change an old password, you can use the steps outlined below.
+If you loose you password and you would like to reset it, or you just want to change an old password, you can use the steps outlined below.
 
 ###	Resetting lost password
 
