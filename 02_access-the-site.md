@@ -21,7 +21,7 @@ Enter your credentials and log in as shown below.
 
 1. Enter your email address or your username
 1. Enter your password
-1. Click on the **`LOGIN IN`** button
+1. Click on the **`LOG IN`** button
 
 
 ## MANAGING YOUR CREDENTIALS
