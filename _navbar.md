@@ -43,7 +43,7 @@
 				<span class="d-inline-flex" 
 					style="font-weight:900">
 					<span class="d-inline-flex" style="padding-right:5px">USER</span>
-					<span class="ml-1 d-inline-flex"> MODULES</span>
+					<span class="ml-1 d-inline-flex d-none d-sm-block"> MODULES</span>
 				</span>
 				<ul>
 					<li>
@@ -99,7 +99,7 @@
 			<li>
 				<span class="d-inline-flex" style="font-weight:900">
 					<span class="d-inline-flex" style="padding-right:5px">ADMIN</span>
-					<span class="ml-1 d-inline-flex"> MODULES</span>
+					<span class="ml-1 d-inline-flex d-none d-sm-block"> MODULES</span>
 				</span>
 				<ul>
 					<li>
