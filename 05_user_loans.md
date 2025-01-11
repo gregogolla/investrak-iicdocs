@@ -1,6 +1,10 @@
 @autoHeader:5
 # Loans Module
+><ins>**NOTE**</ins> \
+>For the **`LOANS`** module to be visible, the system must have the [**`ENABLE LOANS MODULE`**](17_admin_system-settings?id=_1741-enable-loans-module) setting turned on.
+
 The Loans module is used to display and manage the details of loans given to the club members. It manages the workflow for a loan application and approval and also tracks the payments and charges associated with the loan.
+
 
 
 ## ACCESSING LOANS

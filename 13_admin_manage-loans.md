@@ -1,5 +1,9 @@
 @autoHeader:13
 # Manage Loans
+><ins>**NOTE**</ins> \
+>For the **`LOANS`** module to be visible, the system must have the [**`ENABLE LOANS MODULE`**](17_admin_system-settings?id=_1741-enable-loans-module) setting turned on.
+
+
 The **`MANAGE LOANS`** module is an extension of the [**`LOANS`**](05_user_loans.md) module. It is used to perform additional functions like approving and disbursing loans.
 
 ## ACCESSING MANAGING LOANS
