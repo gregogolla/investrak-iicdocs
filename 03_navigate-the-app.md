@@ -1,12 +1,12 @@
 @autoHeader:3
 # Navigating the Application
-The Application is built to allow easy access of all the screens and content using **`NAVIGATION MENU`**, the **`TOP BANNER AREA`**, and the  **`MAIN CONTENT PAGE`**. After successfully logging in, these sections will be displayed.
+The Application design allows easy access of all the pages and content using the **`TOP BANNER AREA`**, the **`NAVIGATION MENU`**,  and the  **`MAIN CONTENT PAGE`**. After a successful log in, these sections will be displayed as shown below.
 
-![alt text](static/images/2.1_App_Overview.png "App Overview :size=400").
+![App Overview](static/images/2.1_App_Overview.png ":size=400").
 
 ## THE TOP BANNER AREA 
-The **`TOP BANNER`** on the screen is available on every page of the application.
-It provides a consistent look and feel to the application as well as a set of links and icons for navigation regardless of what page the user is currently on.
+The **`TOP BANNER AREA`** on the screen is visible from every page within the application. The application has a consistent look and feel as well as a uniform
+set of links and icons for navigation, regardless of what page the member is currently on.
 
 ![Top Banner](static/images/2.1.2_Top_Banner.png ":size=400").
 
@@ -23,15 +23,30 @@ It provides a consistent look and feel to the application as well as a set of li
 
  
 ## THE NAVIGATION MENU
-The navigation menu helps you to intuitively and easily navigate  the applications  through the the different pages and find the relevant content. The menus are grouped into links with similar content - like user related resources (`My Savings` and `My Loans`) vs club related resources (like `Fund Activity` or `Fund Investments`). The groups of menus can be expanded to show the menu links under them or collapsed to reduce clutter.
+The navigation menu facilitates intuitive and seamless navigation between different pages within the application. The menu structure aims to make it easy for users to understand where to find information based on logical groupings and clear labels. 
 
-![alt text](static/images/2.1.3_Nav_Menu.png "Navigation Menu :size=150").
+The menus group links with similar content - like user related resources (**`Savings`** and **`Loans`**) vs club related resources (like **`Documents`**, **`Fund Transactions`** and **`Fund Investments`**). The groups of menus can be expanded to show the menu links under them or collapsed to reduce clutter.
 
-### Member Drop down
-The **`Member Drop-down`** Icon provides the members with access to their profile, ability to reset their password or to log out from the site
+![Navigation Menu](static/images/2.1.3_Nav_Menu.png ":size=400").
 
-### My Profile
-**`MY PROFILE`** page allows an individula club member to view and edit personal details as well as other optional detail that the member's respctive club might keep track of. 
+### Member Drop Down
+The **`Member Drop-down`** menu is a convenient navigation feature that provides members with quick access to essential account-related options. This menu is located near the top-left corner of the interface and is accessible by clicking on the the member's profile picture (or a generic avatar if there is no member profile picture).
+
+  ![Member Drop Down Menu](static/images/2.1.3_Member_Dropdown_Menu.png ":size=200").
+
+Menu options are:
+- **`MY PROFILE`** - This option allows members to view and manage their personal profile information. Upon selection, members are redirected to a dedicated profile page
+
+
+- **`CHANGE PASSWORD`** - This option provides members with the ability to update their account password. Clicking this option navigates to the **`CHANGE PASSWORD`** page.
+
+
+- **`SIGN OUT`** - This option allows members to securely log out of the site. Selecting it terminates the active session and redirects the user to the login page.
+Logging out is especially important when accessing the platform from shared or public devices to prevent unauthorized access to the account.
+
+
+### My Profile page
+**`MY PROFILE`** page allows an individual club member to view and edit personal details as well as other optional detail that the member's respective club might keep track of. 
 
 <video src="static/video/My_Profile.mp4" width="400px" controls>
   <img src="static/images/1.3_My_Profile.png"/>
@@ -72,29 +87,31 @@ The main content area is a dynamic page area that is used to display the data th
 
 ### Home page 
 
-This is the page where the user will usually land when they log-in to the portal. The home page consists of several widgets that provide a summarized overview for the currently logged in user.
+This is the page where the member will usually land when they log-in to the portal. The home page consists of several widgets that provide a summarized overview for the currently logged in member.
 
-![alt text](static/images/2.2_Home_Page.png "Home Page :size=400").
+![Home Page](static/images/2.2_Home_Page.png ":size=400").
 
-#### Fund Summary
+#### FUND SUMMARY
 
 The Fund summary widget displays a summary of fund's overal status - including Cash Position, Outstadning loans etc.
 
-![alt text](static/images/2.3_Home_Page_Fund_Summary.png ":size=400 Home Page Fund Summary") 
+![Fund Summary](static/images/2.3_Home_Page_Fund_Summary.png ":size=400") 
  
-#### My Total Savings
+#### MY TOTAL SAVINGS
 
-The My Total Savings widget displays a summary of all the savings contributions that the currently logged in user has made.
+The **`MY TOTAL SAVINGS`** widget displays a summary of all the savings contributions that the currently logged in member has made.
 
-![alt text](static/images/2.3_Home_Page_My_Savings.png ":size=400 My Total Savings widget") 
+![My Total Savings widget](static/images/2.3_Home_Page_My_Savings.png ":size=400") 
 
-#### My Unpaid loans
-The My Unpaid Loans widget displays a summary of outstanding loans that the users owes
+#### MY UNPAID LOANS
+The **`MY UNPAID LOANS`** widget displays a summary of outstanding loans that the member owes.
 
-![alt text](static/images/2.3_Home_Page_My_Loans.png ":size=400 My Unpaid Loans  widget") 
+![My Unpaid Loans  widget](static/images/2.3_Home_Page_My_Loans.png ":size=400 ") 
 
-#### Recent Transactions
+#### MY TRANSACTIONS
 
-The recent transactions widget displays the savings and loans transactions associated with the currenttly logged in user.
+The **`MY TRANSACTIONS`** widget displays the savings and loans transactions associated with the currenttly logged in member.
 
-![alt text](static/images/2.3_Home_Page_Recent_Transactions.png ":size=400 Recent transactions widget") 
+![Recent transactions widget](static/images/2.3_Home_Page_Recent_Transactions.png ":size=400").
+
+These include all savings contributions, savings trnasfers, savings withdrawals, loans disbursed, loan related charges, loan payments. The transactions are displayed both in graphical and tabular format.
