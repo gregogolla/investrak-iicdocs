@@ -10,7 +10,7 @@ To access the **`SAVINGS MODULE`**, click on the navigation menu as follows:
 
 `User Menu` &#8702;`My Activity` &#8702; `Savings`.
 
-<video src="static/video/Access_My_savings.mp4" width="400px" controls>
+<video src="static/video/Access_My_Savings.mp4" width="400px" controls>
   <img src="static/images/3.1.1_Savings_Menu.png"/>
 </video>
 
