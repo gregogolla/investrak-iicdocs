@@ -1,10 +1,12 @@
 @autoHeader:4
 # SAVINGS MODULE
-The savings module is used to display and track the details of member's savings contributions. 
+The **`SAVINGS MODULE`** is used to display and track the details of member's savings contributions. 
+
+[Savings Desc](static/markdown/savings_desc.md ':include')
 
 ## ACCESSING SAVINGS
 
-To access the savings module, click on the navigation menu as follows:
+To access the **`SAVINGS MODULE`**, click on the navigation menu as follows:
 
 `User Menu` &#8702;`My Activity` &#8702; `Savings`.
 
@@ -12,7 +14,7 @@ To access the savings module, click on the navigation menu as follows:
   <img src="static/images/3.1.1_Savings_Menu.png"/>
 </video>
 
-The savings module page is roughly divided into 3 sections:
+The **`SAVINGS MODULE`** page is roughly divided into 3 sections:
 
 ![Savings Page](static/images/3.1.1_Savings_Page.png ":size=400") 
 
@@ -90,19 +92,19 @@ Follow these steps to make a submission:
 
 1. From the savings page navigate to the **`SELF SUBMITTED SAVINGS`** tab and click on the 3 vertical dots menu.
 
-&nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.1.3.1_self_submit_menu.png "Self Submit Menu :size=400") 
+&nbsp;&nbsp;&nbsp;&nbsp;![Self Submit Menu](static/images/3.1.3.1_self_submit_menu.png ":size=400") 
 
-2. From the expanded menu options select **`+Pay`** to open the Self submit dialog screen.
+1. From the expanded menu options select **`+Pay`** to open the Self submit dialog screen.
 
-&nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.1.3.1_self_submit_pay.png "Self Submit Pay :size=400") 
+&nbsp;&nbsp;&nbsp;&nbsp;![Self Submit Pay](static/images/3.1.3.1_self_submit_pay.png ":size=400") 
 
 3. A `New Payment` dialog opens up. Enter the amount that has been self submitted by the member to the bank. Most of the fields are pre-filled and you can edit them if you like.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.1.3.2_self_submit_new.png "Self Submit New Dialog :size=400").
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Self Submit New Dialog](static/images/3.1.3.2_self_submit_new.png ":size=400").
 
 1. Next, click on the `DOCUMENTS` Tab and upload an image of the bank slip or receipt that shows the bank transaction. This is important to allow the Treasurer to review and reconcile the recorded self submitted payment with the bank statements so that it can be approved.
 
-&nbsp;&nbsp;&nbsp;![alt text](static/images/3.1.3.2_self_submit_doc.png "Self Submit New Dialog :size=400").
+&nbsp;&nbsp;&nbsp;![Self Submit New Dialog](static/images/3.1.3.2_self_submit_doc.png ":size=400").
 
    
 ?>**ADDITIONAL INFO** \
@@ -111,9 +113,9 @@ More details on adding and working with documents can be found on the [**`DOCUME
 
 1. Once the receipt image has been uploaded, click on th **`SUBMIT`** button. A dialog will be displayed to confirm that the self submitted record has been saved. The treasurer will be notified to reveiw and approve.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](static/images/3.1.3.2_self_submit_save.png "Self Submit New Dialog :size=400").
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Self Submit New Dialog](static/images/3.1.3.2_self_submit_save.png ":size=400").
 
 ?>**ADDITIONAL INFO** \
 If more clarification is required after the record has been submitted both the Treasurer and the member can use the `COMMENTS` Tab of the record to provided additional information.
 
-![alt text](static/images/3.1.3.2_self_submit_comment.png "Self Submit New Dialog :size=400").
+![Self Submit New Dialog](static/images/3.1.3.2_self_submit_comment.png ":size=400").

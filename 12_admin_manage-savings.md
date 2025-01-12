@@ -1,7 +1,9 @@
 @autoHeader:12
 # Manage Savings
 
-Savings contributions is the primary way that the Investment club accrues money for investments. The **`MANAGE SAVINGS`** module provides the Treasurer with the ability to be able to administer members' savings contributions.
+[Savings Desc](static/markdown/savings_desc.md ':include')
+
+ The **`MANAGE SAVINGS`** module is an extension of the [**`SAVINGS MODULE`**](04_user_savings). It provides the [`TREASURER`](10_admin_member-accounts?id=_1034-treasurer-group) with the  controls to administer members' savings contributions.
 
 ## ACCESSING MANAGE SAVINGS
 ><ins>**NOTE**</ins>\
