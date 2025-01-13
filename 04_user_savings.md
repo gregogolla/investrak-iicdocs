@@ -1,14 +1,14 @@
 @autoHeader:4
 # SAVINGS MODULE
-The **`SAVINGS MODULE`** is used to display and track the details of member's savings contributions. 
+
 
 [Savings Desc](static/markdown/savings_desc.md ':include')
 
 ## ACCESSING SAVINGS
 
-To access the **`SAVINGS MODULE`**, click on the navigation menu as follows:
+Access to the **`SAVINGS MODULE`** is possible through the [**`NAVIGATION MENU`**](03_navigate-the-app?id=_32-the-navigation-menu) as follows:
 
-`User Menu` &#8702;`My Activity` &#8702; `Savings`.
+Click the link : `User Menu` &#8702;`My Activity` &#8702; `Savings`.
 
 <video src="static/video/Access_My_Savings.mp4" width="400px" controls>
   <img src="static/images/3.1.1_Savings_Menu.png"/>

@@ -1,33 +1,25 @@
 @autoHeader:5
 # Loans Module
-><ins>**NOTE**</ins> \
->For the **`LOANS`** module to be visible, the system must have the [**`ENABLE LOANS MODULE`**](17_admin_system-settings?id=_1741-enable-loans-module) setting turned on.
 
-The Loans module is used to display and manage the details of loans given to the club members. It manages the workflow for a loan application and approval and also tracks the payments and charges associated with the loan.
-
-
+[Loans Desc](static/markdown/loans_desc.md ':include')
 
 ## ACCESSING LOANS
 
-To access the loans module, click on the navigation menu as follows : `User Menu` &#8702;`My Activity` &#8702;  `Loans`.
+To access the loans module, click on the [**`NAVIGATION MENU`**](03_navigate-the-app?id=_32-the-navigation-menu) as follows : `User Menu` &#8702;`My Activity` &#8702;  `Loans`.
 
 <video src="static/video/Access_My_Loans.mp4" width="400px" controls>
   <img src="static/images/4.1_Loans_Menu.png"/>
 </video>
 
+The landing page of the **`LOANS MODULE`** displays the list of individual loan applications submitted by the club member. The page also has a search bar to search for  loans by free text and filter to list loans by status. 
 
-The landing page of the Loans module page displays the list of individual loan applications submitted by the club member. The page also has a search bar to search for  loans by free text and filter to list loans by status. 
-
-<!-- <p align="center">
-    <img src="static/images/4.2_Loans_Page.png" alt="Loans Page">
-</p> -->
-![alt text](static/images/4.2_Loans_Page.png "Loans Page :size=400").
+![Loans Page](static/images/4.2_Loans_Page.png ":size=400").
 
 The landing page also displays various summaries for the loans taken by the club member.
 
 ## SEARCH LOAN RECORDS
 
-Use the search bar `Search loans` to find a particular loan record. Type a either a name or a date or amount or part of the memo in the search field to find a specific loan
+Use the search bar `Search Loans` to find a particular loan record. Type a either a name or a date or amount or part of the memo in the search field to find a specific loan.
 
 <video src="static/video/Search_Loans.mp4" width="400px" controls>
   <img src="static/images/4.3_Search_Loans_Page.png"/>
@@ -60,20 +52,20 @@ The `Apply Loan` dialog page opens up. Use this dialog to apply for a new loan.
 #### **Loan Type**
 If your club has different types of loans, select the one that is most suitable for you
 
-![alt text](static/images/4.4.1_Apply_Loan_Type.png "Loans Types List :size=400").
+![Loans Types List](static/images/4.4.1_Apply_Loan_Type.png ":size=400").
 
 
 #### **Loan Limit**
 Click on the links to confirm what you can borrow
 
-![alt text](static/images/4.4.2.0_Apply_Loan_Limit.png "Loans Limit Screen :size=400").
+![Loans Limit Screen](static/images/4.4.2.0_Apply_Loan_Limit.png " :size=400").
 
 
 #### **Loan Guarantor**
 If you need to borrow more than your loan limit allows, you can add another member as your Guarantor.
 
 
-![alt text](static/images/4.4.2.2_Apply_Loan_Guarantor.png "Loan Guarantor :size=400").
+![Loan Guarantor](static/images/4.4.2.2_Apply_Loan_Guarantor.png ":size=400").
 
 
 #### **Loan submit**
@@ -95,7 +87,7 @@ You will receive a notification that your loan has been submitted.
 <!-- tabs:end -->
 
 ### Loan Guarantee
-If you guaranteed any loans they will appear under `My Guarantee Requests` tab. Aditionally you will also have received an email with the details and link to open the guarantee record.
+Guaranteeing a loan is a way of increasing a members borrowing limit by leveraging the  borrowing capacity of another member, who becomes the guarantor. If you are a guarantor of any loans they will appear under `My Guarantee Requests` tab. Aditionally you will also have received an email with the details and link to open the guarantee record.
 
 Click on the loan guarantee request to open up the dialog. Use the dialog to reveiw the details of the guarantee request. After confirming the guarantee amount, your loan borrowing limit accept or decline the request.
 
