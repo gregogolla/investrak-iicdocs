@@ -19,15 +19,15 @@ The landing page also displays various summaries for the loans taken by the club
 
 ## SEARCH LOAN RECORDS
 
-Use the search bar `Search Loans` to find a particular loan record. Type a either a name or a date or amount or part of the memo in the search field to find a specific loan.
+Use the search bar `Search Loans` to find a particular loan record. 
+Type a either a name or a date or amount or part of the memo in the 
+search field to find a specific loan.
 
-<video src="static/video/Search_Loans.mp4" width="400px" controls>
-  <img src="static/images/4.3_Search_Loans_Page.png"/>
-</video>
+You can also filter the loans by status. Filtering is a useful way 
+to display only the loan records that you want based on the current 
+status of the loan.
 
-You can also filter the loans by status. Filtering is a useful way to display only the loan records that you want based on the current status of the loan.
-
-<video src="static/video/Filter_My_Loans.mp4" width="400px" controls>
+<video src="static/video/Loan_Search_Filter.mp4" width="400px" controls>
   <img src="static/images/4.3.2_Filter_Loans.png"/>
 </video>
 
